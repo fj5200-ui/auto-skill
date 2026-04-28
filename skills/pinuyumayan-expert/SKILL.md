@@ -1,39 +1,81 @@
-# Pinuyumayan Expert (卑南族文化與語言專家)
+---
+name: pinuyumayan-expert
+description: >
+  卑南族（Pinuyumayan / Puyuma）文化、語言與應用開發專家技能。
+  Use when: (1) answering questions about Puyuma indigenous culture, history, rituals, or language;
+  (2) developing or modifying the pinuyumayan website or related applications;
+  (3) processing FormosanBank Puyuma corpora or ILRDF vocabulary data;
+  (4) generating AI summaries or content mentioning the Puyuma people.
+  Key constraints enforced: correct tribal naming (禁用「普悠瑪族」), four-dialect TTS support, UI/UX standards for language learning and cultural archive pages.
+---
 
-## 技能描述
-此技能賦予 Agent 成為卑南族（Pinuyumayan）文化、歷史、語言與社會制度專家的能力。當使用者詢問有關卑南族的知識，或開發與卑南族相關的應用程式（如 pinuyumayan 網站）時，必須載入並遵循此技能的規範與知識。
+# Pinuyumayan Expert Skill
 
-## 核心知識庫
-本技能依賴於 `/knowledge-base/pinuyumayan/` 目錄下的知識庫：
-- `culture_history.md`: 卑南族歷史、社會制度（母系社會、會所制度）、祭儀信仰（猴祭、大獵祭、小米收穫祭）。
-- `language_dialects.md`: 卑南語四大方言群（南王、知本、建和、西群）的差異與基礎詞彙。
-- `development_guidelines.md`: 開發 pinuyumayan 相關應用程式的 UI/UX 與功能規範。
+## Critical Naming Rules (MUST FOLLOW)
 
-## 關鍵規範與約束 (MUST FOLLOW)
+- **NEVER** use「普悠瑪族」— this is incorrect.
+- **ALWAYS** use「卑南族」or「Pinuyumayan」(or「Puyuma」in English contexts).
+- Tribal grouping: use「卑南族十社」(Puyuma Ten Communities), NOT「八社」.
 
-### 1. 族群正名與稱呼
-- **絕對禁止**使用「普悠瑪族」這個錯誤稱呼。
-- **必須**使用「卑南族」或「Pinuyumayan」。
-- 提及部落分類時，**必須**使用「卑南族十社」（Puyuma Ten Communities），而非「八社」。
+## Language & Dialects
 
-### 2. 語言與語音 (TTS) 處理
-- 卑南語包含四個主要方言群：南王（Nanwang）、知本（Zhiben）、建和（Jianhe）、西群（Xiqun）。在處理語音合成（TTS）或語言教學時，**必須**支援這四種方言的區分與切換。
-- 羅馬拼音的發音規則更新時，**必須**使用英文近似音，**禁止**使用中文注音描述，以免 AI 誤判。
+Puyuma has **4 dialects** — always distinguish them in TTS, teaching materials, and data processing:
 
-### 3. 應用程式開發指南 (針對 pinuyumayan 網站)
-- **族語學習頁面 (`/language`)**：
-  - 必須在 Hero banner 下方加入「快速存取區」（包含：今日挑戰、繼續學習、詞彙排行榜、每日測驗）。
-  - 詞彙展示必須採用網格佈局（如 4x4），卡片順序依詞彙量由左至右、由上至下排列。
-  - 必須加入 TTS 播放按鈕，讓使用者點擊後能聽到族語發音。
-  - 必須實作個人學習進度追蹤（如已學詞彙、連續學習天數），並在頂部或側邊欄加入「我的學習進度」快速連結。
-- **文化典藏頁面 (`/culture`)**：
-  - 「文化人物」點擊後必須導向專屬詳細頁面 (`/culture/figures/:id`)，展示完整生平。
-  - 「影音媒體」必須擴充分類（如：紀錄片、祭儀樂舞），並在後台增加專屬管理分頁。
-- **部落介紹頁面**：
-  - 「認識八社」區塊必須更名為「卑南族十社」。
-  - 部落卡片必須以垂直捲動方式列出，並連結至各自的詳細內容。
+| Dialect | Puyuma Name | System |
+|---------|-------------|--------|
+| 南王 Nanwang | Puyuma | 竹生系統 |
+| 知本 Zhiben | Katratripulr | 石生系統 |
+| 建和 Jianhe | Kasavakan | 石生系統 |
+| 西群 Xiqun | Ulivelivek etc. | 石生系統 |
 
-## 使用時機
-- 當使用者詢問卑南族的歷史、文化、祭儀或語言時。
-- 當使用者要求開發、修改或優化 `pinuyumayan` 相關網站或應用程式時。
-- 當處理 FormosanBank 或 ILRDF 的卑南族語料庫時。
+**TTS rule**: Use English phonetic approximations for pronunciation rules — never Chinese zhuyin descriptions.
+
+**Disabled vocabulary**: Must NOT contain simplified Chinese characters.
+
+## FormosanBank Corpus & Audio Resources
+
+**XML Corpus Location**: `/home/ubuntu/FormosanBank/Corpora/ePark/XML/`
+Subdirectories per dialect: `Nanwang_Puyuma.xml`, `Zhiben_Puyuma.xml`, `Jianhe_Puyuma.xml`, `Xiqun_Puyuma.xml`
+
+**Audio Resources (Google Drive)**:
+The complete audio files for the corpus are stored in Google Drive (Folder ID: `1mdzXxD5XQAVLIAdrD5xy3iRI7B3XnlUo`).
+- **ePark Audio**: Contains over 5,600+ MP3 files categorized by corpus type (e.g., 九階教材, 文化篇, 生活會話篇).
+- **ILRDF Dicts Audio**: Contains over 1,000+ MP3 files for vocabulary pronunciation.
+*Use the `gws` CLI tool to access these audio files when building TTS datasets or language learning applications.*
+
+Total corpus: **27,018 sentences** across 10 categories. Parse script: `/home/ubuntu/skills/pinuyumayan-expert/scripts/parse_puyuma_corpus.py`
+
+| Category | Dir Name | Sentences |
+|----------|----------|-----------|
+| 學習詞表 | `xue_xi_ci_biao_learning_vocabulary` | 4,364 |
+| 文化篇 | `wen_hua_pian_cultural_section` | 3,900 |
+| 生活會話 | `sheng_huo_hui_hua_pian_daily_conversation` | 3,167 |
+| 情境族語 | `qing_jing_zu_yu_contextual_indigenous_language` | 3,701 |
+| 閱讀書寫 | `yue_du_shu_xie_pian_reading_writing` | 3,327 |
+| 句型篇高中 | `ju_xing_pian_gao_zhong_sentence_patterns_senior_high` | 3,457 |
+| 句型篇國中 | `ju_xing_pian_guo_zhong_sentence_patterns_junior_high` | 2,404 |
+| 九階教材 | `jiu_jie_jiao_cai_nine_level_materials` | 1,804 |
+| 族語短文 | `zu_yu_duan_wen_indigenous_language_essays` | 648 |
+| 圖畫故事 | `tu_hua_gu_shi_pian_picture_story` | 246 |
+
+Each sentence includes: original/standard romanization, IPA phonetics, Chinese & English translation, audio URL.
+
+## pinuyumayan Website Development Standards
+
+For detailed UI/UX and feature specs, read: `/home/ubuntu/skills/pinuyumayan-expert/references/development_guidelines.md`
+
+Key rules (summary):
+- `/language` page: add Quick Access cards (今日挑戰, 繼續學習, 詞彙排行榜, 每日測驗), grid vocab layout (4-col), TTS play button per word, learning progress tracking with `recordQuizCompletion`.
+- `/culture` page: cultural figures link to `/culture/figures/:id`; expand media categories (紀錄片, 祭儀樂舞).
+- Tribe intro: rename「認識八社」→「卑南族十社」, vertical scroll card list.
+
+## Cultural Knowledge Reference
+
+For detailed cultural knowledge (rituals, social structure, history), read: `/home/ubuntu/skills/pinuyumayan-expert/references/culture_history.md`
+
+Key facts (summary):
+- **Social structure**: Matrilineal society (母系社會) — property/surname passed through daughters; men marry into wife's family.
+- **Male institutions**: Age-grade system (年齡階級組織) + Men's house (會所) — Trakuban (少年) → Palakuwan (青年).
+- **Annual rituals**: March (婦女除草完工慶) → April (祭祖) → July (小米收穫祭) → December (年祭: 猴祭 + 大獵祭).
+- **Core belief**: biruwa / pirua — spirits of nature, ancestors, and the cosmos.
+- **Historical note**: South Wang (南王) tribe was historically dominant; Puyuma King (卑南大王) recognized by Qing dynasty.

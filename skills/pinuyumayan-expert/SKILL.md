@@ -37,11 +37,21 @@ Puyuma has **4 dialects** — always distinguish them in TTS, teaching materials
 **XML Corpus Location**: `/home/ubuntu/FormosanBank/Corpora/ePark/XML/`
 Subdirectories per dialect: `Nanwang_Puyuma.xml`, `Zhiben_Puyuma.xml`, `Jianhe_Puyuma.xml`, `Xiqun_Puyuma.xml`
 
-**Audio Resources (Google Drive)**:
-The complete audio files for the corpus are stored in Google Drive (Folder ID: `1mdzXxD5XQAVLIAdrD5xy3iRI7B3XnlUo`).
-- **ePark Audio**: Contains over 5,600+ MP3 files categorized by corpus type (e.g., 九階教材, 文化篇, 生活會話篇).
-- **ILRDF Dicts Audio**: Contains over 1,000+ MP3 files for vocabulary pronunciation.
-*Use the `gws` CLI tool to access these audio files when building TTS datasets or language learning applications.*
+**Audio Resources (Google Drive)** — ✅ VERIFIED: All 6,648 files confirmed as Puyuma-only (0 non-Puyuma files):
+Root Folder ID: `1mdzXxD5XQAVLIAdrD5xy3iRI7B3XnlUo`
+
+| Category | Drive Folder ID | Nanwang | Zhiben | Jianhe | Xiqun | Total |
+|----------|----------------|---------|--------|--------|-------|-------|
+| ep1_九階教材 | `1_Tq3vumPRAOPvIxZPHfBsQ3O9SVufH0d` | 0 | 0 | 1,000 | 0 | 1,000 |
+| ep2_文化篇 | `1U8yvI1jaLRAlE9nJZoxOI_YnpXP3SKw7` | 0 | 0 | 777 | 223 | 1,000 |
+| ep2_生活會話篇 | `1vKRsHvyprVDfAjBX057OvCnjDwU3FzRS` | 0 | 0 | 754 | 246 | 1,000 |
+| ep2_情境族語 | `1HdsHtjsKRMdS6N7GWgIixfG_VUnV-8_X` | 0 | 0 | 906 | 94 | 1,000 |
+| ep2_閱讀書寫篇 | `1HJbFL8y6ZjdI0Vc3MbXFm9X32MJqkMb9` | 0 | 0 | 689 | 311 | 1,000 |
+| ep2_族語短文 | `1BwBcThAEAVQrOqjHlLDycgsM0b5LCAzV` | 162 | 162 | 162 | 162 | 648 |
+| ILRDF_字典 | `1o_iEc2dbet-cENHLjv86R_b67M0TlakZ` | — | — | — | — | 1,000 |
+| **合計** | | **162** | **162** | **4,288** | **1,036** | **6,648** |
+
+*Note: ILRDF audio files are named `Puyuma_XXXX.mp3` without dialect prefix. Use `gws` CLI to access.*
 
 Total corpus: **27,018 sentences** across 10 categories. Parse script: `/home/ubuntu/skills/pinuyumayan-expert/scripts/parse_puyuma_corpus.py`
 

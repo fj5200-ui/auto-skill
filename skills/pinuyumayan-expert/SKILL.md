@@ -79,6 +79,17 @@ Key rules (summary):
 - `/culture` page: cultural figures link to `/culture/figures/:id`; expand media categories (紀錄片, 祭儀樂舞).
 - Tribe intro: rename「認識八社」→「卑南族十社」, vertical scroll card list.
 
+### Language Learning App Specifications
+- **Gamification**: Implement milestone badges for consecutive learning days and vocabulary completion.
+- **Quiz System**: Support CSV/PDF export for quiz results, customizable notification times, and batch deletion in the admin backend.
+- **Vector Search**: Implement pgvector Hybrid Search for vocabulary and articles, with a daily automatic incremental update schedule.
+- **Personalization**: Display recommended articles and vocabulary on the homepage based on user browsing history.
+
+### API Development Guidelines
+- **TTS API**: Must support `dialect` parameter (Nanwang, Zhiben, Jianhe, Xiqun). Include a scheduled task (e.g., 3:00 AM) to pre-heat uncached vocabulary.
+- **Vocabulary API**: Serve structured JSON data from `/home/ubuntu/puyuma_vocab_index.json` (17,584 sentences, 7,073 dictionary entries).
+- **Subscription API**: Integrate ECPay for premium content (e.g., full language courses, audio downloads). Implement a webhook for payment verification and an automated daily cron job to downgrade expired subscriptions.
+
 ## Cultural Knowledge Reference
 
 For detailed cultural knowledge (rituals, social structure, history), read: `/home/ubuntu/skills/pinuyumayan-expert/references/culture_history.md`
@@ -220,145 +231,50 @@ Key facts (summary):
 - **月桃編織**：採集月桃莖，經曝曬、剝絲、揉捻後，編織成草蓆（ruma）、置物簍等。
 - **十字繡**：南王部落特色，圖案多為菱形（祖靈之眼）、花草紋，色彩以紅、黃、綠為主，象徵生命與自然。
 
-## Academic Research & Literature (學術研究文獻)
+## Ancestral Shrines & Leadership (祖靈屋與頭目制度)
 
-- **移川子之藏、宮本延人、馬淵東一**：合著《臺灣高砂族系統所屬之研究》（1935/1936），對卑南族神話、部落系統與社會結構有基礎分類，記錄了知本部落口傳歷史，指出祖靈屋（karuma(H)an）是卑南族顯著特徵。
-- **宋龍生**：著有《卑南族的社會與文化》、《台灣原住民史：卑南族史篇》，是當代卑南族研究的重要文獻。
-- **陳文德**：研究卑南族年齡階級與會所制度，著有《卑南族》（三民書局）。
-- **林志興**：南王部落出身，著有《南王部落史》，記錄南王部落詳細歷史。
-- **孫大川**：卑南族知識分子，著有《夾縫中的族群建構》，推動「卑南學」學術研究。
-- **Teng, Stacy Fang-Ching**：著有 *A Reference Grammar of Puyuma*（2008），是卑南語文法的重要學術參考書。
+- **祖靈屋 (karuma'an)**：卑南族傳統社會的核心信仰與祭祀空間，通常由各氏族或家族的長女（或女性長輩）負責管理。祖靈屋內供奉著家族的祖靈（biruwa），是舉行重要祭儀（如收穫祭、年祭）時的祭祀中心。各部落的祖靈屋在建築形式與祭祀細節上略有差異，但皆嚴格遵守禁忌，非家族成員或未經允許者不得隨意進入。
+- **頭目制度 (ayawan)**：卑南族的頭目制度在歷史上曾發展出強大的酋邦體系（如卑南大王）。傳統上，頭目（ayawan）通常由特定家族世襲，負責統籌部落公共事務、對外談判及主持大型祭典。頭目的權威建立在血緣、財富、個人能力及宗教神聖性上。現代社會中，頭目雖失去實質政治權力，但仍是部落文化傳承與精神凝聚的象徵。
 
-## Nanwang Tribe History (南王部落詳細歷史)
+## Divination & Taboos (占卜與禁忌)
 
-**CONFIRMED PUYUMA**: 以下資料均確屬南王（Puyuma）部落。
+- **占卜系統**：卑南族傳統占卜主要用於預測吉凶、決定祭典日期或尋找失物。常見方式包括：
+  - **夢占**：透過祭司或當事人的夢境解析吉凶，如夢見清澈溪水為吉，夢見濁水或落齒為凶。
+  - **鳥占**：觀察特定鳥類（如繡眼畫眉）的飛行方向與叫聲來判斷吉凶。
+  - **竹占**：巫師利用竹片加熱後的裂紋來解讀神意。
+- **禁忌 (taboo)**：卑南族生活中有嚴格的禁忌規範，如狩獵前禁止與妻子同房、禁止食用特定食物；喪葬期間家屬需遵守嚴格的飲食與行為限制；女性在生理期或懷孕期間不得參與某些祭典或接觸獵具。
 
-- **地名由來**：「Puyuma」有三種解釋：(1) 「獲得貢物的最高位原住民」（尊號）；(2) 「都城」之意；(3) 「集中、團結」之意（源自六個家族集中會所的行動）。
-- **日治時期**：1974 年南王村由卑南鄉劃入臺東市轄區，改設里級行政單位。
-- **人口**：現有約 3,217 人（2025年），戶數 1,368 戶，面積 44.967 平方公里。
-- **音樂傳奇**：南王部落人口僅一千多人，卻擁有十餘座金曲獎座，以及陳建年、紀曉君、昊恩與家家、南王姊妹花等金曲歌手，被稱為「金曲村」。
-- **民生康樂隊**：南王部落的民生康樂隊是原住民歌手灌錄唱片的先聲，促成了原住民歌謠與唱片工業接軌。
-- **南王天主堂**：陸森寶為天主堂創作卑南族語聖歌，使天主堂成為南王部落的心靈繫所與文化新鄉。
+## Traditional Medicine & Shamanism (傳統醫療與巫醫)
 
-## Inter-tribal Political Relations (部落間政治關係)
+- **巫醫儀式**：卑南族的傳統醫療高度依賴巫師（女巫 palama 與男巫）。疾病常被視為靈魂失落、惡靈作祟或觸犯禁忌的結果。巫師透過 Ya'ulas（召喚巫靈）儀式，使用檳榔、琉璃珠等法器進行診斷與驅邪。
+- **藥草使用**：除了巫術治療，卑南族也擁有豐富的植物知識。例如使用長行天南星治療腫傷，廣葉鋸齒雙蓋蕨 (pa'at) 減緩腹瀉，棕葉狗尾草 (dalina) 止血消炎，大葉楠 (lrahu) 解熱退燒。
 
-**CONFIRMED PUYUMA**: 以下資料均確屬卑南族部落間關係。
+## Clothing Crafts & Dyeing (服飾工藝與染色)
 
-- **卑南王酋邦體系**：卑南王在 17 世紀以前便已是東部地區的強盛民族，影響力北達花蓮玉里、南至屏東恆春，領導多達 72 個部落，形成跨部落的酋邦體系。
-- **知本與南王的關係**：傳說中，知本部落青年 paunyn 至卑南社請求講和，卑南社長老 sapayan 收其為義子，從此知本系六個部落與卑南社同稱「puyuma」，建立了跨系統的族群認同。
-- **與漢人的互動**：清朝乾隆年間，卑南王獲封「卑南王」稱號，清廷透過卑南王間接管理後山地區。1888 年大庄事件後，清廷加強直接統治。
-- **日治時期的部落政治**：日本殖民政府透過「蕃社行政」管理卑南族，利用既有的頭目制度，同時推行皇民化政策，削弱傳統政治結構。
+- **紡織技術**：傳統使用水平背帶織布機（機杼）進行織布，材料多來自苧麻。
+- **染色技術**：使用天然植物染料，如薯榔（染紅褐色）、九芎（染黑色）、泥土（媒染劑）。
+- **刺繡工藝**：南王部落以精美的十字繡聞名，常見圖案包括菱形（象徵祖靈之眼）、花草紋及人形紋。服飾的色彩與圖案不僅是裝飾，更代表年齡階級與社會地位。
 
-## Traditional Agriculture Details (傳統農業詳細知識)
+## Japanese Colonial Period (日治時期歷史)
 
-**CONFIRMED PUYUMA**: 以下資料均確屬卑南族農業文化，已排除阿美族、排灣族農業資料。
+- **高砂義勇隊**：太平洋戰爭期間，部分卑南族人被徵召加入高砂義勇隊，如初鹿社頭目馬智禮的族人，參與南洋叢林戰。
+- **皇民化運動**：日治後期的皇民化運動對卑南族文化造成衝擊，推行國語（日語）家庭、改日本名、神社參拜等政策，導致傳統祭儀與母語傳承受到壓抑。
+- **青年團制度**：日本政府將卑南族傳統的年齡階級與會所制度（Palakuwan）改造為「青年團」，以利於殖民統治與動員。
 
-- **小米品種分類**：卑南族對小米品種的區分主要基於「糯性」與「梗性」兩種特性，依消費者喜好選擇種植。
-- **種植時間表**：
-  - 2 月：整地、燒墾
-  - 3 月：播種（婦女除草完工慶在此前後舉行）
-  - 7 月：收穫（小米收穫祭）
-  - 10-11 月：旱稻收穫
-- **農業禁忌**：播種前需進行夢占，若夢境不吉則延後播種；收穫前不得大聲喧嘩；小米入倉前需進行感謝祭。
-- **小米酒釀造**：以糯小米為原料，加入酒麴（以特定植物製成）發酵，釀造期約 7-10 天，用於祭典與待客。
-- **農具名稱（卑南語）**：鋤頭 (sungcung)、鐮刀 (sungal)、播種棒 (padrep)。
+## Language Revitalization (語言復振運動)
 
-## Baliwakes Song List (陸森寶歌曲清單)
+- **族語教育**：面對卑南語瀕危的困境，部落積極推動語言復振。如設立「花環部落學校」與「南王 Puyuma 花環實驗小學」，將族語融入正規教育。
+- **數位化工具**：原住民族語言研究發展基金會（ILRDF）建置「族語E樂園」與線上辭典，提供豐富的數位學習資源。
+- **族語認證**：推動族語能力認證考試，鼓勵年輕一代學習並使用母語。
 
-**CONFIRMED PUYUMA**: 陸森寶（Baliwakes Raera, 1910-1988）為南王部落卑南族人，以下均為其確認創作的卑南語歌曲。
+## Katratripulr & Kasavakan (知本與建和部落)
 
-陸森寶一生創作近 70 首歌謠，以下為代表性作品：
-
-| 歌名 | 創作年代 | 主題 |  
-|------|---------|------|
-| 《美麗的稻穗》(Mivurung) | 1940年代 | 農業豐收、族群情感 |
-| 《懷念年祭》(Mangayaw) | 1950年代 | 大獵祭、族人思念 |
-| 《卑南王》 | 1960年代 | 歷史英雄、族群尊嚴 |
-| 《海祭》 | 1960年代 | 小米收穫祭、海洋信仰 |
-| 《天主頌》 | 1960年代 | 天主教聖歌（卑南語版） |
-| 《思念》 | 1970年代 | 離鄉遊子的思鄉之情 |
-| 《婦女除草完工歌》 | 1970年代 | 婦女農耕文化 |
-
-*陸森寶的音樂特色：將西方五線譜記譜法引入卑南族傳統古調，保存了原本口耳相傳的歌謠；其作品後由陳建年、紀曉君等後輩傳唱，成為卑南族文化的重要象徵。*
-
-## Modern Artists (現代藝術家)
-
-**CONFIRMED PUYUMA**: 以下藝術家均確認為卑南族人。
-
-| 姓名 | 部落 | 藝術形式 | 代表作品 |
-|------|------|---------|----------|
-| **哈古（陳文生）** | 建和部落 | 木雕（tu'tu'） | 立體圓雕作品，題材源於祖靈傳說、祭儀及部落生活敘事，以樟木為材 |
-| **巴代（林二郎）** | 初鹿部落 | 文學（小說） | 《笛鸛》、《走過》等，以卑南族歷史與文化為題材 |
-| **瑪籟．瑪卡卡如萬** | 知本部落 | 裝置藝術 | 《石板的臍帶》（以卑南族檳榔文化為語言，結合羊毛氈創作） |
-| **陳冠年** | 南王部落 | 油畫 | 以卑南族祭儀與自然景觀為題材 |
+- **知本部落 (Katratripulr)**：位於臺東市知本里，屬石生系統。擁有保存完整的少年會所（Trakuban）與青年會所（Palakuwan）。孕育出張惠妹、桑布伊等知名音樂人。
+- **建和部落 (Kasavakan)**：位於臺東市建和里，亦屬石生系統。以七月的小米收穫祭（kemaderunan）與年底的年祭（'amiyan）聞名。部落內有精美的木雕藝術與傳統家屋重建。
 
 ## Academic Research & Literature (學術研究文獻)
 
-- **移川子之藏、宮本延人、馬淵東一**：合著《臺灣高砂族系統所屬之研究》（1935/1936），對卑南族神話、部落系統與社會結構有基礎分類，記錄了知本部落口傳歷史，指出祖靈屋（karuma(H)an）是卑南族顯著特徵。
+- **移川子之藏**：日治時期學者，著有《台灣高砂族系統所屬之研究》，對卑南族神話與部落系統有基礎分類。
+- **馬淵東一**：深入研究卑南族母系社會結構與親屬制度。
 - **宋龍生**：著有《卑南族的社會與文化》、《台灣原住民史：卑南族史篇》，是當代卑南族研究的重要文獻。
-- **陳文德**：研究卑南族年齡階級與會所制度，著有《卑南族》（三民書局）。
-- **林志興**：南王部落出身，著有《南王部落史》，記錄南王部落詳細歷史。
-- **孫大川**：卑南族知識分子，著有《夾縫中的族群建構》，推動「卑南學」學術研究。
-- **Teng, Stacy Fang-Ching**：著有 *A Reference Grammar of Puyuma*（2008），是卑南語文法的重要學術參考書。
-
-## Annual Calendar & Seasonal Rituals (歲時祭儀農曆)
-
-**CONFIRMED PUYUMA**: 以下均為卑南族傳統歲時農曆。
-
-| 月份 | 活動名稱 | 卑南語名 | 內容 |
-|------|---------|---------|------|
-| 1-2 月 | 整地、燒墾 | — | 準備新一年農耕 |
-| 3 月 | 播種祭 | Paliraw | 小米播種前祭祖靈，祭司小米女神 |
-| 3-4 月 | 婦女除草完工慶 | Muakai | 婦女除草完工後的慶祝，小米祭儀系列 |
-| 7 月 | 小米收穫祭 | Mivurung | 收穫感謝祭、歌謠歌舞 |
-| 8 月 | 祖靈祭 | Palakuwan | 各家族祭祖靈屋 |
-| 12 月上旬 | 猴祭（Vasivas） | Vasivas | 少年成年禮，少年射糯米僳訓練 |
-| 12 月下旬 | 大獵祭（Mangayau） | Mangayau | 青年男子狩獵祭儀，除舊佈新 |
-
-*年祭（猴祭+大獵祭）是卑南族最重要的年度祭典，完整周期約兩週，小米收穫祭則是小米文化的核心。*
-
-## Phonology Rules (語音規則詳述)
-
-**CONFIRMED PUYUMA**: 以下為卑南語官方羅馬拼音與音韻規則。
-
-### 母音（4個）
-
-| 羅馬拼音 | 發音描述（英文近似音） | 例詞 |
-|---------|--------------|------|
-| a | like "a" in "father" | ama（爸爸） |
-| i | like "ee" in "see" | ina（媽媽） |
-| u | like "oo" in "moon" | udung（嘴巴） |
-| e | like "e" in "bed" | 僅出現於少數詞彙 |
-
-### 子音（20個）
-
-| 羅馬拼音 | 發音描述 | 例詞 |
-|---------|---------|------|
-| p | like "p" in "pen" | palama（女巫） |
-| t | like "t" in "top" | trakuban（少年會所） |
-| k | like "k" in "key" | kawi（樹木） |
-| ' (glottal stop) | like the pause in "uh-oh" | canguru'（頭） |
-| b | like "b" in "boy" | biruwa（靈魂） |
-| d | like "d" in "dog" | danum（水，建和方言） |
-| m | like "m" in "man" | maca（眼睛，建和方言） |
-| n | like "n" in "no" | nanema（六） |
-| ng | like "ng" in "sing" | — |
-| l | like "l" in "love" | lima（手） |
-| r | rolled/trilled, like Spanish "r" | ruma（家屋） |
-| lr | retroflex lateral, unique to Puyuma | lriyung（豬） |
-| s | like "s" in "sun" | senay（歌謠） |
-| c | like "ts" in "cats" | canguru'（頭） |
-| tr | retroflex, like "tr" in "tree" | trakuban |
-| dr | retroflex, like "dr" in "dream" | — |
-| v | like "v" in "vine" | vulan（月亮，建和方言） |
-| w | like "w" in "water" | walu（八） |
-| y | like "y" in "yes" | — |
-| h | like "h" in "hat" | — |
-
-**方言子音差異重點**：建和方言（Jianhe/Kasavakan）使用 `c`，南王方言（Nanwang/Puyuma）對應使用 `tr`；建和用 `maca`（眼睛），南王用 `matra`；建和用 `vulan`（月亮），知本用 `'ilras`。
-
-### 音節結構
-
-- 卑南語音節結構為 (C)V(C)，即子音可選、母音必要、尾子音可選。
-- 重音通常落在倒數第二音節。
-- 喉塞音（'）在詞尾時不可省略，影響詞義。
+- **陳文德**：研究卑南族年齡階級與會所制度。

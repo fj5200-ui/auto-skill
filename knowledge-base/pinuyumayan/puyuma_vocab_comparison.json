@@ -1,0 +1,5819 @@
+[
+  {
+    "中文": "(伯母；嬸嬸；舅母)通稱",
+    "Nanwang": "ina",
+    "Zhiben": "ina",
+    "Jianhe": "ina",
+    "Xiqun": "ina"
+  },
+  {
+    "中文": "(伯父；叔叔；舅舅)通稱",
+    "Nanwang": "ama",
+    "Zhiben": "ama",
+    "Jianhe": "ama",
+    "Xiqun": "ama"
+  },
+  {
+    "中文": "(像)這樣",
+    "Nanwang": "kemadrini",
+    "Zhiben": "kemani",
+    "Jianhe": "kemani",
+    "Xiqun": "(kamawan) kemani"
+  },
+  {
+    "中文": "(動物的)角",
+    "Nanwang": "suang",
+    "Zhiben": "su'ang",
+    "Jianhe": "su'ang",
+    "Xiqun": "su'ang"
+  },
+  {
+    "中文": "(叫人)過來",
+    "Nanwang": "alamu",
+    "Zhiben": "alamu",
+    "Jianhe": "kadika",
+    "Xiqun": "alamu"
+  },
+  {
+    "中文": "(哥哥；姊姊)通稱",
+    "Nanwang": "eba",
+    "Zhiben": "iva",
+    "Jianhe": "valri na ma'inay(vavayan)",
+    "Xiqun": "iva"
+  },
+  {
+    "中文": "(弟弟；妹妹)通稱",
+    "Nanwang": "wadi",
+    "Zhiben": "wadi",
+    "Jianhe": "wadi na ma'inay",
+    "Xiqun": "maralrak"
+  },
+  {
+    "中文": "(往)上坡",
+    "Nanwang": "paseki",
+    "Zhiben": "pasaseki",
+    "Jianhe": "paseki",
+    "Xiqun": "paseki"
+  },
+  {
+    "中文": "(從某處)到某處",
+    "Nanwang": "kemay... meredek",
+    "Zhiben": "kemay…palru…",
+    "Jianhe": "kemay i… palru i…",
+    "Xiqun": "kemay i... meredek i"
+  },
+  {
+    "中文": "(植物)生長",
+    "Nanwang": "tematelriw",
+    "Zhiben": "ma'a'izang",
+    "Jianhe": "ma'a'idang",
+    "Xiqun": "ma'a'izang"
+  },
+  {
+    "中文": "(植物的)果實",
+    "Nanwang": "buwa",
+    "Zhiben": "vuwa'",
+    "Jianhe": "vuwa'",
+    "Xiqun": "vuwa'"
+  },
+  {
+    "中文": "(用腳)踏",
+    "Nanwang": "demeede",
+    "Zhiben": "deme'elr",
+    "Jianhe": "deme'elr",
+    "Xiqun": "de'de'"
+  },
+  {
+    "中文": "(用鋤具)挖掘",
+    "Nanwang": "penitaw",
+    "Zhiben": "penitaw",
+    "Jianhe": "penitaw",
+    "Xiqun": "penapitaw"
+  },
+  {
+    "中文": "(空間)寬敞",
+    "Nanwang": "barawang",
+    "Zhiben": "lawas",
+    "Jianhe": "alaway",
+    "Xiqun": "lawas"
+  },
+  {
+    "中文": "(藤類植物)攀爬",
+    "Nanwang": "malrap",
+    "Zhiben": "lremalrakitr",
+    "Jianhe": "lremakic",
+    "Xiqun": "melrakitr"
+  },
+  {
+    "中文": "一",
+    "Nanwang": "saya",
+    "Zhiben": "isa",
+    "Jianhe": "sasaya",
+    "Xiqun": "sa; saya"
+  },
+  {
+    "中文": "一下子",
+    "Nanwang": "palamu",
+    "Zhiben": "'azi repidan",
+    "Jianhe": "dika",
+    "Xiqun": "repidan"
+  },
+  {
+    "中文": "一串",
+    "Nanwang": "sapangal",
+    "Zhiben": "sa ringutr",
+    "Jianhe": "sapungur",
+    "Xiqun": "truur; pungulr; pangal"
+  },
+  {
+    "中文": "一千",
+    "Nanwang": "sakudrulr",
+    "Zhiben": "sa kuzulr",
+    "Jianhe": "sakudulr",
+    "Xiqun": "sa kuzulr"
+  },
+  {
+    "中文": "一半",
+    "Nanwang": "parekadruwa",
+    "Zhiben": "parkazuwa",
+    "Jianhe": "parekaduwa",
+    "Xiqun": "parekazuwa"
+  },
+  {
+    "中文": "一次",
+    "Nanwang": "pariyasalr",
+    "Zhiben": "parasan",
+    "Jianhe": "parasan",
+    "Xiqun": "parasan"
+  },
+  {
+    "中文": "一百",
+    "Nanwang": "saleman(saya leman)",
+    "Zhiben": "sa leman",
+    "Jianhe": "saleman",
+    "Xiqun": "sa leman"
+  },
+  {
+    "中文": "一雙",
+    "Nanwang": "mareetreb",
+    "Zhiben": "sa'etrevan",
+    "Jianhe": "sa'ecev",
+    "Xiqun": "mare'etrev"
+  },
+  {
+    "中文": "一點點",
+    "Nanwang": "saima",
+    "Zhiben": "saemat",
+    "Jianhe": "saeman",
+    "Xiqun": "pakiwalay"
+  },
+  {
+    "中文": "七",
+    "Nanwang": "pituwa",
+    "Zhiben": "pitu",
+    "Jianhe": "pituwa",
+    "Xiqun": "pitu; pituwa"
+  },
+  {
+    "中文": "七十",
+    "Nanwang": "makapitu",
+    "Zhiben": "pitu pulu'",
+    "Jianhe": "makapitun",
+    "Xiqun": "pitu pulu'; makapitulr"
+  },
+  {
+    "中文": "三",
+    "Nanwang": "teluwa(tuluwa)",
+    "Zhiben": "telu",
+    "Jianhe": "tutuluwa",
+    "Xiqun": "telu; teluwa"
+  },
+  {
+    "中文": "三十",
+    "Nanwang": "makatelun",
+    "Zhiben": "telu pulu'",
+    "Jianhe": "makatelun",
+    "Xiqun": "telu pulu'; makatelun"
+  },
+  {
+    "中文": "三十一",
+    "Nanwang": "makatelun misama dra saya",
+    "Zhiben": "telu pulu'sa",
+    "Jianhe": "makatelun misama' da saya",
+    "Xiqun": "telu pulu' sa"
+  },
+  {
+    "中文": "上午",
+    "Nanwang": "semaluwan",
+    "Zhiben": "semavalr",
+    "Jianhe": "semavalr",
+    "Xiqun": "'emanamanan"
+  },
+  {
+    "中文": "上面",
+    "Nanwang": "makasatr",
+    "Zhiben": "itras",
+    "Jianhe": "icas",
+    "Xiqun": "itras"
+  },
+  {
+    "中文": "下午",
+    "Nanwang": "mukidrayayan na kadaw",
+    "Zhiben": "piya ta kara'alri",
+    "Jianhe": "piya kare'alri",
+    "Xiqun": "piya kare'alri"
+  },
+  {
+    "中文": "下巴",
+    "Nanwang": "timidr",
+    "Zhiben": "timir",
+    "Jianhe": "timir",
+    "Xiqun": "timiz"
+  },
+  {
+    "中文": "下雨",
+    "Nanwang": "maudalr",
+    "Zhiben": "ma'udalr",
+    "Jianhe": "'umudalr/ma'udalr",
+    "Xiqun": "ma'udalr"
+  },
+  {
+    "中文": "下面",
+    "Nanwang": "makadare",
+    "Zhiben": "lusu",
+    "Jianhe": "lusu",
+    "Xiqun": "lusu"
+  },
+  {
+    "中文": "不客氣",
+    "Nanwang": "adri kiyagela",
+    "Zhiben": "kaeman lra",
+    "Jianhe": "ikaira/ amana maira",
+    "Xiqun": "ikaira"
+  },
+  {
+    "中文": "不是(回答用)",
+    "Nanwang": "amelri",
+    "Zhiben": "melri",
+    "Jianhe": "melri",
+    "Xiqun": "amelri"
+  },
+  {
+    "中文": "不要",
+    "Nanwang": "aeman",
+    "Zhiben": "amanan/ inau",
+    "Jianhe": "amana",
+    "Xiqun": "amanan"
+  },
+  {
+    "中文": "不要(祈使句用)",
+    "Nanwang": "aeman",
+    "Zhiben": "amanan na",
+    "Jianhe": "i…",
+    "Xiqun": "i-"
+  },
+  {
+    "中文": "不該",
+    "Nanwang": "adri kuwaadru",
+    "Zhiben": "'azi'azi…lra kemazu",
+    "Jianhe": "ikuwaadu",
+    "Xiqun": "amanan"
+  },
+  {
+    "中文": "不論",
+    "Nanwang": "an…kemuda lra",
+    "Zhiben": "nu…mu, zi nu… mu",
+    "Jianhe": "kumuda lra ….. mu",
+    "Xiqun": "nu kemuda lra mu"
+  },
+  {
+    "中文": "丟棄",
+    "Nanwang": "atelran",
+    "Zhiben": "'ematelr",
+    "Jianhe": "'ematelr",
+    "Xiqun": "'atelr"
+  },
+  {
+    "中文": "中間",
+    "Nanwang": "tenuk",
+    "Zhiben": "paduk",
+    "Jianhe": "paduk",
+    "Xiqun": "paduk"
+  },
+  {
+    "中文": "主格標記(各族用語)",
+    "Nanwang": "i",
+    "Zhiben": "na",
+    "Jianhe": "na",
+    "Xiqun": "i; na"
+  },
+  {
+    "中文": "久的",
+    "Nanwang": "paetreng",
+    "Zhiben": "sawriyan",
+    "Jianhe": "sawariyan",
+    "Xiqun": "sawariyan"
+  },
+  {
+    "中文": "九",
+    "Nanwang": "waiwaya",
+    "Zhiben": "iwa",
+    "Jianhe": "iwaywaya",
+    "Xiqun": "iwa; iwaya"
+  },
+  {
+    "中文": "九十",
+    "Nanwang": "makaiwa",
+    "Zhiben": "iwa pulu'",
+    "Jianhe": "makaiwan",
+    "Xiqun": "iwa pulu'; makaiwa"
+  },
+  {
+    "中文": "乳房",
+    "Nanwang": "susu",
+    "Zhiben": "susu",
+    "Jianhe": "susu",
+    "Xiqun": "susu"
+  },
+  {
+    "中文": "乾的",
+    "Nanwang": "batrekar",
+    "Zhiben": "trarangetrang",
+    "Jianhe": "marum",
+    "Xiqun": "marum"
+  },
+  {
+    "中文": "亂翻",
+    "Nanwang": "bisuwalaw",
+    "Zhiben": "semaked",
+    "Jianhe": "lemaklak",
+    "Xiqun": "vasuk"
+  },
+  {
+    "中文": "二",
+    "Nanwang": "druwaya",
+    "Zhiben": "zuwa",
+    "Jianhe": "duduwaya",
+    "Xiqun": "zuwa; zuwaya"
+  },
+  {
+    "中文": "二十",
+    "Nanwang": "makabetraan",
+    "Zhiben": "zuwa pulu'",
+    "Jianhe": "makaveca'an",
+    "Xiqun": "zuwa pulu'; makavtra'an"
+  },
+  {
+    "中文": "二十一",
+    "Nanwang": "makabetraan misama dra saya",
+    "Zhiben": "zuwa pulu' sa",
+    "Jianhe": "makaveca'an misama' da saya",
+    "Xiqun": "zuwa pulu' sa"
+  },
+  {
+    "中文": "二十三",
+    "Nanwang": "makabetraan misama dra teluwa(tuluwa)",
+    "Zhiben": "zuwa pulu' telu",
+    "Jianhe": "makaveca'an misama' da tuluwa",
+    "Xiqun": "zuwa pulu' telu"
+  },
+  {
+    "中文": "二十二",
+    "Nanwang": "makabetraan misama dra druwaya",
+    "Zhiben": "zuwa pulu' zuwa",
+    "Jianhe": "makaveca'an misama' da duwaya",
+    "Xiqun": "zuwa pulu' zuwa"
+  },
+  {
+    "中文": "二十五",
+    "Nanwang": "makabetraan misama dra lruwatra",
+    "Zhiben": "zuwa pulu' lima",
+    "Jianhe": "makaveca'an misama' da lruwaca",
+    "Xiqun": "zuwa pulu' lima"
+  },
+  {
+    "中文": "二十四",
+    "Nanwang": "makabetraan misama dra pata",
+    "Zhiben": "zuwa pulu' pat",
+    "Jianhe": "makaveca'an misama' da papata",
+    "Xiqun": "zuwa pulu' pat"
+  },
+  {
+    "中文": "五",
+    "Nanwang": "lruwatra",
+    "Zhiben": "lima",
+    "Jianhe": "lrulruwaca",
+    "Xiqun": "lima; lruwatra"
+  },
+  {
+    "中文": "五十",
+    "Nanwang": "makalruwatr",
+    "Zhiben": "lima pulu'",
+    "Jianhe": "makalruwac",
+    "Xiqun": "lima pulu'; makalruwatr"
+  },
+  {
+    "中文": "亮光",
+    "Nanwang": "senan",
+    "Zhiben": "senan",
+    "Jianhe": "'uninan",
+    "Xiqun": "semenan"
+  },
+  {
+    "中文": "人",
+    "Nanwang": "trau",
+    "Zhiben": "trau",
+    "Jianhe": "cau",
+    "Xiqun": "trau"
+  },
+  {
+    "中文": "什麼",
+    "Nanwang": "a manay",
+    "Zhiben": "eman",
+    "Jianhe": "eman",
+    "Xiqun": "eman"
+  },
+  {
+    "中文": "什麼地方",
+    "Nanwang": "isuwa",
+    "Zhiben": "i iyan",
+    "Jianhe": "i iyan",
+    "Xiqun": "i iyan"
+  },
+  {
+    "中文": "他",
+    "Nanwang": "taytaw",
+    "Zhiben": "intaw",
+    "Jianhe": "intaw/tu",
+    "Xiqun": "tu; intaw"
+  },
+  {
+    "中文": "他們",
+    "Nanwang": "nadrunu",
+    "Zhiben": "nazu",
+    "Jianhe": "nadu",
+    "Xiqun": "naziyu"
+  },
+  {
+    "中文": "他們的",
+    "Nanwang": "nantaw kanadru",
+    "Zhiben": "nantu nazu",
+    "Jianhe": "nantaw/nintaw",
+    "Xiqun": "nintaw"
+  },
+  {
+    "中文": "他的",
+    "Nanwang": "nantu",
+    "Zhiben": "nantu",
+    "Jianhe": "nantu/nintu",
+    "Xiqun": "tu; nintaw"
+  },
+  {
+    "中文": "休息",
+    "Nanwang": "temalaulep",
+    "Zhiben": "temalaulep",
+    "Jianhe": "temalaulep",
+    "Xiqun": "talaulep"
+  },
+  {
+    "中文": "何時(已發生)",
+    "Nanwang": "a asuwa",
+    "Zhiben": "aidan",
+    "Jianhe": "aidan kana wari",
+    "Xiqun": "a aidan"
+  },
+  {
+    "中文": "何時(未發生)",
+    "Nanwang": "an asuwa",
+    "Zhiben": "nu aidan",
+    "Jianhe": "aidan",
+    "Xiqun": "nu aidan"
+  },
+  {
+    "中文": "你",
+    "Nanwang": "yu",
+    "Zhiben": "inu",
+    "Jianhe": "inu/u",
+    "Xiqun": "u; nu; inu"
+  },
+  {
+    "中文": "你們",
+    "Nanwang": "mu",
+    "Zhiben": "inmu",
+    "Jianhe": "mu/inmu",
+    "Xiqun": "inmu"
+  },
+  {
+    "中文": "你們的",
+    "Nanwang": "nanmu",
+    "Zhiben": "ninmu",
+    "Jianhe": "nanmu",
+    "Xiqun": "ninmu"
+  },
+  {
+    "中文": "你的",
+    "Nanwang": "nanu",
+    "Zhiben": "nannu",
+    "Jianhe": "nannu/ninmu",
+    "Xiqun": "nu; nannu"
+  },
+  {
+    "中文": "使喚",
+    "Nanwang": "pakarunan",
+    "Zhiben": "pakarun",
+    "Jianhe": "pakarun",
+    "Xiqun": "pakarun"
+  },
+  {
+    "中文": "使用",
+    "Nanwang": "pamanay",
+    "Zhiben": "manay",
+    "Jianhe": "manay",
+    "Xiqun": "manay"
+  },
+  {
+    "中文": "來",
+    "Nanwang": "alamu",
+    "Zhiben": "zuwa",
+    "Jianhe": "duwa",
+    "Xiqun": "zuwa"
+  },
+  {
+    "中文": "來過",
+    "Nanwang": "druwa lra",
+    "Zhiben": "zuwa lra",
+    "Jianhe": "duwa lra",
+    "Xiqun": "zuwa lra"
+  },
+  {
+    "中文": "依賴",
+    "Nanwang": "talrima",
+    "Zhiben": "talrased",
+    "Jianhe": "talrima",
+    "Xiqun": "talrima"
+  },
+  {
+    "中文": "修女",
+    "Nanwang": "siwni",
+    "Zhiben": "siwni",
+    "Jianhe": "siwni",
+    "Xiqun": "siwni"
+  },
+  {
+    "中文": "倒(水)",
+    "Nanwang": "tragetrag",
+    "Zhiben": "'ilrayan",
+    "Jianhe": "'ilrayi/avaki",
+    "Xiqun": "'ilra"
+  },
+  {
+    "中文": "借",
+    "Nanwang": "kibulas",
+    "Zhiben": "kivelas",
+    "Jianhe": "kivulas",
+    "Xiqun": "kivulas"
+  },
+  {
+    "中文": "做惡夢",
+    "Nanwang": "matiya dra kuwatis",
+    "Zhiben": "matiya' za kuwatreng",
+    "Jianhe": "matiya' da kuwaceng",
+    "Xiqun": "'umuwaw"
+  },
+  {
+    "中文": "停止",
+    "Nanwang": "madranga",
+    "Zhiben": "maziyazi",
+    "Jianhe": "madiyadi",
+    "Xiqun": "maziyazi"
+  },
+  {
+    "中文": "側臥",
+    "Nanwang": "miyagilid",
+    "Zhiben": "mikakidir",
+    "Jianhe": "mukakidir",
+    "Xiqun": "kidir"
+  },
+  {
+    "中文": "偷竊",
+    "Nanwang": "tremakaw",
+    "Zhiben": "tremakaw",
+    "Jianhe": "cemakaw",
+    "Xiqun": "trakaw"
+  },
+  {
+    "中文": "傍晚",
+    "Nanwang": "karauraub",
+    "Zhiben": "'aremameremeng lra/ karawrauv",
+    "Jianhe": "'araremeng",
+    "Xiqun": "karaurauv"
+  },
+  {
+    "中文": "催熟(果實)",
+    "Nanwang": "palulu",
+    "Zhiben": "maavul",
+    "Jianhe": "pakamavur",
+    "Xiqun": "maavul"
+  },
+  {
+    "中文": "傳統女裙",
+    "Nanwang": "lrabit",
+    "Zhiben": "tuvilr",
+    "Jianhe": "tuvilr",
+    "Xiqun": "pesi"
+  },
+  {
+    "中文": "傷口",
+    "Nanwang": "buli",
+    "Zhiben": "vuli'",
+    "Jianhe": "vuli'",
+    "Xiqun": "vuli'"
+  },
+  {
+    "中文": "傻瓜",
+    "Nanwang": "magunggung",
+    "Zhiben": "magunggung",
+    "Jianhe": "magunggung/ma'ungaw",
+    "Xiqun": "mapungaw"
+  },
+  {
+    "中文": "僅僅",
+    "Nanwang": "maumau",
+    "Zhiben": "maw maw",
+    "Jianhe": "mawmau",
+    "Xiqun": "mawmau"
+  },
+  {
+    "中文": "兄弟姊妹",
+    "Nanwang": "maluwadiyadi",
+    "Zhiben": "maruwadiyadi",
+    "Jianhe": "maruwadiyadi",
+    "Xiqun": "maruwadiyadi"
+  },
+  {
+    "中文": "兄長",
+    "Nanwang": "baelri",
+    "Zhiben": "i valri na ma'inay",
+    "Jianhe": "iva",
+    "Xiqun": "iva"
+  },
+  {
+    "中文": "全濕透",
+    "Nanwang": "luenuenus",
+    "Zhiben": "muzerem",
+    "Jianhe": "talrunger",
+    "Xiqun": "mutangrus"
+  },
+  {
+    "中文": "全部",
+    "Nanwang": "peniya",
+    "Zhiben": "peniya",
+    "Jianhe": "peniya",
+    "Xiqun": "papiya/mapiya; peniya"
+  },
+  {
+    "中文": "兩百",
+    "Nanwang": "druwaya leman",
+    "Zhiben": "zuwa leman",
+    "Jianhe": "duwaleman",
+    "Xiqun": "zuwa leman"
+  },
+  {
+    "中文": "八",
+    "Nanwang": "waluwa",
+    "Zhiben": "walu",
+    "Jianhe": "waluwaluwa",
+    "Xiqun": "walu; waluwa"
+  },
+  {
+    "中文": "八十",
+    "Nanwang": "makawalu",
+    "Zhiben": "walu pulu'",
+    "Jianhe": "makawalun",
+    "Xiqun": "walu pulu'; makawalun"
+  },
+  {
+    "中文": "公車",
+    "Nanwang": "bas",
+    "Zhiben": "bas",
+    "Jianhe": "bas",
+    "Xiqun": "bas"
+  },
+  {
+    "中文": "六",
+    "Nanwang": "nenema",
+    "Zhiben": "unem",
+    "Jianhe": "nanema",
+    "Xiqun": "enem; nanema"
+  },
+  {
+    "中文": "六十",
+    "Nanwang": "makanemen",
+    "Zhiben": "unem pulu'/nem pulu'",
+    "Jianhe": "makanemen",
+    "Xiqun": "enem pulu'; makanemen"
+  },
+  {
+    "中文": "再",
+    "Nanwang": "asalr",
+    "Zhiben": "masalr",
+    "Jianhe": "masalr",
+    "Xiqun": "ziya"
+  },
+  {
+    "中文": "冬天",
+    "Nanwang": "kaguluwan",
+    "Zhiben": "vutreliyan",
+    "Jianhe": "vuceliyan",
+    "Xiqun": "vetriliyan"
+  },
+  {
+    "中文": "冰",
+    "Nanwang": "kuli",
+    "Zhiben": "kuli",
+    "Jianhe": "kuli",
+    "Xiqun": "urelra"
+  },
+  {
+    "中文": "冰冷",
+    "Nanwang": "tralrinetrin",
+    "Zhiben": "tralringtring",
+    "Jianhe": "calringcing",
+    "Xiqun": "tralrintrin"
+  },
+  {
+    "中文": "冷",
+    "Nanwang": "lritek",
+    "Zhiben": "lritek",
+    "Jianhe": "lritek",
+    "Xiqun": "lritek"
+  },
+  {
+    "中文": "出去",
+    "Nanwang": "mupatraran",
+    "Zhiben": "upatraran",
+    "Jianhe": "mupacaran",
+    "Xiqun": "mupatraran"
+  },
+  {
+    "中文": "分開",
+    "Nanwang": "maretinuwas",
+    "Zhiben": "maruwaday",
+    "Jianhe": "maruwaday",
+    "Xiqun": "maruwaday"
+  },
+  {
+    "中文": "切",
+    "Nanwang": "kemeteket",
+    "Zhiben": "kemeteket",
+    "Jianhe": "ketket",
+    "Xiqun": "ketket"
+  },
+  {
+    "中文": "刮苧麻",
+    "Nanwang": "kemakeris",
+    "Zhiben": "trakeris",
+    "Jianhe": "kimiyasekis da keriw",
+    "Xiqun": "kemakeris"
+  },
+  {
+    "中文": "刮颱風",
+    "Nanwang": "barariwan",
+    "Zhiben": "venavariw",
+    "Jianhe": "venavariw",
+    "Xiqun": "venavariw"
+  },
+  {
+    "中文": "刷除",
+    "Nanwang": "ematreatr",
+    "Zhiben": "ematre'atr",
+    "Jianhe": "'emac'ac",
+    "Xiqun": "'atr'atr"
+  },
+  {
+    "中文": "刺",
+    "Nanwang": "temabusuk",
+    "Zhiben": "'emilrus",
+    "Jianhe": "ilrusaw/tusukaw",
+    "Xiqun": "ilrus"
+  },
+  {
+    "中文": "剁",
+    "Nanwang": "temebeteb",
+    "Zhiben": "tevetev",
+    "Jianhe": "temavtev",
+    "Xiqun": "tevtev"
+  },
+  {
+    "中文": "削(水果)",
+    "Nanwang": "kemulitr",
+    "Zhiben": "kemulitr",
+    "Jianhe": "kumuric",
+    "Xiqun": "kulitr"
+  },
+  {
+    "中文": "前天",
+    "Nanwang": "a da:man",
+    "Zhiben": "a adaman",
+    "Jianhe": "a adaman",
+    "Xiqun": "a dadaman"
+  },
+  {
+    "中文": "前面",
+    "Nanwang": "nguwayan",
+    "Zhiben": "nganguwayan",
+    "Jianhe": "nganguwayan",
+    "Xiqun": "nganguwayan/ngawayan"
+  },
+  {
+    "中文": "剛剛",
+    "Nanwang": "a garemay",
+    "Zhiben": "maw ziya/a haremay",
+    "Jianhe": "haremay",
+    "Xiqun": "a haremay"
+  },
+  {
+    "中文": "剛才",
+    "Nanwang": "gareman",
+    "Zhiben": "a haremay",
+    "Jianhe": "haremay",
+    "Xiqun": "a haremay"
+  },
+  {
+    "中文": "剝樹皮",
+    "Nanwang": "emulis",
+    "Zhiben": "kiluvitray na kawi",
+    "Jianhe": "ungas",
+    "Xiqun": "ungas/'ungas"
+  },
+  {
+    "中文": "剝皮",
+    "Nanwang": "kemulitr",
+    "Zhiben": "kemulitr",
+    "Jianhe": "ungasaw",
+    "Xiqun": "ungas/'ungas"
+  },
+  {
+    "中文": "剪",
+    "Nanwang": "gemaretim",
+    "Zhiben": "hemaretim",
+    "Jianhe": "hemaretim",
+    "Xiqun": "heretim/haretim"
+  },
+  {
+    "中文": "剪刀",
+    "Nanwang": "garetim",
+    "Zhiben": "haretim",
+    "Jianhe": "haretim",
+    "Xiqun": "heraretim/haretim"
+  },
+  {
+    "中文": "劈(木材)",
+    "Nanwang": "trekab",
+    "Zhiben": "tremekav",
+    "Jianhe": "cemekav",
+    "Xiqun": "trekav"
+  },
+  {
+    "中文": "力量",
+    "Nanwang": "kedrang",
+    "Zhiben": "kezang",
+    "Jianhe": "kedang",
+    "Xiqun": "kezang"
+  },
+  {
+    "中文": "動物的內臟",
+    "Nanwang": "niyababak",
+    "Zhiben": "yavavak",
+    "Jianhe": "yavavak",
+    "Xiqun": "iyavavak"
+  },
+  {
+    "中文": "勤勞",
+    "Nanwang": "raemetr",
+    "Zhiben": "surimet",
+    "Jianhe": "ra'emec",
+    "Xiqun": "ra'emetr"
+  },
+  {
+    "中文": "化膿",
+    "Nanwang": "pusu",
+    "Zhiben": "mipusu'",
+    "Jianhe": "mupusu'",
+    "Xiqun": "mipusu'"
+  },
+  {
+    "中文": "十",
+    "Nanwang": "muketrep",
+    "Zhiben": "pulu'",
+    "Jianhe": "mukecep/pulu'",
+    "Xiqun": "pulu'; muketrep"
+  },
+  {
+    "中文": "十一",
+    "Nanwang": "muketrep misama dra saya",
+    "Zhiben": "pulu' sa",
+    "Jianhe": "mukecep misama' da saya",
+    "Xiqun": "pulu' sa; muketrep misama' za saya"
+  },
+  {
+    "中文": "十七",
+    "Nanwang": "muketrep misama dra pituwa",
+    "Zhiben": "pulu' pitu",
+    "Jianhe": "mukecep misama' da pituwa",
+    "Xiqun": "pulu' pitu"
+  },
+  {
+    "中文": "十三",
+    "Nanwang": "muketrep misama dra teluwa(tuluwa)",
+    "Zhiben": "pulu' telu",
+    "Jianhe": "mukecep misama' da tuluwa",
+    "Xiqun": "pulu' telu"
+  },
+  {
+    "中文": "十九",
+    "Nanwang": "muketrep misama dra waiwaya",
+    "Zhiben": "pulu' iwa",
+    "Jianhe": "mukecep misama' da iwaywaya",
+    "Xiqun": "pulu' iwa"
+  },
+  {
+    "中文": "十二",
+    "Nanwang": "muketrep misama dra druwaya",
+    "Zhiben": "pulu' zuwa",
+    "Jianhe": "mukecep misama' da duwaya",
+    "Xiqun": "pulu' zuwa"
+  },
+  {
+    "中文": "十五",
+    "Nanwang": "muketrep misama dra lruwatra",
+    "Zhiben": "pulu' lima",
+    "Jianhe": "mukecep misama' da lrulruwaca",
+    "Xiqun": "pulu' lima"
+  },
+  {
+    "中文": "十八",
+    "Nanwang": "muketrep misama dra waluwa",
+    "Zhiben": "pulu' walu",
+    "Jianhe": "mukecep misama' da waluwa",
+    "Xiqun": "pulu' walu"
+  },
+  {
+    "中文": "十六",
+    "Nanwang": "muketrep misama dra nenema",
+    "Zhiben": "pulu' nem",
+    "Jianhe": "mukecep misama' da nanema",
+    "Xiqun": "pulu' enem"
+  },
+  {
+    "中文": "十四",
+    "Nanwang": "muketrep misama dra pata",
+    "Zhiben": "pulu' pat",
+    "Jianhe": "mukecep misama' da papata",
+    "Xiqun": "pulu' pat"
+  },
+  {
+    "中文": "半夜",
+    "Nanwang": "parekadruwa sungan",
+    "Zhiben": "parkazuwa 'esunganan",
+    "Jianhe": "parka'asungan",
+    "Xiqun": "parekazuwa 'esungan"
+  },
+  {
+    "中文": "南瓜",
+    "Nanwang": "siyak",
+    "Zhiben": "siyak",
+    "Jianhe": "siyak",
+    "Xiqun": "siyak"
+  },
+  {
+    "中文": "卡在牙縫之物",
+    "Nanwang": "tringa",
+    "Zhiben": "tringa",
+    "Jianhe": "cinga",
+    "Xiqun": "treminga"
+  },
+  {
+    "中文": "去",
+    "Nanwang": "uwa",
+    "Zhiben": "uwa ∕ mukuwa",
+    "Jianhe": "uwa",
+    "Xiqun": "uwa"
+  },
+  {
+    "中文": "去了",
+    "Nanwang": "muka lra",
+    "Zhiben": "mukuwa lra",
+    "Jianhe": "mukuwa",
+    "Xiqun": "mukuwa"
+  },
+  {
+    "中文": "受傷",
+    "Nanwang": "kurepanana",
+    "Zhiben": "mupanana",
+    "Jianhe": "mupanana",
+    "Xiqun": "mavuli'"
+  },
+  {
+    "中文": "口水",
+    "Nanwang": "ngalay",
+    "Zhiben": "ngalay",
+    "Jianhe": "ngalay",
+    "Xiqun": "ngalay"
+  },
+  {
+    "中文": "只有",
+    "Nanwang": "maumau",
+    "Zhiben": "maw maw",
+    "Jianhe": "mawmau",
+    "Xiqun": "mawmau"
+  },
+  {
+    "中文": "右邊",
+    "Nanwang": "tarawalran",
+    "Zhiben": "tarawalran",
+    "Jianhe": "tarawalran",
+    "Xiqun": "tarawalran"
+  },
+  {
+    "中文": "吃",
+    "Nanwang": "mekan",
+    "Zhiben": "mekan",
+    "Jianhe": "mekan",
+    "Xiqun": "ekan"
+  },
+  {
+    "中文": "吃午餐",
+    "Nanwang": "karealri",
+    "Zhiben": "kara'alri",
+    "Jianhe": "kara'alri",
+    "Xiqun": "kare'alri"
+  },
+  {
+    "中文": "吃早餐",
+    "Nanwang": "kenama",
+    "Zhiben": "kenama",
+    "Jianhe": "kenama",
+    "Xiqun": "kenama"
+  },
+  {
+    "中文": "吃晚餐",
+    "Nanwang": "kerabi",
+    "Zhiben": "keravi",
+    "Jianhe": "keravi",
+    "Xiqun": "keravi"
+  },
+  {
+    "中文": "各色各樣",
+    "Nanwang": "marekamenimeni",
+    "Zhiben": "marekamelrimelri",
+    "Jianhe": "markamelrimelri",
+    "Xiqun": "marekamelrimelri"
+  },
+  {
+    "中文": "名字",
+    "Nanwang": "ngalad",
+    "Zhiben": "ngadan",
+    "Jianhe": "ngadan",
+    "Xiqun": "ngadan"
+  },
+  {
+    "中文": "吞下",
+    "Nanwang": "lausu",
+    "Zhiben": "lamdukaw",
+    "Jianhe": "semangpal",
+    "Xiqun": "lamduk"
+  },
+  {
+    "中文": "吞嚥",
+    "Nanwang": "melaus",
+    "Zhiben": "lema'ed",
+    "Jianhe": "lemamed",
+    "Xiqun": "lamed"
+  },
+  {
+    "中文": "吸",
+    "Nanwang": "semirep",
+    "Zhiben": "semirep",
+    "Jianhe": "simipesip",
+    "Xiqun": "sirep"
+  },
+  {
+    "中文": "吹",
+    "Nanwang": "emiyup",
+    "Zhiben": "miyup",
+    "Jianhe": "miyup",
+    "Xiqun": "iyup"
+  },
+  {
+    "中文": "咀嚼",
+    "Nanwang": "emeleel",
+    "Zhiben": "'emele 'el",
+    "Jianhe": "'emere'er",
+    "Xiqun": "'ele'el"
+  },
+  {
+    "中文": "和",
+    "Nanwang": "aw;kay",
+    "Zhiben": "... za i…",
+    "Jianhe": "di",
+    "Xiqun": "zi"
+  },
+  {
+    "中文": "咖啡色",
+    "Nanwang": "dremiyaran",
+    "Zhiben": "'emura'ura",
+    "Jianhe": "ura'ura",
+    "Xiqun": "'emura'ura"
+  },
+  {
+    "中文": "咬",
+    "Nanwang": "karatraw",
+    "Zhiben": "kemaratr",
+    "Jianhe": "kemarac",
+    "Xiqun": "karatr"
+  },
+  {
+    "中文": "哥哥",
+    "Nanwang": "baelri na mainayan",
+    "Zhiben": "i valri na ma'inay/ i vau na ma'inay",
+    "Jianhe": "iva na ma'inay",
+    "Xiqun": "iva na ma'inayan"
+  },
+  {
+    "中文": "哪一個",
+    "Nanwang": "na isuwa",
+    "Zhiben": "na iyan/nay iyan",
+    "Jianhe": "na i iyan",
+    "Xiqun": "na iyan"
+  },
+  {
+    "中文": "哭",
+    "Nanwang": "matrangis",
+    "Zhiben": "matrangis",
+    "Jianhe": "cangis",
+    "Xiqun": "trangis"
+  },
+  {
+    "中文": "唱歌",
+    "Nanwang": "semenay",
+    "Zhiben": "semenay",
+    "Jianhe": "semenay",
+    "Xiqun": "semenay"
+  },
+  {
+    "中文": "啃",
+    "Nanwang": "emitreitr",
+    "Zhiben": "'emiatre'itr",
+    "Jianhe": "'umuce'uc",
+    "Xiqun": "'itr'itr"
+  },
+  {
+    "中文": "啄",
+    "Nanwang": "temuetu",
+    "Zhiben": "temuptup",
+    "Jianhe": "tumuptup",
+    "Xiqun": "tuptup/tu'tu'"
+  },
+  {
+    "中文": "喉嚨",
+    "Nanwang": "takulaw",
+    "Zhiben": "tukeraw",
+    "Jianhe": "tukeraw",
+    "Xiqun": "tukeraw/takulaw"
+  },
+  {
+    "中文": "喜歡",
+    "Nanwang": "sagar",
+    "Zhiben": "sahar",
+    "Jianhe": "sahar",
+    "Xiqun": "sahar"
+  },
+  {
+    "中文": "喝",
+    "Nanwang": "tremekel",
+    "Zhiben": "'emawu",
+    "Jianhe": "'emau",
+    "Xiqun": "trekel"
+  },
+  {
+    "中文": "嗎(用在問句)",
+    "Nanwang": "nay",
+    "Zhiben": "nay/awa",
+    "Jianhe": "diyamaw?",
+    "Xiqun": "nay"
+  },
+  {
+    "中文": "嘴唇",
+    "Nanwang": "birbir",
+    "Zhiben": "virvir",
+    "Jianhe": "virvir",
+    "Xiqun": "virvir"
+  },
+  {
+    "中文": "嘴巴",
+    "Nanwang": "indan",
+    "Zhiben": "udung",
+    "Jianhe": "udung",
+    "Xiqun": "udung"
+  },
+  {
+    "中文": "噎到",
+    "Nanwang": "madrekel",
+    "Zhiben": "madekel",
+    "Jianhe": "madekel",
+    "Xiqun": "mazekel"
+  },
+  {
+    "中文": "四",
+    "Nanwang": "pata",
+    "Zhiben": "pat",
+    "Jianhe": "papata",
+    "Xiqun": "pat; pata"
+  },
+  {
+    "中文": "四十",
+    "Nanwang": "makapetelr",
+    "Zhiben": "pat pulu'",
+    "Jianhe": "makapetelr",
+    "Xiqun": "pat pulu'; makapetelr"
+  },
+  {
+    "中文": "回應",
+    "Nanwang": "temubang",
+    "Zhiben": "temuvang",
+    "Jianhe": "temuvang",
+    "Xiqun": "tuvang"
+  },
+  {
+    "中文": "土堆",
+    "Nanwang": "muudung a dare",
+    "Zhiben": "dare' na inazuwazuk",
+    "Jianhe": "'emupu'upu",
+    "Xiqun": "'emupu'upu"
+  },
+  {
+    "中文": "在來米",
+    "Nanwang": "lriyaba",
+    "Zhiben": "puur",
+    "Jianhe": "puur",
+    "Xiqun": "puur"
+  },
+  {
+    "中文": "地瓜",
+    "Nanwang": "bunga",
+    "Zhiben": "vurasi",
+    "Jianhe": "vurasi",
+    "Xiqun": "vurasi/vunga"
+  },
+  {
+    "中文": "地震",
+    "Nanwang": "maidraudr",
+    "Zhiben": "hiwahiw",
+    "Jianhe": "mangunin",
+    "Xiqun": "ngunin"
+  },
+  {
+    "中文": "坐下",
+    "Nanwang": "matengadraw",
+    "Zhiben": "kayan",
+    "Jianhe": "kemayan",
+    "Xiqun": "kayan"
+  },
+  {
+    "中文": "坐著",
+    "Nanwang": "matengadraw",
+    "Zhiben": "kemayan",
+    "Jianhe": "kemayan",
+    "Xiqun": "kemayan"
+  },
+  {
+    "中文": "堂、表兄弟姐妹",
+    "Nanwang": "nirekaasa",
+    "Zhiben": "petris na kinaraasa",
+    "Jianhe": "kinaraasa",
+    "Xiqun": "kinaraasa na maruwadiyadi"
+  },
+  {
+    "中文": "壓住",
+    "Nanwang": "trematreelr",
+    "Zhiben": "demepel",
+    "Jianhe": "ceme'ece'",
+    "Xiqun": "tre'tre'"
+  },
+  {
+    "中文": "壓制",
+    "Nanwang": "demepedep",
+    "Zhiben": "demepel",
+    "Jianhe": "demepel",
+    "Xiqun": "depdep"
+  },
+  {
+    "中文": "壓扁",
+    "Nanwang": "mudapeni",
+    "Zhiben": "mukenipinipi",
+    "Jianhe": "mupeme'pe'",
+    "Xiqun": "kenipi"
+  },
+  {
+    "中文": "壯碩",
+    "Nanwang": "marukedrang",
+    "Zhiben": "marukezang",
+    "Jianhe": "marekedang",
+    "Xiqun": "marukezang"
+  },
+  {
+    "中文": "夏天",
+    "Nanwang": "kadenunan",
+    "Zhiben": "derun",
+    "Jianhe": "derun",
+    "Xiqun": "derun"
+  },
+  {
+    "中文": "外省人",
+    "Nanwang": "Lutiya",
+    "Zhiben": "lutiya",
+    "Jianhe": "Rutiya",
+    "Xiqun": "lutiya"
+  },
+  {
+    "中文": "外面",
+    "Nanwang": "patraran",
+    "Zhiben": "patraran",
+    "Jianhe": "pacaran",
+    "Xiqun": "pana"
+  },
+  {
+    "中文": "多",
+    "Nanwang": "esadru",
+    "Zhiben": "sazu",
+    "Jianhe": "sadu",
+    "Xiqun": "sazu"
+  },
+  {
+    "中文": "多少",
+    "Nanwang": "samaya",
+    "Zhiben": "pidaya",
+    "Jianhe": "munuman/pidaya",
+    "Xiqun": "pidaya"
+  },
+  {
+    "中文": "多少(歲；物)",
+    "Nanwang": "munuma",
+    "Zhiben": "pidaya",
+    "Jianhe": "pidaya",
+    "Xiqun": "pidaya"
+  },
+  {
+    "中文": "夢",
+    "Nanwang": "tiya",
+    "Zhiben": "tiya'",
+    "Jianhe": "tiya'",
+    "Xiqun": "tiya'"
+  },
+  {
+    "中文": "大便",
+    "Nanwang": "mutrai",
+    "Zhiben": "tra'i",
+    "Jianhe": "maca'i",
+    "Xiqun": "tra'i"
+  },
+  {
+    "中文": "大前天",
+    "Nanwang": "a da::man",
+    "Zhiben": "a dadaman",
+    "Jianhe": "adadaman",
+    "Xiqun": "a daaman"
+  },
+  {
+    "中文": "大後天",
+    "Nanwang": "an da::man",
+    "Zhiben": "nu dadaman lra",
+    "Jianhe": "damadaman",
+    "Xiqun": "nu dadaman"
+  },
+  {
+    "中文": "大腿",
+    "Nanwang": "paa'",
+    "Zhiben": "pa'a",
+    "Jianhe": "pa'a",
+    "Xiqun": "pa'a"
+  },
+  {
+    "中文": "大象",
+    "Nanwang": "zo",
+    "Zhiben": "zo",
+    "Jianhe": "zo",
+    "Xiqun": "zo"
+  },
+  {
+    "中文": "天天",
+    "Nanwang": "wawariwari",
+    "Zhiben": "kana wawariwari",
+    "Jianhe": "wariwari",
+    "Xiqun": "wariwari"
+  },
+  {
+    "中文": "天空",
+    "Nanwang": "langitr",
+    "Zhiben": "rukup",
+    "Jianhe": "rukup",
+    "Xiqun": "lingatr"
+  },
+  {
+    "中文": "太陽",
+    "Nanwang": "kadaw",
+    "Zhiben": "kadaw",
+    "Jianhe": "kadaw",
+    "Xiqun": "kadaw/'unin"
+  },
+  {
+    "中文": "夫妻",
+    "Nanwang": "marekataguwin",
+    "Zhiben": "saruma'an",
+    "Jianhe": "mareturuma'an",
+    "Xiqun": "mare'azin"
+  },
+  {
+    "中文": "夾子",
+    "Nanwang": "arengatripan",
+    "Zhiben": "'angtrip",
+    "Jianhe": "'aracip",
+    "Xiqun": "'aratrip/'atringal"
+  },
+  {
+    "中文": "套頸式繩索陷阱",
+    "Nanwang": "sawail",
+    "Zhiben": "venetratre'el",
+    "Jianhe": "vencace'el",
+    "Xiqun": "puwatilu'/sawail"
+  },
+  {
+    "中文": "女孩",
+    "Nanwang": "walrak na babayan",
+    "Zhiben": "vavayan",
+    "Jianhe": "vavayan",
+    "Xiqun": "vavayan"
+  },
+  {
+    "中文": "女性",
+    "Nanwang": "babayan",
+    "Zhiben": "vavayan",
+    "Jianhe": "vavayan",
+    "Xiqun": "vavayan"
+  },
+  {
+    "中文": "女用揹籃",
+    "Nanwang": "padrekan",
+    "Zhiben": "pazekan",
+    "Jianhe": "padekan",
+    "Xiqun": "pazekan/vakar"
+  },
+  {
+    "中文": "如果",
+    "Nanwang": "an",
+    "Zhiben": "nuy",
+    "Jianhe": "nu",
+    "Xiqun": "nu"
+  },
+  {
+    "中文": "如此",
+    "Nanwang": "kemadri",
+    "Zhiben": "kemani",
+    "Jianhe": "kemani",
+    "Xiqun": "kemani"
+  },
+  {
+    "中文": "妝扮飾物",
+    "Nanwang": "pakababulay",
+    "Zhiben": "pakavulavulay",
+    "Jianhe": "ipakavavulay",
+    "Xiqun": "pakavulay"
+  },
+  {
+    "中文": "姊姊",
+    "Nanwang": "baelri na babayan",
+    "Zhiben": "i valri na vavayan/ i vau na vavayan",
+    "Jianhe": "iva na vavayan",
+    "Xiqun": "iva na vavayan"
+  },
+  {
+    "中文": "姑婆芋",
+    "Nanwang": "siadeng",
+    "Zhiben": "ti'adeng",
+    "Jianhe": "ti'adeng",
+    "Xiqun": "ki'adeng/si'adeng"
+  },
+  {
+    "中文": "姻親",
+    "Nanwang": "kuwarabakan",
+    "Zhiben": "kuwaravakan",
+    "Jianhe": "kuwaravakan",
+    "Xiqun": "inusavakan"
+  },
+  {
+    "中文": "婚姻",
+    "Nanwang": "mutusarumaenan",
+    "Zhiben": "maresaruma'an",
+    "Jianhe": "pinareturuma'an",
+    "Xiqun": "marekuravaravak"
+  },
+  {
+    "中文": "媳婦",
+    "Nanwang": "imi",
+    "Zhiben": "musavak",
+    "Jianhe": "musavak",
+    "Xiqun": "ivi'/imi"
+  },
+  {
+    "中文": "媽媽",
+    "Nanwang": "ina",
+    "Zhiben": "ina",
+    "Jianhe": "ina",
+    "Xiqun": "ina"
+  },
+  {
+    "中文": "孩童",
+    "Nanwang": "lralrak",
+    "Zhiben": "lralrak",
+    "Jianhe": "lralrak",
+    "Xiqun": "alrak"
+  },
+  {
+    "中文": "孫子/孫女",
+    "Nanwang": "tumuwan",
+    "Zhiben": "temuwan na ma'inay/temuwan na vavayan",
+    "Jianhe": "tumuwan",
+    "Xiqun": "temuwan"
+  },
+  {
+    "中文": "學校",
+    "Nanwang": "takesian",
+    "Zhiben": "kungkuwan∕ takesiyan",
+    "Jianhe": "kungkuwan",
+    "Xiqun": "takesiyan"
+  },
+  {
+    "中文": "學生",
+    "Nanwang": "temakakesi",
+    "Zhiben": "temakakesi",
+    "Jianhe": "temakakesi",
+    "Xiqun": "temakesi"
+  },
+  {
+    "中文": "學習",
+    "Nanwang": "melaladam",
+    "Zhiben": "menadanadam",
+    "Jianhe": "menadanadam",
+    "Xiqun": "nadam"
+  },
+  {
+    "中文": "完成",
+    "Nanwang": "pasekadr",
+    "Zhiben": "piya lra",
+    "Jianhe": "semekad",
+    "Xiqun": "sekaz"
+  },
+  {
+    "中文": "客家人",
+    "Nanwang": "Ngaingay",
+    "Zhiben": "ngayngay",
+    "Jianhe": "Ngayngay",
+    "Xiqun": "seking"
+  },
+  {
+    "中文": "害怕",
+    "Nanwang": "inedang/minedang",
+    "Zhiben": "makaud",
+    "Jianhe": "makaud",
+    "Xiqun": "kaud"
+  },
+  {
+    "中文": "家",
+    "Nanwang": "ruma",
+    "Zhiben": "ruma'",
+    "Jianhe": "ruma'",
+    "Xiqun": "ruma'"
+  },
+  {
+    "中文": "尋找",
+    "Nanwang": "maaya",
+    "Zhiben": "maya'",
+    "Jianhe": "maya'",
+    "Xiqun": "aya'/iya'"
+  },
+  {
+    "中文": "小便",
+    "Nanwang": "misi",
+    "Zhiben": "misi'",
+    "Jianhe": "masuvur",
+    "Xiqun": "isi'"
+  },
+  {
+    "中文": "小刀",
+    "Nanwang": "kamutr",
+    "Zhiben": "kamutr",
+    "Jianhe": "kamuc",
+    "Xiqun": "kamutr"
+  },
+  {
+    "中文": "小姐",
+    "Nanwang": "bulabulayan",
+    "Zhiben": "vulavulayan",
+    "Jianhe": "vulavulayan",
+    "Xiqun": "vulavulayan"
+  },
+  {
+    "中文": "小溪",
+    "Nanwang": "inayan",
+    "Zhiben": "valilruwan",
+    "Jianhe": "dinanuman",
+    "Xiqun": "velelruwan"
+  },
+  {
+    "中文": "小的",
+    "Nanwang": "makiteng",
+    "Zhiben": "makileng",
+    "Jianhe": "makiteng",
+    "Xiqun": "makiteng"
+  },
+  {
+    "中文": "小米",
+    "Nanwang": "dawa",
+    "Zhiben": "dawa",
+    "Jianhe": "dawa",
+    "Xiqun": "dawa"
+  },
+  {
+    "中文": "小腿肚",
+    "Nanwang": "peri",
+    "Zhiben": "peri'",
+    "Jianhe": "peri'",
+    "Xiqun": "peri'"
+  },
+  {
+    "中文": "少的",
+    "Nanwang": "saima",
+    "Zhiben": "saeman",
+    "Jianhe": "saeman",
+    "Xiqun": "saema"
+  },
+  {
+    "中文": "尾巴",
+    "Nanwang": "ikur",
+    "Zhiben": "ikur",
+    "Jianhe": "ikur",
+    "Xiqun": "ikur"
+  },
+  {
+    "中文": "尿急",
+    "Nanwang": "abasay",
+    "Zhiben": "vasay",
+    "Jianhe": "vasay",
+    "Xiqun": "vasay"
+  },
+  {
+    "中文": "屋頂",
+    "Nanwang": "saub",
+    "Zhiben": "sa'uv",
+    "Jianhe": "sawsa'uv",
+    "Xiqun": "sa'uv"
+  },
+  {
+    "中文": "屬格標記(各族用語)",
+    "Nanwang": "kana",
+    "Zhiben": "ni",
+    "Jianhe": "ni",
+    "Xiqun": "ni"
+  },
+  {
+    "中文": "山林",
+    "Nanwang": "kawikawi",
+    "Zhiben": "kawikawi i zenan",
+    "Jianhe": "kawikawiyan",
+    "Xiqun": "zenazenan"
+  },
+  {
+    "中文": "山櫻花",
+    "Nanwang": "sakura",
+    "Zhiben": "makazenan na sakura",
+    "Jianhe": "makahenan na sakura",
+    "Xiqun": "sakura"
+  },
+  {
+    "中文": "山羌",
+    "Nanwang": "ura",
+    "Zhiben": "'ura",
+    "Jianhe": "'ura",
+    "Xiqun": "'ura"
+  },
+  {
+    "中文": "山腳下",
+    "Nanwang": "paibaibalr",
+    "Zhiben": "makalusu i zenan",
+    "Jianhe": "kemidikidir",
+    "Xiqun": "makalusu kana zenan"
+  },
+  {
+    "中文": "山藥",
+    "Nanwang": "tanuban",
+    "Zhiben": "tavurayray",
+    "Jianhe": "tavurayray",
+    "Xiqun": "tavurayray/tanuvan"
+  },
+  {
+    "中文": "山蘇",
+    "Nanwang": "lukutr",
+    "Zhiben": "lukutr",
+    "Jianhe": "lukuc",
+    "Xiqun": "lukutr"
+  },
+  {
+    "中文": "山豬",
+    "Nanwang": "babuy",
+    "Zhiben": "vavuy",
+    "Jianhe": "vavuy",
+    "Xiqun": "vavuy"
+  },
+  {
+    "中文": "岩洞",
+    "Nanwang": "tinimangan",
+    "Zhiben": "lriv",
+    "Jianhe": "ilriv",
+    "Xiqun": "ilriv"
+  },
+  {
+    "中文": "崇山峻嶺",
+    "Nanwang": "drenadrenan",
+    "Zhiben": "marikatrakatras na zenan",
+    "Jianhe": "hena na marikacakacas",
+    "Xiqun": "tengatengalr"
+  },
+  {
+    "中文": "崩落",
+    "Nanwang": "mutrepar",
+    "Zhiben": "mutrapera",
+    "Jianhe": "mucapera",
+    "Xiqun": "trapera"
+  },
+  {
+    "中文": "工作",
+    "Nanwang": "kikarun",
+    "Zhiben": "kiyakarun",
+    "Jianhe": "kiyakarun",
+    "Xiqun": "kikarun"
+  },
+  {
+    "中文": "工具",
+    "Nanwang": "sinadaday",
+    "Zhiben": "ta aeman nu kiyakarun",
+    "Jianhe": "dogu",
+    "Xiqun": "kiyakarukarun"
+  },
+  {
+    "中文": "工寮",
+    "Nanwang": "talrabiyaw",
+    "Zhiben": "talraviyaw",
+    "Jianhe": "taluan",
+    "Xiqun": "talraviyaw/sizir"
+  },
+  {
+    "中文": "左邊",
+    "Nanwang": "tarawiri",
+    "Zhiben": "tarawiri",
+    "Jianhe": "tarawiri",
+    "Xiqun": "tarawiri"
+  },
+  {
+    "中文": "帶",
+    "Nanwang": "kasu",
+    "Zhiben": "ada",
+    "Jianhe": "adayu",
+    "Xiqun": "urung"
+  },
+  {
+    "中文": "帽子",
+    "Nanwang": "kabung",
+    "Zhiben": "talupung",
+    "Jianhe": "talupung",
+    "Xiqun": "talupung/kavung"
+  },
+  {
+    "中文": "幫忙",
+    "Nanwang": "pulrang",
+    "Zhiben": "pulralrang",
+    "Jianhe": "pulralrang",
+    "Xiqun": "puwalrang"
+  },
+  {
+    "中文": "平埔族",
+    "Nanwang": "Palilraw",
+    "Zhiben": "avangulran",
+    "Jianhe": "Lrungkiyaw",
+    "Xiqun": "vangulran"
+  },
+  {
+    "中文": "年輕時",
+    "Nanwang": "lralrak driya",
+    "Zhiben": "a lralrak ziyan",
+    "Jianhe": "lralrak diya",
+    "Xiqun": "lralrak"
+  },
+  {
+    "中文": "幼犬",
+    "Nanwang": "tutuy",
+    "Zhiben": "kuku",
+    "Jianhe": "kuku",
+    "Xiqun": "kurkur/tutuy/kuku"
+  },
+  {
+    "中文": "床舖",
+    "Nanwang": "saesa",
+    "Zhiben": "sa'sa'",
+    "Jianhe": "sa'sa'",
+    "Xiqun": "sa'esa'"
+  },
+  {
+    "中文": "庭院",
+    "Nanwang": "babalu",
+    "Zhiben": "patraran",
+    "Jianhe": "pacaran",
+    "Xiqun": "patraran"
+  },
+  {
+    "中文": "廁所",
+    "Nanwang": "puwatraiyan",
+    "Zhiben": "tavununan",
+    "Jianhe": "caca'iyan / sasuvulan",
+    "Xiqun": "uwatra'iyan"
+  },
+  {
+    "中文": "弓",
+    "Nanwang": "bakenan",
+    "Zhiben": "kazaris",
+    "Jianhe": "kadalis",
+    "Xiqun": "vusur/kadalis"
+  },
+  {
+    "中文": "弟媳",
+    "Nanwang": "umus",
+    "Zhiben": "kuravak",
+    "Jianhe": "kuravak",
+    "Xiqun": "kuravak"
+  },
+  {
+    "中文": "弧形(底)鍋",
+    "Nanwang": "daderuwan",
+    "Zhiben": "deruwan",
+    "Jianhe": "deruwan",
+    "Xiqun": "deruwan"
+  },
+  {
+    "中文": "彎曲",
+    "Nanwang": "matrikatrikal",
+    "Zhiben": "matrikal",
+    "Jianhe": "malikaw",
+    "Xiqun": "tikal"
+  },
+  {
+    "中文": "彎腰",
+    "Nanwang": "magunugun",
+    "Zhiben": "mihunuhun",
+    "Jianhe": "mihunehun",
+    "Xiqun": "minuhun/mihelrep"
+  },
+  {
+    "中文": "彩虹",
+    "Nanwang": "riwanes",
+    "Zhiben": "patala'",
+    "Jianhe": "tara'",
+    "Xiqun": "'aliwanes"
+  },
+  {
+    "中文": "影子",
+    "Nanwang": "lralriwang",
+    "Zhiben": "'elralriwang",
+    "Jianhe": "'alriwang",
+    "Xiqun": "'elralriwang/'alriwang"
+  },
+  {
+    "中文": "很快",
+    "Nanwang": "arei",
+    "Zhiben": "'ilrepat",
+    "Jianhe": "'ilrepat",
+    "Xiqun": "dika"
+  },
+  {
+    "中文": "很硬",
+    "Nanwang": "betriil(treliin)",
+    "Zhiben": "matru'a",
+    "Jianhe": "macu'a",
+    "Xiqun": "atru'a"
+  },
+  {
+    "中文": "後天",
+    "Nanwang": "an da:man",
+    "Zhiben": "nu daman lra",
+    "Jianhe": "nu dadaman lra",
+    "Xiqun": "nu daman"
+  },
+  {
+    "中文": "後院",
+    "Nanwang": "babalu i likudran",
+    "Zhiben": "i likakuzan kana ruma'",
+    "Jianhe": "likudan",
+    "Xiqun": "likuzan"
+  },
+  {
+    "中文": "從某處",
+    "Nanwang": "kemay i...",
+    "Zhiben": "kemay i...",
+    "Jianhe": "kemay i..",
+    "Xiqun": "kemay"
+  },
+  {
+    "中文": "心臟",
+    "Nanwang": "muredudu",
+    "Zhiben": "'avuvung",
+    "Jianhe": "'avuvung",
+    "Xiqun": "mulududu/'avuvung/muluduludu"
+  },
+  {
+    "中文": "怎麼",
+    "Nanwang": "makuda",
+    "Zhiben": "kemazu",
+    "Jianhe": "kumuda",
+    "Xiqun": "kemudakuda"
+  },
+  {
+    "中文": "悶熱",
+    "Nanwang": "masubek",
+    "Zhiben": "vi'as",
+    "Jianhe": "mekemek",
+    "Xiqun": "mulretrelretr/zemangzang"
+  },
+  {
+    "中文": "意義",
+    "Nanwang": "pauwayan",
+    "Zhiben": "pauwayan",
+    "Jianhe": "pauwayan",
+    "Xiqun": "pauwayan"
+  },
+  {
+    "中文": "愛護",
+    "Nanwang": "lramanay",
+    "Zhiben": "kalramanaw",
+    "Jianhe": "kalramanaw",
+    "Xiqun": "lraman"
+  },
+  {
+    "中文": "懶惰",
+    "Nanwang": "matuka",
+    "Zhiben": "madariw",
+    "Jianhe": "madariw",
+    "Xiqun": "maratrang"
+  },
+  {
+    "中文": "懷孕",
+    "Nanwang": "papeli",
+    "Zhiben": "malii",
+    "Jianhe": "malii",
+    "Xiqun": "malii"
+  },
+  {
+    "中文": "成熟(果實)",
+    "Nanwang": "malulu",
+    "Zhiben": "mavul",
+    "Jianhe": "mavul",
+    "Xiqun": "mavul"
+  },
+  {
+    "中文": "我",
+    "Nanwang": "kuyku",
+    "Zhiben": "inku",
+    "Jianhe": "ku/ingku",
+    "Xiqun": "ku; ku; inku"
+  },
+  {
+    "中文": "我們",
+    "Nanwang": "mi",
+    "Zhiben": "iniyam",
+    "Jianhe": "mi/iniyam",
+    "Xiqun": "iniyam"
+  },
+  {
+    "中文": "我們(排除式)",
+    "Nanwang": "mimi",
+    "Zhiben": "mi",
+    "Jianhe": "mi",
+    "Xiqun": "mi; mi/niyam"
+  },
+  {
+    "中文": "我們的",
+    "Nanwang": "naniyam",
+    "Zhiben": "ninta",
+    "Jianhe": "naniyam",
+    "Xiqun": "ninta"
+  },
+  {
+    "中文": "我的",
+    "Nanwang": "nanku",
+    "Zhiben": "nanku",
+    "Jianhe": "nangku/ningku",
+    "Xiqun": "ku; nanku"
+  },
+  {
+    "中文": "戴(如戴帽子)",
+    "Nanwang": "pi…",
+    "Zhiben": "pi(talupung)",
+    "Jianhe": "mi…",
+    "Xiqun": "mi-/ may-"
+  },
+  {
+    "中文": "所以",
+    "Nanwang": "driyama",
+    "Zhiben": "semenenga lra",
+    "Jianhe": "semalra",
+    "Xiqun": "semeneng"
+  },
+  {
+    "中文": "扇子",
+    "Nanwang": "aebes",
+    "Zhiben": "'aves",
+    "Jianhe": "'aves",
+    "Xiqun": "'a'aves"
+  },
+  {
+    "中文": "手",
+    "Nanwang": "lima",
+    "Zhiben": "lima",
+    "Jianhe": "lima",
+    "Xiqun": "lima"
+  },
+  {
+    "中文": "手指",
+    "Nanwang": "dariwaewaan",
+    "Zhiben": "dariwa'awa'an",
+    "Jianhe": "dariwawa'an",
+    "Xiqun": "tatimutimus"
+  },
+  {
+    "中文": "手肘",
+    "Nanwang": "siku",
+    "Zhiben": "siku",
+    "Jianhe": "siku",
+    "Xiqun": "siku"
+  },
+  {
+    "中文": "手錶",
+    "Nanwang": "tuki",
+    "Zhiben": "tuki i lima",
+    "Jianhe": "tuki",
+    "Xiqun": "tuki"
+  },
+  {
+    "中文": "打(人)",
+    "Nanwang": "penukepuk",
+    "Zhiben": "temenged (za trau)",
+    "Jianhe": "temenged",
+    "Xiqun": "pukpuk"
+  },
+  {
+    "中文": "打哈欠",
+    "Nanwang": "emayaayay",
+    "Zhiben": "malruwav",
+    "Jianhe": "malruwav",
+    "Xiqun": "melruwav"
+  },
+  {
+    "中文": "打掃",
+    "Nanwang": "semelrap",
+    "Zhiben": "maidap",
+    "Jianhe": "maidap",
+    "Xiqun": "'elresap/idap"
+  },
+  {
+    "中文": "打瞌睡",
+    "Nanwang": "tungtung",
+    "Zhiben": "matungatung",
+    "Jianhe": "matungangtung",
+    "Xiqun": "matungatung/helralretung"
+  },
+  {
+    "中文": "打開",
+    "Nanwang": "trematruwalr",
+    "Zhiben": "truwalri",
+    "Jianhe": "cuwalri",
+    "Xiqun": "truwalr"
+  },
+  {
+    "中文": "扛",
+    "Nanwang": "benasak",
+    "Zhiben": "semangalr",
+    "Jianhe": "semangalr",
+    "Xiqun": "sangalr"
+  },
+  {
+    "中文": "扭轉",
+    "Nanwang": "meliyus",
+    "Zhiben": "penapiles",
+    "Jianhe": "limiyus",
+    "Xiqun": "piles"
+  },
+  {
+    "中文": "扯斷",
+    "Nanwang": "melretra",
+    "Zhiben": "lremetra",
+    "Jianhe": "mupicu'",
+    "Xiqun": "lretra"
+  },
+  {
+    "中文": "找到",
+    "Nanwang": "atrebung",
+    "Zhiben": "atrevungay",
+    "Jianhe": "acevung",
+    "Xiqun": "atrevung"
+  },
+  {
+    "中文": "抓癢",
+    "Nanwang": "gemutregutr",
+    "Zhiben": "pahahatrel",
+    "Jianhe": "pahacer",
+    "Xiqun": "pahatrel"
+  },
+  {
+    "中文": "折斷",
+    "Nanwang": "mutrikel",
+    "Zhiben": "remitru'",
+    "Jianhe": "limicu'",
+    "Xiqun": "pitru'"
+  },
+  {
+    "中文": "抱著",
+    "Nanwang": "kemaraba",
+    "Zhiben": "mava",
+    "Jianhe": "emava",
+    "Xiqun": "ava"
+  },
+  {
+    "中文": "抵達",
+    "Nanwang": "meredek",
+    "Zhiben": "medek",
+    "Jianhe": "meredek",
+    "Xiqun": "meredek"
+  },
+  {
+    "中文": "拇指",
+    "Nanwang": "atrengalran",
+    "Zhiben": "atrengalran",
+    "Jianhe": "'acengalran",
+    "Xiqun": "'atrengalran"
+  },
+  {
+    "中文": "拉",
+    "Nanwang": "kemedreng",
+    "Zhiben": "kemezeng",
+    "Jianhe": "kemedeng",
+    "Xiqun": "kezeng"
+  },
+  {
+    "中文": "招手",
+    "Nanwang": "penaidr",
+    "Zhiben": "temuatuwap",
+    "Jianhe": "tematuway",
+    "Xiqun": "tuwap/paiz"
+  },
+  {
+    "中文": "拜訪",
+    "Nanwang": "kirepanau",
+    "Zhiben": "muzazangi",
+    "Jianhe": "mudadangiya",
+    "Xiqun": "muzangi"
+  },
+  {
+    "中文": "拿取",
+    "Nanwang": "malak",
+    "Zhiben": "melak",
+    "Jianhe": "melak",
+    "Xiqun": "elak"
+  },
+  {
+    "中文": "指甲",
+    "Nanwang": "seki",
+    "Zhiben": "hamay",
+    "Jianhe": "hamay",
+    "Xiqun": "hamay"
+  },
+  {
+    "中文": "按住",
+    "Nanwang": "demepel",
+    "Zhiben": "demepel",
+    "Jianhe": "demepel",
+    "Xiqun": "depel"
+  },
+  {
+    "中文": "挑選",
+    "Nanwang": "pamili",
+    "Zhiben": "palalimi'",
+    "Jianhe": "penalimi'",
+    "Xiqun": "palimi'/pamili'"
+  },
+  {
+    "中文": "挖掘",
+    "Nanwang": "kemurekur",
+    "Zhiben": "kemerutr",
+    "Jianhe": "keruc",
+    "Xiqun": "kerutr"
+  },
+  {
+    "中文": "捕抓",
+    "Nanwang": "dremimutr",
+    "Zhiben": "'emevang",
+    "Jianhe": "'emevang",
+    "Xiqun": "'emevang"
+  },
+  {
+    "中文": "捕鳥陷阱",
+    "Nanwang": "kalala",
+    "Zhiben": "petrir",
+    "Jianhe": "'adures",
+    "Xiqun": "kalala"
+  },
+  {
+    "中文": "捻線",
+    "Nanwang": "emales",
+    "Zhiben": "trematrali",
+    "Jianhe": "cemacari",
+    "Xiqun": "trematrali/maeres"
+  },
+  {
+    "中文": "掐住",
+    "Nanwang": "penere",
+    "Zhiben": "vetre'elaw",
+    "Jianhe": "reme're'",
+    "Xiqun": "re're'"
+  },
+  {
+    "中文": "接(人)",
+    "Nanwang": "kitrebung",
+    "Zhiben": "kitratrevung",
+    "Jianhe": "kicevung",
+    "Xiqun": "kitrevung"
+  },
+  {
+    "中文": "接續",
+    "Nanwang": "tremulretrulr",
+    "Zhiben": "tratrungulray",
+    "Jianhe": "pacungulray",
+    "Xiqun": "patrutru"
+  },
+  {
+    "中文": "推",
+    "Nanwang": "semulrud",
+    "Zhiben": "semekesek",
+    "Jianhe": "sumukun",
+    "Xiqun": "sukun"
+  },
+  {
+    "中文": "掩埋",
+    "Nanwang": "tremebelr",
+    "Zhiben": "tremevelr",
+    "Jianhe": "semuvuk",
+    "Xiqun": "suvuk/sevuk"
+  },
+  {
+    "中文": "揉搓(衣物)",
+    "Nanwang": "lrutrelrutr",
+    "Zhiben": "mesmes za kavang",
+    "Jianhe": "lrumuwacelruc",
+    "Xiqun": "lrutrelrutr"
+  },
+  {
+    "中文": "提著",
+    "Nanwang": "tremilretrilr",
+    "Zhiben": "kemilrakilr",
+    "Jianhe": "kimilrakilr",
+    "Xiqun": "tringatring/trilrtrilr"
+  },
+  {
+    "中文": "插",
+    "Nanwang": "semaer",
+    "Zhiben": "semeredek",
+    "Jianhe": "sedekaw",
+    "Xiqun": "tusuk"
+  },
+  {
+    "中文": "握拳",
+    "Nanwang": "emarimetremetr",
+    "Zhiben": "'ememetr",
+    "Jianhe": "'emamec",
+    "Xiqun": "'emetr"
+  },
+  {
+    "中文": "揹小孩的背帶",
+    "Nanwang": "talraping",
+    "Zhiben": "siyalra",
+    "Jianhe": "avalr",
+    "Xiqun": "avalr"
+  },
+  {
+    "中文": "揹負(物品)",
+    "Nanwang": "penadrek",
+    "Zhiben": "penazek",
+    "Jianhe": "penadek",
+    "Xiqun": "pazek/kuzkuz"
+  },
+  {
+    "中文": "搔癢",
+    "Nanwang": "gemutregutr",
+    "Zhiben": "pahatrel",
+    "Jianhe": "pahacer",
+    "Xiqun": "pahatrel"
+  },
+  {
+    "中文": "搖動",
+    "Nanwang": "sigasug",
+    "Zhiben": "muhinghing",
+    "Jianhe": "himiyanghing",
+    "Xiqun": "trikatruk"
+  },
+  {
+    "中文": "搗",
+    "Nanwang": "matrinapan",
+    "Zhiben": "triyanapan",
+    "Jianhe": "sumuwahesuh",
+    "Xiqun": "dukel"
+  },
+  {
+    "中文": "搬運",
+    "Nanwang": "penalidring",
+    "Zhiben": "maakutr",
+    "Jianhe": "makuc",
+    "Xiqun": "akutr"
+  },
+  {
+    "中文": "搭建圍籬",
+    "Nanwang": "emaaladr",
+    "Zhiben": "'ema'alad",
+    "Jianhe": "'ema'alad",
+    "Xiqun": "'emalaz"
+  },
+  {
+    "中文": "摘取",
+    "Nanwang": "emubutr",
+    "Zhiben": "maalrutr",
+    "Jianhe": "malruc",
+    "Xiqun": "elrutr"
+  },
+  {
+    "中文": "摺疊",
+    "Nanwang": "tremekip",
+    "Zhiben": "tremekip",
+    "Jianhe": "cemikip",
+    "Xiqun": "trekip"
+  },
+  {
+    "中文": "撞到",
+    "Nanwang": "semalretrap",
+    "Zhiben": "kurlringtrup",
+    "Jianhe": "semalrecap",
+    "Xiqun": "salretrap"
+  },
+  {
+    "中文": "撫養",
+    "Nanwang": "benaaw",
+    "Zhiben": "venaaw",
+    "Jianhe": "paka'idang",
+    "Xiqun": "paka'izang"
+  },
+  {
+    "中文": "撬開",
+    "Nanwang": "lukiu",
+    "Zhiben": "ru'inaw kiyutrav",
+    "Jianhe": "pakcilraw/lu'inaw",
+    "Xiqun": "viyatr"
+  },
+  {
+    "中文": "擠",
+    "Nanwang": "emetreetr",
+    "Zhiben": "kur'is'is",
+    "Jianhe": "'emec'ec",
+    "Xiqun": "'etr'etr"
+  },
+  {
+    "中文": "擦拭",
+    "Nanwang": "emitrul",
+    "Zhiben": "mitrul",
+    "Jianhe": "micul",
+    "Xiqun": "itrul"
+  },
+  {
+    "中文": "攜帶(如帶傘)",
+    "Nanwang": "kemasu",
+    "Zhiben": "mada",
+    "Jianhe": "miinada…",
+    "Xiqun": "murung/ mi-"
+  },
+  {
+    "中文": "攪動",
+    "Nanwang": "tremiyur",
+    "Zhiben": "tremiyur",
+    "Jianhe": "cimiyur",
+    "Xiqun": "triyur"
+  },
+  {
+    "中文": "放屁",
+    "Nanwang": "benawang",
+    "Zhiben": "venawang",
+    "Jianhe": "venawang",
+    "Xiqun": "venawang"
+  },
+  {
+    "中文": "故意",
+    "Nanwang": "palreteng",
+    "Zhiben": "puraket",
+    "Jianhe": "puraket",
+    "Xiqun": "emangeanger"
+  },
+  {
+    "中文": "教會",
+    "Nanwang": "kiyukay",
+    "Zhiben": "kiyokay",
+    "Jianhe": "kiyokay",
+    "Xiqun": "kiyukay"
+  },
+  {
+    "中文": "散撒",
+    "Nanwang": "emapiyar",
+    "Zhiben": "patatepi'",
+    "Jianhe": "penatepi'",
+    "Xiqun": "tepi'"
+  },
+  {
+    "中文": "敲碎",
+    "Nanwang": "penese",
+    "Zhiben": "tutuku temeremes",
+    "Jianhe": "merames",
+    "Xiqun": "purpur"
+  },
+  {
+    "中文": "整天",
+    "Nanwang": "temedrer",
+    "Zhiben": "pare'aremeng",
+    "Jianhe": "pare'aremeng",
+    "Xiqun": "temezer"
+  },
+  {
+    "中文": "敵人",
+    "Nanwang": "alra",
+    "Zhiben": "'alra",
+    "Jianhe": "'alra",
+    "Xiqun": "'alra"
+  },
+  {
+    "中文": "文化",
+    "Nanwang": "kakuwayanan",
+    "Zhiben": "kakuwayanan",
+    "Jianhe": "bungka/kakuwayanan",
+    "Xiqun": "kakuwayanan"
+  },
+  {
+    "中文": "斧頭",
+    "Nanwang": "sudrip",
+    "Zhiben": "sudip",
+    "Jianhe": "sudip",
+    "Xiqun": "putaw/surip/suzip"
+  },
+  {
+    "中文": "新的",
+    "Nanwang": "bekal",
+    "Zhiben": "vekal",
+    "Jianhe": "vekal",
+    "Xiqun": "vekal"
+  },
+  {
+    "中文": "旁邊",
+    "Nanwang": "saninin",
+    "Zhiben": "ngidiran",
+    "Jianhe": "ngidiran",
+    "Xiqun": "ngaydiran/ngidiran"
+  },
+  {
+    "中文": "旋轉",
+    "Nanwang": "muliyuliyus",
+    "Zhiben": "muliyus/ liyus",
+    "Jianhe": "muliyuliyus",
+    "Xiqun": "liyus"
+  },
+  {
+    "中文": "日出",
+    "Nanwang": "semaserang",
+    "Zhiben": "mupapanayan na kadaw",
+    "Jianhe": "'idadenan",
+    "Xiqun": "mupana na kadaw/mupana na 'unin"
+  },
+  {
+    "中文": "日落",
+    "Nanwang": "mutenep na kadaw",
+    "Zhiben": "mutenep na kadaw",
+    "Jianhe": "alusu kadaw",
+    "Xiqun": "alusu na kadaw/alusu na 'unin"
+  },
+  {
+    "中文": "旱田",
+    "Nanwang": "maruwarum",
+    "Zhiben": "trangkangkar",
+    "Jianhe": "'uma maruwarum",
+    "Xiqun": "'uma"
+  },
+  {
+    "中文": "明亮",
+    "Nanwang": "semenan",
+    "Zhiben": "semenan",
+    "Jianhe": "semenan",
+    "Xiqun": "semenan"
+  },
+  {
+    "中文": "明天",
+    "Nanwang": "an daman",
+    "Zhiben": "nu 'emanan",
+    "Jianhe": "nu 'emanan",
+    "Xiqun": "nu 'emanan"
+  },
+  {
+    "中文": "明年",
+    "Nanwang": "mariami",
+    "Zhiben": "nu mari'ami",
+    "Jianhe": "mare'ami",
+    "Xiqun": "nu mari'ami"
+  },
+  {
+    "中文": "星星",
+    "Nanwang": "triur",
+    "Zhiben": "vitu'en",
+    "Jianhe": "vitu'en",
+    "Xiqun": "vitu'en/tri'ur"
+  },
+  {
+    "中文": "星期日",
+    "Nanwang": "kasedean dra liyusan",
+    "Zhiben": "kasede'an",
+    "Jianhe": "kasede'an",
+    "Xiqun": "kasede'an"
+  },
+  {
+    "中文": "春天",
+    "Nanwang": "kaseberan",
+    "Zhiben": "kaseveran",
+    "Jianhe": "kaseveran",
+    "Xiqun": "kaseveran"
+  },
+  {
+    "中文": "昨天",
+    "Nanwang": "a daman",
+    "Zhiben": "adaman",
+    "Jianhe": "adaman",
+    "Xiqun": "a daman"
+  },
+  {
+    "中文": "是嗎(語助詞)",
+    "Nanwang": "amau；aiwa",
+    "Zhiben": "maw",
+    "Jianhe": "diyamaw?",
+    "Xiqun": "mau ziyamaw"
+  },
+  {
+    "中文": "是的",
+    "Nanwang": "aiwa",
+    "Zhiben": "ai",
+    "Jianhe": "ai",
+    "Xiqun": "ai"
+  },
+  {
+    "中文": "是誰的",
+    "Nanwang": "nantaw kan manay",
+    "Zhiben": "ni eman",
+    "Jianhe": "ni eman",
+    "Xiqun": "ni eman"
+  },
+  {
+    "中文": "晚上",
+    "Nanwang": "karaub",
+    "Zhiben": "karauv",
+    "Jianhe": "karauv",
+    "Xiqun": "karauv"
+  },
+  {
+    "中文": "晾乾",
+    "Nanwang": "benaybay",
+    "Zhiben": "patrarangetrang",
+    "Jianhe": "pacarangcang",
+    "Xiqun": "vayvay"
+  },
+  {
+    "中文": "暖和",
+    "Nanwang": "sadeku",
+    "Zhiben": "sadeku",
+    "Jianhe": "sadeku",
+    "Xiqun": "sadeku"
+  },
+  {
+    "中文": "書",
+    "Nanwang": "tilin",
+    "Zhiben": "valray",
+    "Jianhe": "valray",
+    "Xiqun": "valray"
+  },
+  {
+    "中文": "月亮",
+    "Nanwang": "bulan",
+    "Zhiben": "'ilras",
+    "Jianhe": "vulan",
+    "Xiqun": "vulan"
+  },
+  {
+    "中文": "有",
+    "Nanwang": "ulraya",
+    "Zhiben": "ulra",
+    "Jianhe": "ulra",
+    "Xiqun": "ulra"
+  },
+  {
+    "中文": "朋友",
+    "Nanwang": "alialian",
+    "Zhiben": "ali'",
+    "Jianhe": "'aliyan",
+    "Xiqun": "'ali'/anay"
+  },
+  {
+    "中文": "木杵",
+    "Nanwang": "rasuk",
+    "Zhiben": "karesukan",
+    "Jianhe": "resuk",
+    "Xiqun": "'ules"
+  },
+  {
+    "中文": "木炭",
+    "Nanwang": "langelr",
+    "Zhiben": "'aped",
+    "Jianhe": "langelr",
+    "Xiqun": "langilr"
+  },
+  {
+    "中文": "木耳",
+    "Nanwang": "trangilangilayan",
+    "Zhiben": "tanungen",
+    "Jianhe": "tanungen",
+    "Xiqun": "tanungen"
+  },
+  {
+    "中文": "未來",
+    "Nanwang": "i likudran",
+    "Zhiben": "nu aidaidan lra",
+    "Jianhe": "nu aidaidan lra",
+    "Xiqun": "nu kaidaidan"
+  },
+  {
+    "中文": "李子",
+    "Nanwang": "kanuwad",
+    "Zhiben": "kanuwad",
+    "Jianhe": "maruwad",
+    "Xiqun": "manuwad/manudan"
+  },
+  {
+    "中文": "杯子",
+    "Nanwang": "takilr",
+    "Zhiben": "tiaw",
+    "Jianhe": "kuppu",
+    "Xiqun": "takilr"
+  },
+  {
+    "中文": "松鼠",
+    "Nanwang": "but",
+    "Zhiben": "vut",
+    "Jianhe": "vuut",
+    "Xiqun": "evut/ngevut/avut"
+  },
+  {
+    "中文": "枕頭",
+    "Nanwang": "sadralran",
+    "Zhiben": "'alunan",
+    "Jianhe": "sadalran",
+    "Xiqun": "salrazan/'alunan"
+  },
+  {
+    "中文": "枝條",
+    "Nanwang": "saadr",
+    "Zhiben": "sa'az",
+    "Jianhe": "sa'ad",
+    "Xiqun": "sa'az"
+  },
+  {
+    "中文": "某物之下",
+    "Nanwang": "makadare dra...",
+    "Zhiben": "makalusu…",
+    "Jianhe": "makalusu",
+    "Xiqun": "makalusu"
+  },
+  {
+    "中文": "柑橘",
+    "Nanwang": "asiru",
+    "Zhiben": "vartenuk",
+    "Jianhe": "vartenuk",
+    "Xiqun": "'asiru"
+  },
+  {
+    "中文": "柚子",
+    "Nanwang": "kamuraw",
+    "Zhiben": "kamuraw",
+    "Jianhe": "kamuraw",
+    "Xiqun": "kamuraw"
+  },
+  {
+    "中文": "柱子",
+    "Nanwang": "turak",
+    "Zhiben": "turak",
+    "Jianhe": "turak",
+    "Xiqun": "turak"
+  },
+  {
+    "中文": "校長",
+    "Nanwang": "tinutaudrung i takesian",
+    "Zhiben": "kociyo",
+    "Jianhe": "kociyo",
+    "Xiqun": "tinuma'izang i takesiyan"
+  },
+  {
+    "中文": "桃子",
+    "Nanwang": "lupas",
+    "Zhiben": "lupas",
+    "Jianhe": "lupas",
+    "Xiqun": "lupas/kalrup"
+  },
+  {
+    "中文": "桌子",
+    "Nanwang": "papadraran",
+    "Zhiben": "to",
+    "Jianhe": "tu",
+    "Xiqun": "etu"
+  },
+  {
+    "中文": "梅子",
+    "Nanwang": "umi",
+    "Zhiben": "umē",
+    "Jianhe": "umē",
+    "Xiqun": "umē"
+  },
+  {
+    "中文": "梗",
+    "Nanwang": "trusal",
+    "Zhiben": "'atrusal",
+    "Jianhe": "'aturas",
+    "Xiqun": "'atrusal"
+  },
+  {
+    "中文": "梳子",
+    "Nanwang": "garutr",
+    "Zhiben": "harutr",
+    "Jianhe": "haruc",
+    "Xiqun": "harutr"
+  },
+  {
+    "中文": "棉花",
+    "Nanwang": "takumulr",
+    "Zhiben": "takumulr",
+    "Jianhe": "takumulr",
+    "Xiqun": "takumulr"
+  },
+  {
+    "中文": "棉被",
+    "Nanwang": "trarub",
+    "Zhiben": "traruv",
+    "Jianhe": "caruv",
+    "Xiqun": "sawvan/traruv"
+  },
+  {
+    "中文": "森林",
+    "Nanwang": "kawikawi",
+    "Zhiben": "kawikawiyan",
+    "Jianhe": "kawikawiyan/zoling",
+    "Xiqun": "kawikawi"
+  },
+  {
+    "中文": "椅子",
+    "Nanwang": "katengadrawan(lipad)",
+    "Zhiben": "lipad",
+    "Jianhe": "lipad",
+    "Xiqun": "lipad"
+  },
+  {
+    "中文": "槍",
+    "Nanwang": "kuwang",
+    "Zhiben": "kuwang",
+    "Jianhe": "kuwang",
+    "Xiqun": "kuwang/pazerung"
+  },
+  {
+    "中文": "樓梯",
+    "Nanwang": "tadretadran",
+    "Zhiben": "sekayan",
+    "Jianhe": "sekayan",
+    "Xiqun": "sekayan"
+  },
+  {
+    "中文": "模仿",
+    "Nanwang": "melruwalru",
+    "Zhiben": "malrualru",
+    "Jianhe": "malrualru",
+    "Xiqun": "emalrualru"
+  },
+  {
+    "中文": "樹",
+    "Nanwang": "kawi",
+    "Zhiben": "kawi",
+    "Jianhe": "kawi",
+    "Xiqun": "kawi"
+  },
+  {
+    "中文": "樹枝",
+    "Nanwang": "saadr",
+    "Zhiben": "sa'az",
+    "Jianhe": "sa'ad",
+    "Xiqun": "sa'az"
+  },
+  {
+    "中文": "樹根",
+    "Nanwang": "rami",
+    "Zhiben": "rami",
+    "Jianhe": "rami/rakad",
+    "Xiqun": "rami"
+  },
+  {
+    "中文": "樹豆",
+    "Nanwang": "buaw",
+    "Zhiben": "uma'i",
+    "Jianhe": "uma'i",
+    "Xiqun": "uma'i"
+  },
+  {
+    "中文": "樹頭",
+    "Nanwang": "puudr",
+    "Zhiben": "rakaz",
+    "Jianhe": "rami",
+    "Xiqun": "rakaz"
+  },
+  {
+    "中文": "橋樑",
+    "Nanwang": "kayakay",
+    "Zhiben": "kayakay",
+    "Jianhe": "kayakay",
+    "Xiqun": "kayakay"
+  },
+  {
+    "中文": "橡皮擦",
+    "Nanwang": "iyasaus",
+    "Zhiben": "aivas",
+    "Jianhe": "aicur",
+    "Xiqun": "aitrul"
+  },
+  {
+    "中文": "檜木",
+    "Nanwang": "balrias",
+    "Zhiben": "hinoki",
+    "Jianhe": "hinoki",
+    "Xiqun": "valri'as"
+  },
+  {
+    "中文": "檳榔",
+    "Nanwang": "puran",
+    "Zhiben": "puran",
+    "Jianhe": "puran",
+    "Xiqun": "puran"
+  },
+  {
+    "中文": "歌",
+    "Nanwang": "senay",
+    "Zhiben": "senay",
+    "Jianhe": "senay",
+    "Xiqun": "senay"
+  },
+  {
+    "中文": "死亡",
+    "Nanwang": "minatray",
+    "Zhiben": "minatray",
+    "Jianhe": "minacay",
+    "Xiqun": "minatray"
+  },
+  {
+    "中文": "毒",
+    "Nanwang": "ibulr",
+    "Zhiben": "padawak",
+    "Jianhe": "dawak",
+    "Xiqun": "dawak"
+  },
+  {
+    "中文": "毛",
+    "Nanwang": "gumulr",
+    "Zhiben": "humulr",
+    "Jianhe": "humulr",
+    "Xiqun": "humulr"
+  },
+  {
+    "中文": "毛線",
+    "Nanwang": "pungsi",
+    "Zhiben": "pungsi",
+    "Jianhe": "pungsi",
+    "Xiqun": "pungsi"
+  },
+  {
+    "中文": "水",
+    "Nanwang": "enay",
+    "Zhiben": "zanum",
+    "Jianhe": "danum",
+    "Xiqun": "zanum/'enay"
+  },
+  {
+    "中文": "水患",
+    "Nanwang": "balenan",
+    "Zhiben": "mulauz na zanum tu alrangay na zekalr",
+    "Jianhe": "varenan",
+    "Xiqun": "valenan/velenan"
+  },
+  {
+    "中文": "水果",
+    "Nanwang": "kalimudan",
+    "Zhiben": "inaekan na vuwa'",
+    "Jianhe": "akanen a vuwa'",
+    "Xiqun": "inaekan na vuwa'"
+  },
+  {
+    "中文": "水桶",
+    "Nanwang": "paetang(bakis)",
+    "Zhiben": "vakis",
+    "Jianhe": "vakis",
+    "Xiqun": "vakis"
+  },
+  {
+    "中文": "水滴",
+    "Nanwang": "tepu dra enay",
+    "Zhiben": "matua'etu'",
+    "Jianhe": "temilralrepu'",
+    "Xiqun": "matu'etu'"
+  },
+  {
+    "中文": "水瓢(舀水用)",
+    "Nanwang": "lraub",
+    "Zhiben": "kazung",
+    "Jianhe": "kadung",
+    "Xiqun": "kazung/lra'uv"
+  },
+  {
+    "中文": "水管",
+    "Nanwang": "puwasanun",
+    "Zhiben": "'anun",
+    "Jianhe": "'anun",
+    "Xiqun": "'anun"
+  },
+  {
+    "中文": "水鹿",
+    "Nanwang": "marenem",
+    "Zhiben": "marenem",
+    "Jianhe": "marenem",
+    "Xiqun": "marenem"
+  },
+  {
+    "中文": "汗水",
+    "Nanwang": "marelradek",
+    "Zhiben": "saringan",
+    "Jianhe": "saringan",
+    "Xiqun": "saringan/marenadek"
+  },
+  {
+    "中文": "污垢",
+    "Nanwang": "kitral",
+    "Zhiben": "naki",
+    "Jianhe": "lrica'",
+    "Xiqun": "lritra'"
+  },
+  {
+    "中文": "沒有",
+    "Nanwang": "uniyan",
+    "Zhiben": "uniyan",
+    "Jianhe": "uniyan",
+    "Xiqun": "iniyan/uniyan"
+  },
+  {
+    "中文": "沒有(表擁有的否定詞)",
+    "Nanwang": "uniyan",
+    "Zhiben": "uniyan",
+    "Jianhe": "uniyan",
+    "Xiqun": "iniyan/uniyan"
+  },
+  {
+    "中文": "沒關係",
+    "Nanwang": "kakuda amaw",
+    "Zhiben": "'aziya lra eman",
+    "Jianhe": "kakuda lra",
+    "Xiqun": "mayman lra/kakuda lra"
+  },
+  {
+    "中文": "沙子",
+    "Nanwang": "budek",
+    "Zhiben": "vutrek",
+    "Jianhe": "vucek",
+    "Xiqun": "vutrek"
+  },
+  {
+    "中文": "河流",
+    "Nanwang": "kabalawasan",
+    "Zhiben": "zinanuman",
+    "Jianhe": "dinanuman",
+    "Xiqun": "zinanuman"
+  },
+  {
+    "中文": "油",
+    "Nanwang": "imar",
+    "Zhiben": "lrawlraw",
+    "Jianhe": "lrawlraw",
+    "Xiqun": "imar/lrawlraw"
+  },
+  {
+    "中文": "油脂",
+    "Nanwang": "imar",
+    "Zhiben": "lrawlraw",
+    "Jianhe": "'arev",
+    "Xiqun": "imar/lrawlraw"
+  },
+  {
+    "中文": "沿著山巒",
+    "Nanwang": "makadrenadrenan",
+    "Zhiben": "miturus kana pinizenanan",
+    "Jianhe": "makahenahenan",
+    "Xiqun": "makazenazenan"
+  },
+  {
+    "中文": "泥土",
+    "Nanwang": "dare",
+    "Zhiben": "dare'",
+    "Jianhe": "dare'",
+    "Xiqun": "dare'"
+  },
+  {
+    "中文": "洗(衣物)",
+    "Nanwang": "benase",
+    "Zhiben": "remames",
+    "Jianhe": "marames",
+    "Xiqun": "vase'"
+  },
+  {
+    "中文": "洞穴",
+    "Nanwang": "tinimangan",
+    "Zhiben": "vangvang",
+    "Jianhe": "luvang",
+    "Xiqun": "kerutr"
+  },
+  {
+    "中文": "流氓",
+    "Nanwang": "lumuwa",
+    "Zhiben": "lumuwa",
+    "Jianhe": "lumuwa",
+    "Xiqun": "lumuwa"
+  },
+  {
+    "中文": "流血",
+    "Nanwang": "mudadamuk",
+    "Zhiben": "mudara'",
+    "Jianhe": "mudara'",
+    "Xiqun": "mudara'/mudamuk"
+  },
+  {
+    "中文": "浪費",
+    "Nanwang": "meranaranak",
+    "Zhiben": "mipela'",
+    "Jianhe": "mipela'",
+    "Xiqun": "meranak/mipela'"
+  },
+  {
+    "中文": "海邊",
+    "Nanwang": "laliyaban",
+    "Zhiben": "lrevelrevek",
+    "Jianhe": "lrevek",
+    "Xiqun": "lrevelrevek"
+  },
+  {
+    "中文": "浸泡",
+    "Nanwang": "dremerem",
+    "Zhiben": "semaud",
+    "Jianhe": "demerem",
+    "Xiqun": "zerem"
+  },
+  {
+    "中文": "涉水而過",
+    "Nanwang": "melabat",
+    "Zhiben": "lemavat za zanum",
+    "Jianhe": "lemalavat da dinanuman",
+    "Xiqun": "lavat"
+  },
+  {
+    "中文": "混以某物",
+    "Nanwang": "emuri",
+    "Zhiben": "pinar'uri za…",
+    "Jianhe": "'inuri",
+    "Xiqun": "zaul"
+  },
+  {
+    "中文": "清晨",
+    "Nanwang": "semabalr",
+    "Zhiben": "'emanamanan",
+    "Jianhe": "'uninaninan",
+    "Xiqun": "semavalr"
+  },
+  {
+    "中文": "渴",
+    "Nanwang": "aaw",
+    "Zhiben": "'aw",
+    "Jianhe": "'au",
+    "Xiqun": "'awu"
+  },
+  {
+    "中文": "游泳",
+    "Nanwang": "melranguy",
+    "Zhiben": "pakulima",
+    "Jianhe": "pakulima",
+    "Xiqun": "melranguy"
+  },
+  {
+    "中文": "湖泊",
+    "Nanwang": "danaw",
+    "Zhiben": "danaw",
+    "Jianhe": "danaw",
+    "Xiqun": "danaw"
+  },
+  {
+    "中文": "湯",
+    "Nanwang": "siyaw",
+    "Zhiben": "siyaw na zanum",
+    "Jianhe": "siyaw",
+    "Xiqun": "siyaw"
+  },
+  {
+    "中文": "湯匙",
+    "Nanwang": "idrus",
+    "Zhiben": "karayup",
+    "Jianhe": "karayup",
+    "Xiqun": "'izus"
+  },
+  {
+    "中文": "湯鍋",
+    "Nanwang": "bulrawan",
+    "Zhiben": "vulrawan",
+    "Jianhe": "vulrawan",
+    "Xiqun": "vulrawan"
+  },
+  {
+    "中文": "溫泉",
+    "Nanwang": "ebing",
+    "Zhiben": "'eving",
+    "Jianhe": "'eving",
+    "Xiqun": "'eving"
+  },
+  {
+    "中文": "滑",
+    "Nanwang": "dalus",
+    "Zhiben": "dalus",
+    "Jianhe": "dalus",
+    "Xiqun": "dalus"
+  },
+  {
+    "中文": "滾落",
+    "Nanwang": "mukulukulung",
+    "Zhiben": "mukulukulung",
+    "Jianhe": "mukulukulung",
+    "Xiqun": "mukulukulung"
+  },
+  {
+    "中文": "滿了",
+    "Nanwang": "matemuy",
+    "Zhiben": "matemuy lra",
+    "Jianhe": "matemuy",
+    "Xiqun": "matemuy"
+  },
+  {
+    "中文": "滿滿",
+    "Nanwang": "matemuy",
+    "Zhiben": "matemuy",
+    "Jianhe": "matemuy",
+    "Xiqun": "matemuy"
+  },
+  {
+    "中文": "漂亮",
+    "Nanwang": "bulay",
+    "Zhiben": "vulay",
+    "Jianhe": "vulay",
+    "Xiqun": "vulay"
+  },
+  {
+    "中文": "澀澀的(味覺)",
+    "Nanwang": "asepa",
+    "Zhiben": "'asepa",
+    "Jianhe": "'asepa",
+    "Xiqun": "'asepa"
+  },
+  {
+    "中文": "濕的",
+    "Nanwang": "daleken",
+    "Zhiben": "sapene'",
+    "Jianhe": "dareken",
+    "Xiqun": "sapene'"
+  },
+  {
+    "中文": "瀑布",
+    "Nanwang": "temalresa",
+    "Zhiben": "tremelralresa'",
+    "Jianhe": "telrisa'an",
+    "Xiqun": "telrisa'an/telrisa'/talrisa'"
+  },
+  {
+    "中文": "火",
+    "Nanwang": "apuy",
+    "Zhiben": "apuy",
+    "Jianhe": "apuy",
+    "Xiqun": "apuy"
+  },
+  {
+    "中文": "火車",
+    "Nanwang": "igiw",
+    "Zhiben": "kissiya",
+    "Jianhe": "kissiya",
+    "Xiqun": "kisiya"
+  },
+  {
+    "中文": "灰色",
+    "Nanwang": "emabuabu",
+    "Zhiben": "kara'avu'avu",
+    "Jianhe": "kara'avu'avu",
+    "Xiqun": "'emavu'avu"
+  },
+  {
+    "中文": "炭灰",
+    "Nanwang": "abu",
+    "Zhiben": "nasuk",
+    "Jianhe": "'avu",
+    "Xiqun": "'avu"
+  },
+  {
+    "中文": "為什麼",
+    "Nanwang": "daw",
+    "Zhiben": "kemazu zi",
+    "Jianhe": "man kemadu",
+    "Xiqun": "kemuda"
+  },
+  {
+    "中文": "烏鴉",
+    "Nanwang": "katanga",
+    "Zhiben": "wa'wa'",
+    "Jianhe": "wa'wa'",
+    "Xiqun": "wa'ewa'/takunga"
+  },
+  {
+    "中文": "烏龜",
+    "Nanwang": "driyaranga",
+    "Zhiben": "turu",
+    "Jianhe": "turu",
+    "Xiqun": "ziyaranga"
+  },
+  {
+    "中文": "煙",
+    "Nanwang": "bulebul",
+    "Zhiben": "'asevan",
+    "Jianhe": "'asevan",
+    "Xiqun": "'asevan"
+  },
+  {
+    "中文": "熊",
+    "Nanwang": "trumay",
+    "Zhiben": "trumay",
+    "Jianhe": "cumay",
+    "Xiqun": "trumay"
+  },
+  {
+    "中文": "熟",
+    "Nanwang": "maderu",
+    "Zhiben": "mavul",
+    "Jianhe": "mavur",
+    "Xiqun": "maderu"
+  },
+  {
+    "中文": "燙到",
+    "Nanwang": "musalretung",
+    "Zhiben": "mulasu'",
+    "Jianhe": "lasu'",
+    "Xiqun": "lasu'"
+  },
+  {
+    "中文": "爬上(去)",
+    "Nanwang": "muisatr",
+    "Zhiben": "kemaskas",
+    "Jianhe": "kemapekap",
+    "Xiqun": "kapkap"
+  },
+  {
+    "中文": "爬行",
+    "Nanwang": "malala",
+    "Zhiben": "muharaharang",
+    "Jianhe": "muharaharang",
+    "Xiqun": "muharaharang"
+  },
+  {
+    "中文": "爸爸",
+    "Nanwang": "ama",
+    "Zhiben": "ama",
+    "Jianhe": "ama",
+    "Xiqun": "ama"
+  },
+  {
+    "中文": "牆壁",
+    "Nanwang": "libeng",
+    "Zhiben": "liveng",
+    "Jianhe": "liveng",
+    "Xiqun": "liveng"
+  },
+  {
+    "中文": "牙齒",
+    "Nanwang": "walri",
+    "Zhiben": "walri",
+    "Jianhe": "walri",
+    "Xiqun": "walri"
+  },
+  {
+    "中文": "牛",
+    "Nanwang": "gung",
+    "Zhiben": "hung",
+    "Jianhe": "hung",
+    "Xiqun": "hung"
+  },
+  {
+    "中文": "狗",
+    "Nanwang": "suwan",
+    "Zhiben": "suwan",
+    "Jianhe": "suwan",
+    "Xiqun": "suwan"
+  },
+  {
+    "中文": "狗吠聲",
+    "Nanwang": "melaun",
+    "Zhiben": "malaun",
+    "Jianhe": "lemaun",
+    "Xiqun": "melaun"
+  },
+  {
+    "中文": "猴子",
+    "Nanwang": "lutung",
+    "Zhiben": "ungay",
+    "Jianhe": "ungay",
+    "Xiqun": "lutung"
+  },
+  {
+    "中文": "獨自一人",
+    "Nanwang": "mutukasa",
+    "Zhiben": "mutukasa",
+    "Jianhe": "kasasayan",
+    "Xiqun": "sasa"
+  },
+  {
+    "中文": "獵刀",
+    "Nanwang": "tadraw",
+    "Zhiben": "vungvung",
+    "Jianhe": "tadaw",
+    "Xiqun": "tazaw"
+  },
+  {
+    "中文": "獵物(統稱)",
+    "Nanwang": "rawa",
+    "Zhiben": "rawa",
+    "Jianhe": "rawa",
+    "Xiqun": "rawa"
+  },
+  {
+    "中文": "玉米",
+    "Nanwang": "kadumu",
+    "Zhiben": "kudumu",
+    "Jianhe": "kudumu",
+    "Xiqun": "kudumu/kadumu"
+  },
+  {
+    "中文": "玩(球)",
+    "Nanwang": "malinay",
+    "Zhiben": "kivangangavang za mali",
+    "Jianhe": "malimali",
+    "Xiqun": "malinay"
+  },
+  {
+    "中文": "現在",
+    "Nanwang": "garem",
+    "Zhiben": "harem",
+    "Jianhe": "harem",
+    "Xiqun": "harem"
+  },
+  {
+    "中文": "球",
+    "Nanwang": "mali",
+    "Zhiben": "mali",
+    "Jianhe": "mali",
+    "Xiqun": "mali"
+  },
+  {
+    "中文": "瓶子",
+    "Nanwang": "dalilr",
+    "Zhiben": "dalilr",
+    "Jianhe": "dalilr",
+    "Xiqun": "dalilr"
+  },
+  {
+    "中文": "甘甜",
+    "Nanwang": "demalreu",
+    "Zhiben": "tavu'",
+    "Jianhe": "tavu'",
+    "Xiqun": "dalreu/tavu'"
+  },
+  {
+    "中文": "甘蔗",
+    "Nanwang": "asepan",
+    "Zhiben": "varikuway",
+    "Jianhe": "valikuway",
+    "Xiqun": "tevu/'asepan"
+  },
+  {
+    "中文": "生日",
+    "Nanwang": "piniwalrakan na wari",
+    "Zhiben": "pinialrakan na wari",
+    "Jianhe": "inupanayan na wari",
+    "Xiqun": "inupanayan"
+  },
+  {
+    "中文": "生氣",
+    "Nanwang": "ilremes",
+    "Zhiben": "'ilremes",
+    "Jianhe": "'ilremes",
+    "Xiqun": "'ilremes"
+  },
+  {
+    "中文": "生火",
+    "Nanwang": "purebu",
+    "Zhiben": "puwarevu",
+    "Jianhe": "purevu",
+    "Xiqun": "purevu"
+  },
+  {
+    "中文": "生病",
+    "Nanwang": "kualeng",
+    "Zhiben": "kualeng",
+    "Jianhe": "kuwaleng",
+    "Xiqun": "kuwaleng"
+  },
+  {
+    "中文": "用途",
+    "Nanwang": "puwatrepayan",
+    "Zhiben": "kakudain",
+    "Jianhe": "kakudain",
+    "Xiqun": "kakudayan"
+  },
+  {
+    "中文": "田鼠",
+    "Nanwang": "kulabaw",
+    "Zhiben": "'avutar",
+    "Jianhe": "'avutar",
+    "Xiqun": "'avutar/kulavaw"
+  },
+  {
+    "中文": "甲狀腺腫",
+    "Nanwang": "buur",
+    "Zhiben": "vu'er",
+    "Jianhe": "vu'er",
+    "Xiqun": "mavu'er"
+  },
+  {
+    "中文": "男孩",
+    "Nanwang": "walrak na mainayan",
+    "Zhiben": "ma'inay",
+    "Jianhe": "ma'inay",
+    "Xiqun": "ma'inayan"
+  },
+  {
+    "中文": "男性",
+    "Nanwang": "mainayan",
+    "Zhiben": "ma'inay",
+    "Jianhe": "ma'inayan",
+    "Xiqun": "ma'inayan"
+  },
+  {
+    "中文": "男用遮陰布",
+    "Nanwang": "pakusis",
+    "Zhiben": "pakusis",
+    "Jianhe": "sinunguc",
+    "Xiqun": "pakusis"
+  },
+  {
+    "中文": "留下",
+    "Nanwang": "mubilin",
+    "Zhiben": "vilinaw",
+    "Jianhe": "muvilin",
+    "Xiqun": "vilin"
+  },
+  {
+    "中文": "畫圖",
+    "Nanwang": "temutrautrau",
+    "Zhiben": "tremuri tremawtrau ∕ zemenga",
+    "Jianhe": "cumuri cemaucau ∕zemenga",
+    "Xiqun": "turi"
+  },
+  {
+    "中文": "當時",
+    "Nanwang": "adrunu",
+    "Zhiben": "a azu",
+    "Jianhe": "adu",
+    "Xiqun": "a azu"
+  },
+  {
+    "中文": "疤",
+    "Nanwang": "lraitr",
+    "Zhiben": "lra'it",
+    "Jianhe": "lra'ic",
+    "Xiqun": "lra'itr"
+  },
+  {
+    "中文": "痛",
+    "Nanwang": "nana",
+    "Zhiben": "nana",
+    "Jianhe": "nana",
+    "Xiqun": "nana"
+  },
+  {
+    "中文": "痰",
+    "Nanwang": "tama",
+    "Zhiben": "tama",
+    "Jianhe": "tama",
+    "Xiqun": "ile'"
+  },
+  {
+    "中文": "瘦(身形)",
+    "Nanwang": "idriidriwan",
+    "Zhiben": "varivariw",
+    "Jianhe": "valivaliw",
+    "Xiqun": "varivariw"
+  },
+  {
+    "中文": "癢",
+    "Nanwang": "samek",
+    "Zhiben": "hatrel",
+    "Jianhe": "hacer",
+    "Xiqun": "hatrel"
+  },
+  {
+    "中文": "發抖",
+    "Nanwang": "magenegen",
+    "Zhiben": "maherareher",
+    "Jianhe": "maherareher",
+    "Xiqun": "hirahir"
+  },
+  {
+    "中文": "白米",
+    "Nanwang": "beras",
+    "Zhiben": "veras",
+    "Jianhe": "veras",
+    "Xiqun": "veras"
+  },
+  {
+    "中文": "白色",
+    "Nanwang": "bulenan",
+    "Zhiben": "velretri'",
+    "Jianhe": "vulreci'",
+    "Xiqun": "vulretri'"
+  },
+  {
+    "中文": "白蘿蔔",
+    "Nanwang": "saytaw",
+    "Zhiben": "saytaw",
+    "Jianhe": "saytaw",
+    "Xiqun": "saytaw"
+  },
+  {
+    "中文": "百",
+    "Nanwang": "leman",
+    "Zhiben": "leman",
+    "Jianhe": "leman",
+    "Xiqun": "leman"
+  },
+  {
+    "中文": "百步蛇",
+    "Nanwang": "maidrang na unan",
+    "Zhiben": "ma'izang na unan",
+    "Jianhe": "ma'idang a unan",
+    "Xiqun": "ma'izang/temuwan"
+  },
+  {
+    "中文": "百香果",
+    "Nanwang": "paysiyangko",
+    "Zhiben": "tokēso",
+    "Jianhe": "tokiso",
+    "Xiqun": "tukisu"
+  },
+  {
+    "中文": "皮",
+    "Nanwang": "lubitr",
+    "Zhiben": "luvitr",
+    "Jianhe": "ruvic",
+    "Xiqun": "luvitr"
+  },
+  {
+    "中文": "目標",
+    "Nanwang": "tratrepayan",
+    "Zhiben": "paalruwan",
+    "Jianhe": "cacepayan",
+    "Xiqun": "tratrepayan"
+  },
+  {
+    "中文": "直",
+    "Nanwang": "patedrelr",
+    "Zhiben": "patezelr",
+    "Jianhe": "patedelr",
+    "Xiqun": "patezelr"
+  },
+  {
+    "中文": "相片",
+    "Nanwang": "kinamaumauwan",
+    "Zhiben": "sasing",
+    "Jianhe": "siyasing",
+    "Xiqun": "sasing"
+  },
+  {
+    "中文": "看",
+    "Nanwang": "menau",
+    "Zhiben": "mena'u",
+    "Jianhe": "mena'u",
+    "Xiqun": "na'u"
+  },
+  {
+    "中文": "看起來",
+    "Nanwang": "an menau",
+    "Zhiben": "nu mena'u ta",
+    "Jianhe": "nu mena'u ta",
+    "Xiqun": "mena'u mu"
+  },
+  {
+    "中文": "真的",
+    "Nanwang": "panaan",
+    "Zhiben": "tatena'",
+    "Jianhe": "tatena'",
+    "Xiqun": "tatena'"
+  },
+  {
+    "中文": "眼睛",
+    "Nanwang": "matra",
+    "Zhiben": "matra",
+    "Jianhe": "maca",
+    "Xiqun": "matra"
+  },
+  {
+    "中文": "眼鏡蛇",
+    "Nanwang": "'ap'ap",
+    "Zhiben": "'ap'ap",
+    "Jianhe": "'ap'ap",
+    "Xiqun": "'ap'ap"
+  },
+  {
+    "中文": "睜眼",
+    "Nanwang": "meliatr",
+    "Zhiben": "muli'at",
+    "Jianhe": "limi'ac",
+    "Xiqun": "li'atr"
+  },
+  {
+    "中文": "睡覺",
+    "Nanwang": "alrupe",
+    "Zhiben": "alrupe'",
+    "Jianhe": "alrupe'",
+    "Xiqun": "alrupe'"
+  },
+  {
+    "中文": "瞄準",
+    "Nanwang": "patrepayan",
+    "Zhiben": "trepayanay",
+    "Jianhe": "penacepa",
+    "Xiqun": "melringitr/meringitr"
+  },
+  {
+    "中文": "瞎了",
+    "Nanwang": "mabutri",
+    "Zhiben": "mavutri' lra",
+    "Jianhe": "mavuci'",
+    "Xiqun": "mavutri'"
+  },
+  {
+    "中文": "矛",
+    "Nanwang": "kutang",
+    "Zhiben": "ilrus",
+    "Jianhe": "'ilrus",
+    "Xiqun": "ilrus"
+  },
+  {
+    "中文": "知道",
+    "Nanwang": "malradram",
+    "Zhiben": "mazalram",
+    "Jianhe": "madalram",
+    "Xiqun": "malrazam"
+  },
+  {
+    "中文": "石頭",
+    "Nanwang": "barasa",
+    "Zhiben": "varasa'",
+    "Jianhe": "varasa'",
+    "Xiqun": "varasa'"
+  },
+  {
+    "中文": "砍",
+    "Nanwang": "ematek",
+    "Zhiben": "metek",
+    "Jianhe": "matek",
+    "Xiqun": "etek"
+  },
+  {
+    "中文": "砍除",
+    "Nanwang": "merabi",
+    "Zhiben": "atekaw 'ematelr",
+    "Jianhe": "lrempit",
+    "Xiqun": "dangdang"
+  },
+  {
+    "中文": "碗",
+    "Nanwang": "kaising",
+    "Zhiben": "kisi",
+    "Jianhe": "kaysing",
+    "Xiqun": "kaysing"
+  },
+  {
+    "中文": "神父",
+    "Nanwang": "sinpusang",
+    "Zhiben": "sinpusang",
+    "Jianhe": "sinpusang",
+    "Xiqun": "sinpusang"
+  },
+  {
+    "中文": "禁忌",
+    "Nanwang": "lregiyan",
+    "Zhiben": "palisi",
+    "Jianhe": "palisi",
+    "Xiqun": "palisi"
+  },
+  {
+    "中文": "禱告",
+    "Nanwang": "kianun",
+    "Zhiben": "kianun",
+    "Jianhe": "kiyanun",
+    "Xiqun": "kianun"
+  },
+  {
+    "中文": "秋天",
+    "Nanwang": "kapuluan",
+    "Zhiben": "ventratreli",
+    "Jianhe": "vencaceli",
+    "Xiqun": "venetratrili/kautrerahan/'emami"
+  },
+  {
+    "中文": "種子",
+    "Nanwang": "bini",
+    "Zhiben": "'apapiyar",
+    "Jianhe": "'apiyar",
+    "Xiqun": "'apiyar/vini'"
+  },
+  {
+    "中文": "種植",
+    "Nanwang": "semalem",
+    "Zhiben": "semalem",
+    "Jianhe": "semalem",
+    "Xiqun": "salem"
+  },
+  {
+    "中文": "種類",
+    "Nanwang": "nirekameniyan",
+    "Zhiben": "mawan",
+    "Jianhe": "mawan",
+    "Xiqun": "mauwan"
+  },
+  {
+    "中文": "稻穀",
+    "Nanwang": "asalr",
+    "Zhiben": "lumay",
+    "Jianhe": "lumay",
+    "Xiqun": "lumay"
+  },
+  {
+    "中文": "稻草",
+    "Nanwang": "daramiyan",
+    "Zhiben": "daramiyan",
+    "Jianhe": "daramiyan",
+    "Xiqun": "daramiyan"
+  },
+  {
+    "中文": "穀倉",
+    "Nanwang": "alili",
+    "Zhiben": "suru",
+    "Jianhe": "suru",
+    "Xiqun": "puwalumayan"
+  },
+  {
+    "中文": "空心菜",
+    "Nanwang": "takungkung",
+    "Zhiben": "takungkung",
+    "Jianhe": "takungkung",
+    "Xiqun": "takungkung/ingsay"
+  },
+  {
+    "中文": "穿(如穿衣服)",
+    "Nanwang": "miya…",
+    "Zhiben": "miya(kavang)",
+    "Jianhe": "mikavng",
+    "Xiqun": "mi-/ may-"
+  },
+  {
+    "中文": "穿山甲",
+    "Nanwang": "arem",
+    "Zhiben": "'arem",
+    "Jianhe": "'arem",
+    "Xiqun": "'arem"
+  },
+  {
+    "中文": "窗戶",
+    "Nanwang": "lataw",
+    "Zhiben": "lataw",
+    "Jianhe": "lataw",
+    "Xiqun": "lataw"
+  },
+  {
+    "中文": "窩巢",
+    "Nanwang": "rubu",
+    "Zhiben": "ruvu",
+    "Jianhe": "ruvu",
+    "Xiqun": "ruvu"
+  },
+  {
+    "中文": "站著",
+    "Nanwang": "maretigir",
+    "Zhiben": "matikeriz",
+    "Jianhe": "matikedir",
+    "Xiqun": "matikezir/maketizir"
+  },
+  {
+    "中文": "竹子",
+    "Nanwang": "basikaw",
+    "Zhiben": "vasikaw",
+    "Jianhe": "vasikaw",
+    "Xiqun": "vasikaw"
+  },
+  {
+    "中文": "竹筍",
+    "Nanwang": "selu",
+    "Zhiben": "selu'",
+    "Jianhe": "seru'",
+    "Xiqun": "selu'/sulu'"
+  },
+  {
+    "中文": "竹筒",
+    "Nanwang": "lawas",
+    "Zhiben": "tawlung",
+    "Jianhe": "tawlung",
+    "Xiqun": "tawlung"
+  },
+  {
+    "中文": "笑",
+    "Nanwang": "saeru",
+    "Zhiben": "liked",
+    "Jianhe": "liked",
+    "Xiqun": "liked"
+  },
+  {
+    "中文": "筆",
+    "Nanwang": "tratruri",
+    "Zhiben": "tratruli",
+    "Jianhe": "impic",
+    "Xiqun": "impis"
+  },
+  {
+    "中文": "等待",
+    "Nanwang": "mengangara",
+    "Zhiben": "mengangara",
+    "Jianhe": "mangara",
+    "Xiqun": "ngara"
+  },
+  {
+    "中文": "箭矢",
+    "Nanwang": "papana",
+    "Zhiben": "valru'",
+    "Jianhe": "valru'",
+    "Xiqun": "valru'"
+  },
+  {
+    "中文": "篩子",
+    "Nanwang": "saydriyan",
+    "Zhiben": "hahan",
+    "Jianhe": "vitay",
+    "Xiqun": "vitay"
+  },
+  {
+    "中文": "簍子",
+    "Nanwang": "punun",
+    "Zhiben": "'ara",
+    "Jianhe": "'ara",
+    "Xiqun": "karesis/kari'is/kara'is"
+  },
+  {
+    "中文": "米糠",
+    "Nanwang": "labu",
+    "Zhiben": "'etra",
+    "Jianhe": "'eca",
+    "Xiqun": "'etra"
+  },
+  {
+    "中文": "粥",
+    "Nanwang": "inenaenay",
+    "Zhiben": "zanuwanum",
+    "Jianhe": "melaw",
+    "Xiqun": "inidis/zanuzanum/'ena'enay"
+  },
+  {
+    "中文": "糖",
+    "Nanwang": "walru",
+    "Zhiben": "walru",
+    "Jianhe": "walru",
+    "Xiqun": "walru"
+  },
+  {
+    "中文": "糯米",
+    "Nanwang": "driketran",
+    "Zhiben": "lriketran",
+    "Jianhe": "lrikecan",
+    "Xiqun": "ziketran"
+  },
+  {
+    "中文": "紅色",
+    "Nanwang": "midrarang",
+    "Zhiben": "zangzarang",
+    "Jianhe": "dangdarang",
+    "Xiqun": "zemiyar"
+  },
+  {
+    "中文": "紙張",
+    "Nanwang": "kadupu",
+    "Zhiben": "valray",
+    "Jianhe": "valray",
+    "Xiqun": "kadepu"
+  },
+  {
+    "中文": "紫色的",
+    "Nanwang": "dremalemedrem",
+    "Zhiben": "tremangiyangiya",
+    "Jianhe": "cemangiya",
+    "Xiqun": "vala'ala'ang/karuzangzang/merunu"
+  },
+  {
+    "中文": "累",
+    "Nanwang": "maulep",
+    "Zhiben": "rapi'",
+    "Jianhe": "maulep",
+    "Xiqun": "ulep"
+  },
+  {
+    "中文": "細線",
+    "Nanwang": "walay",
+    "Zhiben": "walay",
+    "Jianhe": "walay",
+    "Xiqun": "walay"
+  },
+  {
+    "中文": "結婚",
+    "Nanwang": "puwaruma",
+    "Zhiben": "pakaetim",
+    "Jianhe": "pakaetim",
+    "Xiqun": "pakaetim/puwaruma'/paveray"
+  },
+  {
+    "中文": "綁住",
+    "Nanwang": "benetebet",
+    "Zhiben": "vinetevet",
+    "Jianhe": "venetevet",
+    "Xiqun": "vetvet"
+  },
+  {
+    "中文": "經常",
+    "Nanwang": "marayas",
+    "Zhiben": "marayas",
+    "Jianhe": "marayas",
+    "Xiqun": "marayas"
+  },
+  {
+    "中文": "經過",
+    "Nanwang": "melibat",
+    "Zhiben": "lemavat",
+    "Jianhe": "lemavat",
+    "Xiqun": "melavat/'emelivat"
+  },
+  {
+    "中文": "綠色",
+    "Nanwang": "miraat",
+    "Zhiben": "rema'at",
+    "Jianhe": "rema'at",
+    "Xiqun": "mera'at"
+  },
+  {
+    "中文": "綠豆",
+    "Nanwang": "sungaw",
+    "Zhiben": "sungaw",
+    "Jianhe": "sungaw",
+    "Xiqun": "sungaw"
+  },
+  {
+    "中文": "網子",
+    "Nanwang": "tabukulr",
+    "Zhiben": "savang",
+    "Jianhe": "savang",
+    "Xiqun": "savang"
+  },
+  {
+    "中文": "縫隙",
+    "Nanwang": "nirekasedean",
+    "Zhiben": "ngarngar",
+    "Jianhe": "ngacac",
+    "Xiqun": "ngatratr"
+  },
+  {
+    "中文": "繩索",
+    "Nanwang": "tatilu",
+    "Zhiben": "tilu'",
+    "Jianhe": "tilu'",
+    "Xiqun": "tatilu'"
+  },
+  {
+    "中文": "羊",
+    "Nanwang": "siri",
+    "Zhiben": "takulris",
+    "Jianhe": "takulris",
+    "Xiqun": "takulris"
+  },
+  {
+    "中文": "翅膀",
+    "Nanwang": "pakepak",
+    "Zhiben": "pakpak ∕ kapkap",
+    "Jianhe": "pakpak",
+    "Xiqun": "pakpak/pakipak"
+  },
+  {
+    "中文": "翻倒",
+    "Nanwang": "musalupiyang",
+    "Zhiben": "musali'udeng",
+    "Jianhe": "musali'udeng",
+    "Xiqun": "salipiyang/salupiyang"
+  },
+  {
+    "中文": "翻動",
+    "Nanwang": "beneliyas",
+    "Zhiben": "veneliyas",
+    "Jianhe": "veneliyas",
+    "Xiqun": "veliyas"
+  },
+  {
+    "中文": "老人家",
+    "Nanwang": "maidrang",
+    "Zhiben": "dawdawan",
+    "Jianhe": "dawdawan",
+    "Xiqun": "dawdawan"
+  },
+  {
+    "中文": "老師",
+    "Nanwang": "sinsi",
+    "Zhiben": "sinsi",
+    "Jianhe": "sinsi",
+    "Xiqun": "sinsi"
+  },
+  {
+    "中文": "老鷹",
+    "Nanwang": "kaylung",
+    "Zhiben": "'atilawlaw",
+    "Jianhe": "'acilawlaw",
+    "Xiqun": "'adawisan/'alrawisan"
+  },
+  {
+    "中文": "耳朵",
+    "Nanwang": "trangila",
+    "Zhiben": "tralinga",
+    "Jianhe": "calinga",
+    "Xiqun": "tralinga/trangila"
+  },
+  {
+    "中文": "聽",
+    "Nanwang": "kilrengaw",
+    "Zhiben": "kinger",
+    "Jianhe": "kinger",
+    "Xiqun": "kinger"
+  },
+  {
+    "中文": "聽說",
+    "Nanwang": "kinilrengawan",
+    "Zhiben": "mikiningeran",
+    "Jianhe": "kema",
+    "Xiqun": "kiningeran"
+  },
+  {
+    "中文": "肉",
+    "Nanwang": "patraka",
+    "Zhiben": "isi",
+    "Jianhe": "isi/tiwngan",
+    "Xiqun": "isi"
+  },
+  {
+    "中文": "肋骨",
+    "Nanwang": "balaba",
+    "Zhiben": "valava",
+    "Jianhe": "valava",
+    "Xiqun": "valava"
+  },
+  {
+    "中文": "肚兜",
+    "Nanwang": "pakelrep",
+    "Zhiben": "kelrep",
+    "Jianhe": "pakelrep",
+    "Xiqun": "pakelrep"
+  },
+  {
+    "中文": "肚子",
+    "Nanwang": "tiyalr",
+    "Zhiben": "tiyalr",
+    "Jianhe": "tiyalr",
+    "Xiqun": "tiyalr"
+  },
+  {
+    "中文": "肝臟",
+    "Nanwang": "rami",
+    "Zhiben": "'atray",
+    "Jianhe": "'acay",
+    "Xiqun": "'atray/rami"
+  },
+  {
+    "中文": "肥料",
+    "Nanwang": "dradraruk",
+    "Zhiben": "patremel",
+    "Jianhe": "hiliyo/pudaruken",
+    "Xiqun": "zazaruk"
+  },
+  {
+    "中文": "肥皂",
+    "Nanwang": "sabun",
+    "Zhiben": "savun",
+    "Jianhe": "savun",
+    "Xiqun": "savun"
+  },
+  {
+    "中文": "肩膀",
+    "Nanwang": "iyab",
+    "Zhiben": "'iyav",
+    "Jianhe": "'iyav",
+    "Xiqun": "'iyav"
+  },
+  {
+    "中文": "肺",
+    "Nanwang": "kunbuwan",
+    "Zhiben": "vara'",
+    "Jianhe": "vala'",
+    "Xiqun": "kunvuwan/vara'"
+  },
+  {
+    "中文": "胃",
+    "Nanwang": "bitruka",
+    "Zhiben": "vitruka",
+    "Jianhe": "vicuka",
+    "Xiqun": "vitruka"
+  },
+  {
+    "中文": "背部",
+    "Nanwang": "drakur",
+    "Zhiben": "likuzan",
+    "Jianhe": "likudan",
+    "Xiqun": "likuzan"
+  },
+  {
+    "中文": "胖(身形)",
+    "Nanwang": "ulane",
+    "Zhiben": "semever",
+    "Jianhe": "semver/kecevi",
+    "Xiqun": "semever"
+  },
+  {
+    "中文": "胡瓜",
+    "Nanwang": "atunga",
+    "Zhiben": "kiwli",
+    "Jianhe": "irid",
+    "Xiqun": "ilid"
+  },
+  {
+    "中文": "胡蘿蔔",
+    "Nanwang": "ninzing",
+    "Zhiben": "ninzing",
+    "Jianhe": "ningzing",
+    "Xiqun": "ninzing"
+  },
+  {
+    "中文": "胸腔",
+    "Nanwang": "tagerang",
+    "Zhiben": "taherang",
+    "Jianhe": "taherang",
+    "Xiqun": "taherang/taharang"
+  },
+  {
+    "中文": "能夠",
+    "Nanwang": "karuwa",
+    "Zhiben": "karuwa",
+    "Jianhe": "karuwa",
+    "Xiqun": "karuwa"
+  },
+  {
+    "中文": "脖子",
+    "Nanwang": "nien",
+    "Zhiben": "ni'en",
+    "Jianhe": "ni'en",
+    "Xiqun": "ni'en"
+  },
+  {
+    "中文": "腋窩",
+    "Nanwang": "kidrukidruwan",
+    "Zhiben": "lre'lre'",
+    "Jianhe": "lre'lre'",
+    "Xiqun": "lre'lre'"
+  },
+  {
+    "中文": "腎臟",
+    "Nanwang": "tratrepil",
+    "Zhiben": "varasarasa'",
+    "Jianhe": "varasarasa'",
+    "Xiqun": "venarasa'/varasarasa'"
+  },
+  {
+    "中文": "腫",
+    "Nanwang": "benare",
+    "Zhiben": "venare'",
+    "Jianhe": "venare'",
+    "Xiqun": "venare'"
+  },
+  {
+    "中文": "腰帶",
+    "Nanwang": "paretr",
+    "Zhiben": "lunain",
+    "Jianhe": "parec",
+    "Xiqun": "lunain/paeretr"
+  },
+  {
+    "中文": "腰部",
+    "Nanwang": "paparetran",
+    "Zhiben": "pulunaynan",
+    "Jianhe": "puparecan",
+    "Xiqun": "pulunainan/paparetan"
+  },
+  {
+    "中文": "腳",
+    "Nanwang": "dapalr",
+    "Zhiben": "kuwi",
+    "Jianhe": "kuwi",
+    "Xiqun": "kuy/kuwi"
+  },
+  {
+    "中文": "腳掌",
+    "Nanwang": "daduwas",
+    "Zhiben": "dapalr",
+    "Jianhe": "dapalr",
+    "Xiqun": "dapalr"
+  },
+  {
+    "中文": "腳踏車",
+    "Nanwang": "didinsiya",
+    "Zhiben": "cidinsiya",
+    "Jianhe": "dinsiya",
+    "Xiqun": "mareturus/zidēnsiya"
+  },
+  {
+    "中文": "膝蓋",
+    "Nanwang": "sungal",
+    "Zhiben": "vulan",
+    "Jianhe": "tudu",
+    "Xiqun": "tuzu"
+  },
+  {
+    "中文": "膽囊",
+    "Nanwang": "apedu",
+    "Zhiben": "'apudu",
+    "Jianhe": "'apudu",
+    "Xiqun": "'apedu"
+  },
+  {
+    "中文": "臀部",
+    "Nanwang": "tedrek",
+    "Zhiben": "tedek",
+    "Jianhe": "tedek",
+    "Xiqun": "tezek"
+  },
+  {
+    "中文": "臉",
+    "Nanwang": "trangar",
+    "Zhiben": "mudingan",
+    "Jianhe": "mudingan",
+    "Xiqun": "mudingan"
+  },
+  {
+    "中文": "舅子",
+    "Nanwang": "yanay",
+    "Zhiben": "kuravak",
+    "Jianhe": "kuravak",
+    "Xiqun": "kuravak"
+  },
+  {
+    "中文": "舊的",
+    "Nanwang": "maluman",
+    "Zhiben": "maluman",
+    "Jianhe": "maluman",
+    "Xiqun": "maluman"
+  },
+  {
+    "中文": "舌頭",
+    "Nanwang": "sema",
+    "Zhiben": "lidam",
+    "Jianhe": "lidam",
+    "Xiqun": "lidam"
+  },
+  {
+    "中文": "舔",
+    "Nanwang": "benaelay",
+    "Zhiben": "'alev",
+    "Jianhe": "ma'alev",
+    "Xiqun": "'alev"
+  },
+  {
+    "中文": "芋頭",
+    "Nanwang": "buir",
+    "Zhiben": "vu'ir",
+    "Jianhe": "vu'ir",
+    "Xiqun": "vu'ir"
+  },
+  {
+    "中文": "花朵",
+    "Nanwang": "aputr",
+    "Zhiben": "'aputr",
+    "Jianhe": "'apuc",
+    "Xiqun": "'aputr"
+  },
+  {
+    "中文": "苦",
+    "Nanwang": "apelrilr",
+    "Zhiben": "'apelrin",
+    "Jianhe": "'apelrin",
+    "Xiqun": "'apelrin/'apelrilr"
+  },
+  {
+    "中文": "苧麻",
+    "Nanwang": "keriw",
+    "Zhiben": "keriw",
+    "Jianhe": "keriw",
+    "Xiqun": "keriw"
+  },
+  {
+    "中文": "苧麻線",
+    "Nanwang": "walay dra keriw",
+    "Zhiben": "keriw na walay",
+    "Jianhe": "walay a keriw",
+    "Xiqun": "keriw"
+  },
+  {
+    "中文": "英俊",
+    "Nanwang": "bangesar",
+    "Zhiben": "vangsar",
+    "Jianhe": "vangsar",
+    "Xiqun": "vangesar"
+  },
+  {
+    "中文": "草",
+    "Nanwang": "tralun",
+    "Zhiben": "tralunan",
+    "Jianhe": "calunan",
+    "Xiqun": "tralun"
+  },
+  {
+    "中文": "草原",
+    "Nanwang": "traluwalun",
+    "Zhiben": "traluwalun",
+    "Jianhe": "calun",
+    "Xiqun": "tralutralun"
+  },
+  {
+    "中文": "菜刀",
+    "Nanwang": "saytu",
+    "Zhiben": "saytu",
+    "Jianhe": "saytu",
+    "Xiqun": "saytu"
+  },
+  {
+    "中文": "菜盤",
+    "Nanwang": "piyadr(sara)",
+    "Zhiben": "sara",
+    "Jianhe": "sara",
+    "Xiqun": "sara"
+  },
+  {
+    "中文": "菜餚",
+    "Nanwang": "irupan",
+    "Zhiben": "siyaw",
+    "Jianhe": "siyaw",
+    "Xiqun": "irupan"
+  },
+  {
+    "中文": "菸草",
+    "Nanwang": "tamaku",
+    "Zhiben": "tamaku",
+    "Jianhe": "tamaku",
+    "Xiqun": "tamaku"
+  },
+  {
+    "中文": "葉子",
+    "Nanwang": "bira",
+    "Zhiben": "vira'",
+    "Jianhe": "vira'",
+    "Xiqun": "truvu/vira'"
+  },
+  {
+    "中文": "蒼蠅",
+    "Nanwang": "ngangalaw",
+    "Zhiben": "ngangalaw",
+    "Jianhe": "ngangalaw",
+    "Xiqun": "ngangalaw"
+  },
+  {
+    "中文": "蓋子",
+    "Nanwang": "atrab",
+    "Zhiben": "atrav",
+    "Jianhe": "linav",
+    "Xiqun": "aetrav"
+  },
+  {
+    "中文": "蓋屋頂",
+    "Nanwang": "semasaub",
+    "Zhiben": "semasa'uv",
+    "Jianhe": "semasa'uv",
+    "Xiqun": "semasa'uv"
+  },
+  {
+    "中文": "蓋被子",
+    "Nanwang": "pitrarub",
+    "Zhiben": "pitraruv",
+    "Jianhe": "micaruv",
+    "Xiqun": "traruv"
+  },
+  {
+    "中文": "蔥",
+    "Nanwang": "kenaw",
+    "Zhiben": "kenaw",
+    "Jianhe": "kenaw",
+    "Xiqun": "kenaw"
+  },
+  {
+    "中文": "薄的",
+    "Nanwang": "salresalr",
+    "Zhiben": "alripit",
+    "Jianhe": "alripic",
+    "Xiqun": "aripitr"
+  },
+  {
+    "中文": "藏起來",
+    "Nanwang": "melrasedr",
+    "Zhiben": "vulriyaw",
+    "Jianhe": "vulriyaw",
+    "Xiqun": "vulri"
+  },
+  {
+    "中文": "藥物",
+    "Nanwang": "puwatremel",
+    "Zhiben": "patremel",
+    "Jianhe": "pacemel",
+    "Xiqun": "puwatremel"
+  },
+  {
+    "中文": "虎頭蜂",
+    "Nanwang": "tidrulr",
+    "Zhiben": "vurut",
+    "Jianhe": "tidulr",
+    "Xiqun": "tizulr"
+  },
+  {
+    "中文": "蚊子",
+    "Nanwang": "samekan",
+    "Zhiben": "pedped",
+    "Jianhe": "pedped",
+    "Xiqun": "kengkeng"
+  },
+  {
+    "中文": "蚯蚓",
+    "Nanwang": "uretati",
+    "Zhiben": "utati",
+    "Jianhe": "'uretati",
+    "Xiqun": "'utati"
+  },
+  {
+    "中文": "蚱蜢",
+    "Nanwang": "edulr",
+    "Zhiben": "pakeniyaw",
+    "Jianhe": "kasimalay",
+    "Xiqun": "kasimalay/kakeras/'edulr/sawmi"
+  },
+  {
+    "中文": "蛇",
+    "Nanwang": "unan",
+    "Zhiben": "unan",
+    "Jianhe": "unan",
+    "Xiqun": "unan"
+  },
+  {
+    "中文": "蛋",
+    "Nanwang": "bitrenun",
+    "Zhiben": "vetrinun",
+    "Jianhe": "vucinun",
+    "Xiqun": "vetrinun/trinun"
+  },
+  {
+    "中文": "蜘蛛",
+    "Nanwang": "kamakamang",
+    "Zhiben": "kakamang",
+    "Jianhe": "kakamang",
+    "Xiqun": "kamakamang"
+  },
+  {
+    "中文": "蜜",
+    "Nanwang": "walru",
+    "Zhiben": "walru",
+    "Jianhe": "kawalruwan",
+    "Xiqun": "kawalruwan"
+  },
+  {
+    "中文": "蜜蜂",
+    "Nanwang": "gerger",
+    "Zhiben": "'alrivatrengan",
+    "Jianhe": "valri'acengan",
+    "Xiqun": "walru"
+  },
+  {
+    "中文": "蜻蜓",
+    "Nanwang": "tibalrbalr",
+    "Zhiben": "tengteng",
+    "Jianhe": "tengteng",
+    "Xiqun": "valruvalrulren/valruvalrur/valruvalruran"
+  },
+  {
+    "中文": "蝙蝠",
+    "Nanwang": "balakenitr",
+    "Zhiben": "lalapit",
+    "Jianhe": "lapic",
+    "Xiqun": "lalapit/kalapit/lrapilrapitr"
+  },
+  {
+    "中文": "蝦",
+    "Nanwang": "kuyan",
+    "Zhiben": "'ezang",
+    "Jianhe": "'edang",
+    "Xiqun": "'a'ezang/kuyan"
+  },
+  {
+    "中文": "蝴蝶",
+    "Nanwang": "aribanglranglrawan",
+    "Zhiben": "sirusirupan",
+    "Jianhe": "sirusirupan",
+    "Xiqun": "'alrivangvang/sirusirupan"
+  },
+  {
+    "中文": "蝸牛",
+    "Nanwang": "tamurarang",
+    "Zhiben": "dindin",
+    "Jianhe": "dindin",
+    "Xiqun": "tamurarang/sekiw/semuli"
+  },
+  {
+    "中文": "螃蟹",
+    "Nanwang": "garang",
+    "Zhiben": "harang",
+    "Jianhe": "harang",
+    "Xiqun": "rina'/harang"
+  },
+  {
+    "中文": "螞蟻",
+    "Nanwang": "iyabureng",
+    "Zhiben": "'ivavureng",
+    "Jianhe": "'ivavureng",
+    "Xiqun": "'iyavureng"
+  },
+  {
+    "中文": "蟑螂",
+    "Nanwang": "lalaib",
+    "Zhiben": "'alralripis",
+    "Jianhe": "lralripis",
+    "Xiqun": "'alalaip/tatavang/tavatavang"
+  },
+  {
+    "中文": "蟬",
+    "Nanwang": "darulralrlralr",
+    "Zhiben": "visvis",
+    "Jianhe": "visvis",
+    "Xiqun": "lralrlralr/lraslras"
+  },
+  {
+    "中文": "蟲(統稱)",
+    "Nanwang": "uled",
+    "Zhiben": "'uled",
+    "Jianhe": "'uled",
+    "Xiqun": "'uled"
+  },
+  {
+    "中文": "血",
+    "Nanwang": "damuk",
+    "Zhiben": "dara'",
+    "Jianhe": "dara'",
+    "Xiqun": "dara'/damuk"
+  },
+  {
+    "中文": "衣服",
+    "Nanwang": "kiruwan",
+    "Zhiben": "kavang",
+    "Jianhe": "kavang",
+    "Xiqun": "kavang/kiping"
+  },
+  {
+    "中文": "袋子",
+    "Nanwang": "lubuk",
+    "Zhiben": "lravatr",
+    "Jianhe": "luvuk",
+    "Xiqun": "luvuk"
+  },
+  {
+    "中文": "袖子",
+    "Nanwang": "aselr",
+    "Zhiben": "'aselr za kavang",
+    "Jianhe": "'aselr na kavang",
+    "Xiqun": "'aselr"
+  },
+  {
+    "中文": "裂開",
+    "Nanwang": "murengatr",
+    "Zhiben": "mupangtra'",
+    "Jianhe": "murengac",
+    "Xiqun": "murengatr"
+  },
+  {
+    "中文": "裙子",
+    "Nanwang": "sekatu",
+    "Zhiben": "sikatu",
+    "Jianhe": "sekatu",
+    "Xiqun": "sekatu"
+  },
+  {
+    "中文": "要來",
+    "Nanwang": "dradruwa",
+    "Zhiben": "zazuwa",
+    "Jianhe": "daduwa",
+    "Xiqun": "zazuwa"
+  },
+  {
+    "中文": "觀察",
+    "Nanwang": "temaranau",
+    "Zhiben": "mena'una'u",
+    "Jianhe": "mena'una'u",
+    "Xiqun": "mena'una'u"
+  },
+  {
+    "中文": "角落",
+    "Nanwang": "repuyungan",
+    "Zhiben": "kapuyungan",
+    "Jianhe": "kapuyungan",
+    "Xiqun": "puyung"
+  },
+  {
+    "中文": "設置",
+    "Nanwang": "paragan",
+    "Zhiben": "demaway lra",
+    "Jianhe": "dinaway",
+    "Xiqun": "parahan"
+  },
+  {
+    "中文": "詢問",
+    "Nanwang": "kiyumalr",
+    "Zhiben": "kiumaumalr",
+    "Jianhe": "kiumalr",
+    "Xiqun": "kiumalr"
+  },
+  {
+    "中文": "語言",
+    "Nanwang": "ngaiyan",
+    "Zhiben": "piningaiyan",
+    "Jianhe": "ngai",
+    "Xiqun": "ngai"
+  },
+  {
+    "中文": "誰",
+    "Nanwang": "i manay",
+    "Zhiben": "i eman",
+    "Jianhe": "i eman",
+    "Xiqun": "i eman"
+  },
+  {
+    "中文": "謝謝",
+    "Nanwang": "semangalan",
+    "Zhiben": "lrayuan",
+    "Jianhe": "lrayuwan",
+    "Xiqun": "lrayuwan"
+  },
+  {
+    "中文": "謾罵",
+    "Nanwang": "penunang",
+    "Zhiben": "masaselru",
+    "Jianhe": "masaselru",
+    "Xiqun": "venavarang"
+  },
+  {
+    "中文": "警察",
+    "Nanwang": "kinsas",
+    "Zhiben": "kinsas",
+    "Jianhe": "kinsas",
+    "Xiqun": "kinsas"
+  },
+  {
+    "中文": "讓開",
+    "Nanwang": "usaninin",
+    "Zhiben": "palavatu",
+    "Jianhe": "pulawangi",
+    "Xiqun": "usannin/usaynin"
+  },
+  {
+    "中文": "豆芽",
+    "Nanwang": "tawsay",
+    "Zhiben": "tawsay",
+    "Jianhe": "tawsay",
+    "Xiqun": "tawsay"
+  },
+  {
+    "中文": "豆類",
+    "Nanwang": "kubay",
+    "Zhiben": "kuvay",
+    "Jianhe": "kuvay diya",
+    "Xiqun": "kuvay"
+  },
+  {
+    "中文": "豎立",
+    "Nanwang": "paretigir",
+    "Zhiben": "patikeriz",
+    "Jianhe": "patikedir",
+    "Xiqun": "patikezir/paketizir"
+  },
+  {
+    "中文": "豬",
+    "Nanwang": "lriyung",
+    "Zhiben": "verek",
+    "Jianhe": "lriyung",
+    "Xiqun": "lriyung"
+  },
+  {
+    "中文": "豬肉",
+    "Nanwang": "patraka dra lriyung",
+    "Zhiben": "'alum",
+    "Jianhe": "tiwngan a lriyung",
+    "Xiqun": "tiwngan/'alum"
+  },
+  {
+    "中文": "豹",
+    "Nanwang": "likulraw",
+    "Zhiben": "likulraw",
+    "Jianhe": "likulraw",
+    "Xiqun": "likulraw"
+  },
+  {
+    "中文": "貓",
+    "Nanwang": "ngiyaw",
+    "Zhiben": "ngiyaw",
+    "Jianhe": "ngiyaw",
+    "Xiqun": "ngiyaw"
+  },
+  {
+    "中文": "貓頭鷹",
+    "Nanwang": "lreu",
+    "Zhiben": "lre'u",
+    "Jianhe": "'alrecu",
+    "Xiqun": "'alretru"
+  },
+  {
+    "中文": "贈送(禮物)",
+    "Nanwang": "beray",
+    "Zhiben": "vaveray za pakasahar",
+    "Jianhe": "veray",
+    "Xiqun": "veray"
+  },
+  {
+    "中文": "走(離開)",
+    "Nanwang": "burek",
+    "Zhiben": "muveruk",
+    "Jianhe": "vuruk/kiruwaday",
+    "Xiqun": "muveruk"
+  },
+  {
+    "中文": "走路",
+    "Nanwang": "kemakawang",
+    "Zhiben": "kemakawang",
+    "Jianhe": "kemakawang",
+    "Xiqun": "kemakawang"
+  },
+  {
+    "中文": "起立",
+    "Nanwang": "karetigir",
+    "Zhiben": "katikeriz",
+    "Jianhe": "kalahan/katikedir",
+    "Xiqun": "katikezir/kaketizir"
+  },
+  {
+    "中文": "越溪而過",
+    "Nanwang": "melabat",
+    "Zhiben": "lemavat kana valilruwan",
+    "Jianhe": "lemalavat da dinanuman",
+    "Xiqun": "melavat kana zinanuman"
+  },
+  {
+    "中文": "趕上",
+    "Nanwang": "melelep",
+    "Zhiben": "alepaw",
+    "Jianhe": "mualep",
+    "Xiqun": "elep"
+  },
+  {
+    "中文": "趕走",
+    "Nanwang": "bawiyu",
+    "Zhiben": "'alrupu ∕ veruku",
+    "Jianhe": "vurukaw",
+    "Xiqun": "puveruk"
+  },
+  {
+    "中文": "跌倒",
+    "Nanwang": "malradu",
+    "Zhiben": "madalru'",
+    "Jianhe": "kuretapelra'",
+    "Xiqun": "kuretapelra'"
+  },
+  {
+    "中文": "跑 (祈使)",
+    "Nanwang": "kabekas",
+    "Zhiben": "pavekas",
+    "Jianhe": "pavekas",
+    "Xiqun": "pavekas"
+  },
+  {
+    "中文": "跛腳",
+    "Nanwang": "matripu",
+    "Zhiben": "matripu'",
+    "Jianhe": "macipu'",
+    "Xiqun": "tripu'"
+  },
+  {
+    "中文": "跨過",
+    "Nanwang": "melekaw",
+    "Zhiben": "lemawan",
+    "Jianhe": "kemalawang",
+    "Xiqun": "lawan"
+  },
+  {
+    "中文": "跳蚤",
+    "Nanwang": "timela",
+    "Zhiben": "'atimela",
+    "Jianhe": "'atimla",
+    "Xiqun": "'atimla"
+  },
+  {
+    "中文": "跳躍",
+    "Nanwang": "menekun",
+    "Zhiben": "munekun",
+    "Jianhe": "menkun",
+    "Xiqun": "nekun"
+  },
+  {
+    "中文": "踢",
+    "Nanwang": "emaresudr",
+    "Zhiben": "tremapi'i",
+    "Jianhe": "cemapi'i",
+    "Xiqun": "'eresur"
+  },
+  {
+    "中文": "蹲下",
+    "Nanwang": "magalragalr",
+    "Zhiben": "malihutut",
+    "Jianhe": "malihutut",
+    "Xiqun": "matuhutuh"
+  },
+  {
+    "中文": "身體",
+    "Nanwang": "dradrek",
+    "Zhiben": "zazek",
+    "Jianhe": "dadek",
+    "Xiqun": "zazek"
+  },
+  {
+    "中文": "躺",
+    "Nanwang": "miedreng",
+    "Zhiben": "mi'ezeng",
+    "Jianhe": "miyahayang /i'edeng",
+    "Xiqun": "i'ezeng"
+  },
+  {
+    "中文": "車子",
+    "Nanwang": "palidring",
+    "Zhiben": "palizing",
+    "Jianhe": "paliding",
+    "Xiqun": "palizing"
+  },
+  {
+    "中文": "車站",
+    "Nanwang": "siyataw",
+    "Zhiben": "siyataw",
+    "Jianhe": "ngalangalayan",
+    "Xiqun": "siyataw"
+  },
+  {
+    "中文": "輕(重量)",
+    "Nanwang": "apeap",
+    "Zhiben": "atra'alr",
+    "Jianhe": "ace'alr",
+    "Xiqun": "atra'alr"
+  },
+  {
+    "中文": "輪胎",
+    "Nanwang": "taiya",
+    "Zhiben": "taiya",
+    "Jianhe": "kiling",
+    "Xiqun": "tayya"
+  },
+  {
+    "中文": "辣",
+    "Nanwang": "galrem",
+    "Zhiben": "halrem",
+    "Jianhe": "halrem",
+    "Xiqun": "halrem/nana"
+  },
+  {
+    "中文": "辣椒(通稱)",
+    "Nanwang": "kamangulr",
+    "Zhiben": "kamangulr",
+    "Jianhe": "kamangulr",
+    "Xiqun": "kamangulr"
+  },
+  {
+    "中文": "近",
+    "Nanwang": "adalrep",
+    "Zhiben": "adalrep",
+    "Jianhe": "adalrep",
+    "Xiqun": "adalrep"
+  },
+  {
+    "中文": "追",
+    "Nanwang": "melrulruy",
+    "Zhiben": "'emeva'evang",
+    "Jianhe": "venerlrang",
+    "Xiqun": "verelrang"
+  },
+  {
+    "中文": "這個",
+    "Nanwang": "idrini",
+    "Zhiben": "ini",
+    "Jianhe": "ini",
+    "Xiqun": "ini"
+  },
+  {
+    "中文": "這裡",
+    "Nanwang": "kadrini",
+    "Zhiben": "kani",
+    "Jianhe": "kani",
+    "Xiqun": "kani"
+  },
+  {
+    "中文": "進入",
+    "Nanwang": "musabak",
+    "Zhiben": "musavak",
+    "Jianhe": "musavak",
+    "Xiqun": "musavak"
+  },
+  {
+    "中文": "遇到",
+    "Nanwang": "maretrebung",
+    "Zhiben": "martrevung",
+    "Jianhe": "pacepa",
+    "Xiqun": "kiretrevung"
+  },
+  {
+    "中文": "過貓",
+    "Nanwang": "pa'at",
+    "Zhiben": "pa'at",
+    "Jianhe": "pa'at",
+    "Xiqun": "pa'at"
+  },
+  {
+    "中文": "道路",
+    "Nanwang": "dalan",
+    "Zhiben": "dalan/ dadalan",
+    "Jianhe": "dalan",
+    "Xiqun": "dalan"
+  },
+  {
+    "中文": "遠",
+    "Nanwang": "adawilr",
+    "Zhiben": "adawilr",
+    "Jianhe": "adawilr",
+    "Xiqun": "adawilr"
+  },
+  {
+    "中文": "遲到",
+    "Nanwang": "puwariyari",
+    "Zhiben": "piwari",
+    "Jianhe": "piwari",
+    "Xiqun": "puwari"
+  },
+  {
+    "中文": "遺失",
+    "Nanwang": "maatelr",
+    "Zhiben": "malremes",
+    "Jianhe": "malremes",
+    "Xiqun": "mu'atelr"
+  },
+  {
+    "中文": "還(尚未)",
+    "Nanwang": "adri driya",
+    "Zhiben": "'azi ziya",
+    "Jianhe": "diya",
+    "Xiqun": "ziya"
+  },
+  {
+    "中文": "那個",
+    "Nanwang": "idrunu",
+    "Zhiben": "izu",
+    "Jianhe": "idu",
+    "Xiqun": "iziyu"
+  },
+  {
+    "中文": "那裡",
+    "Nanwang": "kadriyu",
+    "Zhiben": "kazu",
+    "Jianhe": "kadu",
+    "Xiqun": "kaziyu"
+  },
+  {
+    "中文": "部落",
+    "Nanwang": "drekalr",
+    "Zhiben": "zekalr",
+    "Jianhe": "dekalr",
+    "Xiqun": "zekalr"
+  },
+  {
+    "中文": "配偶",
+    "Nanwang": "kataguwin",
+    "Zhiben": "turuma'an",
+    "Jianhe": "turuma'an",
+    "Xiqun": "'azin"
+  },
+  {
+    "中文": "酒",
+    "Nanwang": "eraw",
+    "Zhiben": "kutra",
+    "Jianhe": "kuca",
+    "Xiqun": "kutra"
+  },
+  {
+    "中文": "酒醉",
+    "Nanwang": "maliyay",
+    "Zhiben": "maliyay",
+    "Jianhe": "maliyay",
+    "Xiqun": "liyay"
+  },
+  {
+    "中文": "酸",
+    "Nanwang": "aresem",
+    "Zhiben": "'aresem",
+    "Jianhe": "'aresem",
+    "Xiqun": "'aresem"
+  },
+  {
+    "中文": "醫生",
+    "Nanwang": "ising",
+    "Zhiben": "ising",
+    "Jianhe": "ising",
+    "Xiqun": "ising"
+  },
+  {
+    "中文": "醬油",
+    "Nanwang": "tawiyu",
+    "Zhiben": "tauiyu",
+    "Jianhe": "tawyu",
+    "Xiqun": "tawyu"
+  },
+  {
+    "中文": "重(重量)",
+    "Nanwang": "aludrun",
+    "Zhiben": "'aluzun",
+    "Jianhe": "aludun",
+    "Xiqun": "aluzun"
+  },
+  {
+    "中文": "野百合",
+    "Nanwang": "patrakatrakayan",
+    "Zhiben": "lriyatra'",
+    "Jianhe": "lriyaca'",
+    "Xiqun": "lruwasa"
+  },
+  {
+    "中文": "野草莓",
+    "Nanwang": "tirungrung",
+    "Zhiben": "'atrilunglung",
+    "Jianhe": "lungilung",
+    "Xiqun": "rungirung"
+  },
+  {
+    "中文": "野鴿子",
+    "Nanwang": "tutur",
+    "Zhiben": "punapunay",
+    "Jianhe": "tutur",
+    "Xiqun": "tutur"
+  },
+  {
+    "中文": "量測",
+    "Nanwang": "benakesiw",
+    "Zhiben": "venakesiw",
+    "Jianhe": "vakesiw",
+    "Xiqun": "vakesiw"
+  },
+  {
+    "中文": "針",
+    "Nanwang": "daum",
+    "Zhiben": "daum",
+    "Jianhe": "dawum",
+    "Xiqun": "daum"
+  },
+  {
+    "中文": "釣具",
+    "Nanwang": "pangasipan",
+    "Zhiben": "pangasip",
+    "Jianhe": "pangangasipan",
+    "Xiqun": "pangasip"
+  },
+  {
+    "中文": "釣竿",
+    "Nanwang": "pangasipan",
+    "Zhiben": "pangasip",
+    "Jianhe": "pangasipan",
+    "Xiqun": "pangasip"
+  },
+  {
+    "中文": "釣魚",
+    "Nanwang": "pangasip",
+    "Zhiben": "pangangasip",
+    "Jianhe": "pangasip",
+    "Xiqun": "pangasip"
+  },
+  {
+    "中文": "鈍的",
+    "Nanwang": "idrelan",
+    "Zhiben": "muizel",
+    "Jianhe": "muider",
+    "Xiqun": "musizel/muizel/'izelan"
+  },
+  {
+    "中文": "鉤子",
+    "Nanwang": "kakawil",
+    "Zhiben": "kakawil",
+    "Jianhe": "kakawilan",
+    "Xiqun": "kakawil"
+  },
+  {
+    "中文": "鋤草",
+    "Nanwang": "merebay",
+    "Zhiben": "remevay",
+    "Jianhe": "marevay",
+    "Xiqun": "revay"
+  },
+  {
+    "中文": "鋤頭",
+    "Nanwang": "pitaw",
+    "Zhiben": "pitaw",
+    "Jianhe": "pitaw",
+    "Xiqun": "pitaw"
+  },
+  {
+    "中文": "鋸子",
+    "Nanwang": "riyadraridr",
+    "Zhiben": "rizariz",
+    "Jianhe": "rirarid",
+    "Xiqun": "rirariz"
+  },
+  {
+    "中文": "錢",
+    "Nanwang": "paisu",
+    "Zhiben": "paisu",
+    "Jianhe": "paysu",
+    "Xiqun": "paisu"
+  },
+  {
+    "中文": "鍋鏟",
+    "Nanwang": "siyansi",
+    "Zhiben": "tiyansi",
+    "Jianhe": "siyansi",
+    "Xiqun": "tratriyur"
+  },
+  {
+    "中文": "鍬形蟲",
+    "Nanwang": "beru",
+    "Zhiben": "palre'elre'etan",
+    "Jianhe": "verarangan",
+    "Xiqun": "pa'et'et/palre'elre'etan"
+  },
+  {
+    "中文": "鎖上",
+    "Nanwang": "sukesuki",
+    "Zhiben": "tra'tra'i",
+    "Jianhe": "cema'ca'",
+    "Xiqun": "tra'tra'"
+  },
+  {
+    "中文": "鏡子",
+    "Nanwang": "paelriwangan",
+    "Zhiben": "pa'alriwangan",
+    "Jianhe": "pa'elriwangan",
+    "Xiqun": "pa'elralriwangan"
+  },
+  {
+    "中文": "鐘錶",
+    "Nanwang": "tuki",
+    "Zhiben": "tuki",
+    "Jianhe": "tuki",
+    "Xiqun": "tuki"
+  },
+  {
+    "中文": "鐮刀",
+    "Nanwang": "kawkaw",
+    "Zhiben": "ringaw",
+    "Jianhe": "lingaw",
+    "Xiqun": "kawkaw"
+  },
+  {
+    "中文": "鐵釘",
+    "Nanwang": "pasek",
+    "Zhiben": "trehahetreh",
+    "Jianhe": "caheceh",
+    "Xiqun": "pasek"
+  },
+  {
+    "中文": "鐵鎚",
+    "Nanwang": "tuwaketuk",
+    "Zhiben": "tuaktuk",
+    "Jianhe": "tuktuk",
+    "Xiqun": "tuwaktuk"
+  },
+  {
+    "中文": "長官",
+    "Nanwang": "taygin",
+    "Zhiben": "ayawan",
+    "Jianhe": "ayawan",
+    "Xiqun": "tayhin"
+  },
+  {
+    "中文": "長豆",
+    "Nanwang": "balratung",
+    "Zhiben": "valratrung",
+    "Jianhe": "niwas",
+    "Xiqun": "lripilrip/valratung"
+  },
+  {
+    "中文": "門",
+    "Nanwang": "alreban",
+    "Zhiben": "'alrevan",
+    "Jianhe": "'alrevan",
+    "Xiqun": "'alrevan"
+  },
+  {
+    "中文": "門牙",
+    "Nanwang": "guwategut",
+    "Zhiben": "huwatehut",
+    "Jianhe": "huwatuhut",
+    "Xiqun": "huwatehut"
+  },
+  {
+    "中文": "閃電",
+    "Nanwang": "treli",
+    "Zhiben": "kemipapekip",
+    "Jianhe": "kemelikelip",
+    "Xiqun": "truli'"
+  },
+  {
+    "中文": "開墾",
+    "Nanwang": "pamatang",
+    "Zhiben": "remaravi",
+    "Jianhe": "remavi",
+    "Xiqun": "meravi"
+  },
+  {
+    "中文": "開始",
+    "Nanwang": "kemirami",
+    "Zhiben": "puteha",
+    "Jianhe": "puteha / kimirakad",
+    "Xiqun": "kemirakaz"
+  },
+  {
+    "中文": "閩南人",
+    "Nanwang": "Pairang",
+    "Zhiben": "payrang",
+    "Jianhe": "Payrang",
+    "Xiqun": "payrang"
+  },
+  {
+    "中文": "關(門；窗)",
+    "Nanwang": "emalreb",
+    "Zhiben": "'emelrev",
+    "Jianhe": "ma'alrev",
+    "Xiqun": "'alrev"
+  },
+  {
+    "中文": "關上",
+    "Nanwang": "alrebi",
+    "Zhiben": "'alrevi",
+    "Jianhe": "alrevi",
+    "Xiqun": "'alrev"
+  },
+  {
+    "中文": "關節",
+    "Nanwang": "butrel",
+    "Zhiben": "alu'an",
+    "Jianhe": "alu'an",
+    "Xiqun": "alu'an"
+  },
+  {
+    "中文": "阻擋",
+    "Nanwang": "temala",
+    "Zhiben": "temala'",
+    "Jianhe": "temala'",
+    "Xiqun": "tala'"
+  },
+  {
+    "中文": "陰天",
+    "Nanwang": "kemutrem",
+    "Zhiben": "zemekelem",
+    "Jianhe": "'emaremeng",
+    "Xiqun": "kemutrem"
+  },
+  {
+    "中文": "雄性(動物)",
+    "Nanwang": "ukang",
+    "Zhiben": "valras",
+    "Jianhe": "valras",
+    "Xiqun": "ma'inay"
+  },
+  {
+    "中文": "雄性動物生殖器官",
+    "Nanwang": "etras",
+    "Zhiben": "valras",
+    "Jianhe": "'utilr",
+    "Xiqun": "'utilr"
+  },
+  {
+    "中文": "雌性(動物)",
+    "Nanwang": "tawinaan",
+    "Zhiben": "vavayan",
+    "Jianhe": "vavayan",
+    "Xiqun": "vavay"
+  },
+  {
+    "中文": "雖然",
+    "Nanwang": "an... kemuda",
+    "Zhiben": "kara",
+    "Jianhe": "ara",
+    "Xiqun": "ara"
+  },
+  {
+    "中文": "雜草",
+    "Nanwang": "raman",
+    "Zhiben": "tralunan",
+    "Jianhe": "caluwalun",
+    "Xiqun": "tralutralun"
+  },
+  {
+    "中文": "雞",
+    "Nanwang": "terekuk(turekuk)",
+    "Zhiben": "vuyu",
+    "Jianhe": "vuyu",
+    "Xiqun": "turukuk"
+  },
+  {
+    "中文": "雞寮",
+    "Nanwang": "puwaterekukan",
+    "Zhiben": "puvuyuyan",
+    "Jianhe": "puvuyuwan",
+    "Xiqun": "puwaturukukan"
+  },
+  {
+    "中文": "雨",
+    "Nanwang": "udalr",
+    "Zhiben": "'udalr",
+    "Jianhe": "'udalr",
+    "Xiqun": "'udalr"
+  },
+  {
+    "中文": "雨停",
+    "Nanwang": "madranga na udalr",
+    "Zhiben": "dali'",
+    "Jianhe": "dali'",
+    "Xiqun": "dali'"
+  },
+  {
+    "中文": "雨傘",
+    "Nanwang": "kalipang",
+    "Zhiben": "suku",
+    "Jianhe": "suku",
+    "Xiqun": "suku"
+  },
+  {
+    "中文": "雪",
+    "Nanwang": "urelra",
+    "Zhiben": "verelra",
+    "Jianhe": "urelra",
+    "Xiqun": "urelra"
+  },
+  {
+    "中文": "雲",
+    "Nanwang": "kutrem",
+    "Zhiben": "runev",
+    "Jianhe": "runev",
+    "Xiqun": "kutrem"
+  },
+  {
+    "中文": "雷",
+    "Nanwang": "drerung",
+    "Zhiben": "zerung",
+    "Jianhe": "derung",
+    "Xiqun": "zerung"
+  },
+  {
+    "中文": "電冰箱",
+    "Nanwang": "palralritekan",
+    "Zhiben": "palralritekan",
+    "Jianhe": "lralritekan",
+    "Xiqun": "lralritekan"
+  },
+  {
+    "中文": "電燈",
+    "Nanwang": "dingki",
+    "Zhiben": "dingki",
+    "Jianhe": "dingki",
+    "Xiqun": "lrawlraw/tinghuy"
+  },
+  {
+    "中文": "電腦",
+    "Nanwang": "tinnaw",
+    "Zhiben": "tinnaw",
+    "Jianhe": "tinnaw",
+    "Xiqun": "tēnnaw"
+  },
+  {
+    "中文": "電視",
+    "Nanwang": "tilibi",
+    "Zhiben": "tilivi",
+    "Jianhe": "tilibi",
+    "Xiqun": "tilivi"
+  },
+  {
+    "中文": "電話",
+    "Nanwang": "dingwa",
+    "Zhiben": "dingwa",
+    "Jianhe": "dingwa",
+    "Xiqun": "dingwa"
+  },
+  {
+    "中文": "露水",
+    "Nanwang": "ulas",
+    "Zhiben": "'ulas",
+    "Jianhe": "'uras",
+    "Xiqun": "'ulas"
+  },
+  {
+    "中文": "青年",
+    "Nanwang": "bangesaran",
+    "Zhiben": "vangesaran",
+    "Jianhe": "vangesaran",
+    "Xiqun": "vangesaran"
+  },
+  {
+    "中文": "青蛙",
+    "Nanwang": "tabilraelra",
+    "Zhiben": "kakiyas",
+    "Jianhe": "kakiyas",
+    "Xiqun": "kakiyas"
+  },
+  {
+    "中文": "鞋子",
+    "Nanwang": "trukap",
+    "Zhiben": "kuce",
+    "Jianhe": "kuce",
+    "Xiqun": "trukap"
+  },
+  {
+    "中文": "鞭打",
+    "Nanwang": "penitepit",
+    "Zhiben": "semilrepit",
+    "Jianhe": "penukpuk",
+    "Xiqun": "pitpit"
+  },
+  {
+    "中文": "頭",
+    "Nanwang": "tranguru",
+    "Zhiben": "tranguru'",
+    "Jianhe": "canguru'",
+    "Xiqun": "tranguru'"
+  },
+  {
+    "中文": "頭帶(女用背籃用)",
+    "Nanwang": "pilra",
+    "Zhiben": "pilra",
+    "Jianhe": "padekan",
+    "Xiqun": "pilra"
+  },
+  {
+    "中文": "頭蝨",
+    "Nanwang": "kutru",
+    "Zhiben": "kutru",
+    "Jianhe": "kucu",
+    "Xiqun": "kutru"
+  },
+  {
+    "中文": "頭飾",
+    "Nanwang": "iris",
+    "Zhiben": "pinadangan i tranguru'",
+    "Jianhe": "'apuc i canguru'",
+    "Xiqun": "pakavulay i tranguru'"
+  },
+  {
+    "中文": "頭髮",
+    "Nanwang": "arebu",
+    "Zhiben": "'arevu",
+    "Jianhe": "'arevu",
+    "Xiqun": "'arevu"
+  },
+  {
+    "中文": "頸子",
+    "Nanwang": "tangedrulr",
+    "Zhiben": "tu'enunan",
+    "Jianhe": "ni'en",
+    "Xiqun": "tu'enunan"
+  },
+  {
+    "中文": "額頭",
+    "Nanwang": "katrung",
+    "Zhiben": "tungur",
+    "Jianhe": "tungur",
+    "Xiqun": "tungur"
+  },
+  {
+    "中文": "顏色",
+    "Nanwang": "edad",
+    "Zhiben": "pinivalrayan",
+    "Jianhe": "dulram/pinivalrayan",
+    "Xiqun": "pinivalrayan"
+  },
+  {
+    "中文": "風",
+    "Nanwang": "bali",
+    "Zhiben": "vali",
+    "Jianhe": "vali",
+    "Xiqun": "vali"
+  },
+  {
+    "中文": "颱風",
+    "Nanwang": "bariwan",
+    "Zhiben": "variw",
+    "Jianhe": "variw",
+    "Xiqun": "variw"
+  },
+  {
+    "中文": "飛",
+    "Nanwang": "mubii",
+    "Zhiben": "muvii",
+    "Jianhe": "muvii",
+    "Xiqun": "muvii"
+  },
+  {
+    "中文": "飛鼠",
+    "Nanwang": "nawan",
+    "Zhiben": "nawan",
+    "Jianhe": "rava",
+    "Xiqun": "nawan"
+  },
+  {
+    "中文": "飯",
+    "Nanwang": "tinalrek",
+    "Zhiben": "maderu",
+    "Jianhe": "maderu",
+    "Xiqun": "maderu"
+  },
+  {
+    "中文": "飯鍋",
+    "Nanwang": "siuy",
+    "Zhiben": "siuy",
+    "Jianhe": "siwi",
+    "Xiqun": "siuy"
+  },
+  {
+    "中文": "飽食",
+    "Nanwang": "betreker",
+    "Zhiben": "vetratrekeran",
+    "Jianhe": "vuceker",
+    "Xiqun": "vetreker"
+  },
+  {
+    "中文": "餌",
+    "Nanwang": "payririlr",
+    "Zhiben": "paakan",
+    "Jianhe": "pa'ilringan da akanan",
+    "Xiqun": "puwaekan"
+  },
+  {
+    "中文": "餓",
+    "Nanwang": "sabelaw",
+    "Zhiben": "savelaw",
+    "Jianhe": "savelaw",
+    "Xiqun": "savelaw"
+  },
+  {
+    "中文": "餵食",
+    "Nanwang": "pakan",
+    "Zhiben": "puudungay pakan",
+    "Jianhe": "paakan",
+    "Xiqun": "paekan"
+  },
+  {
+    "中文": "香蕉",
+    "Nanwang": "belrbelr",
+    "Zhiben": "velrvelr",
+    "Jianhe": "velrvelr",
+    "Xiqun": "velrvelr"
+  },
+  {
+    "中文": "馬",
+    "Nanwang": "ba",
+    "Zhiben": "eva",
+    "Jianhe": "eva/uma",
+    "Xiqun": "eva"
+  },
+  {
+    "中文": "高(身高)",
+    "Nanwang": "asatr",
+    "Zhiben": "atras",
+    "Jianhe": "tihasar",
+    "Xiqun": "tihasar"
+  },
+  {
+    "中文": "高興",
+    "Nanwang": "semangal",
+    "Zhiben": "semangal",
+    "Jianhe": "semangal",
+    "Xiqun": "semangal"
+  },
+  {
+    "中文": "鬼魂",
+    "Nanwang": "biruwa",
+    "Zhiben": "viruwa",
+    "Jianhe": "viruwa",
+    "Xiqun": "viruwa"
+  },
+  {
+    "中文": "魚",
+    "Nanwang": "kuraw",
+    "Zhiben": "vulraw",
+    "Jianhe": "vulraw",
+    "Xiqun": "vulraw/kuraw"
+  },
+  {
+    "中文": "魚網",
+    "Nanwang": "tabukulr",
+    "Zhiben": "savang",
+    "Jianhe": "tavukulr",
+    "Xiqun": "travukulr"
+  },
+  {
+    "中文": "鳥",
+    "Nanwang": "ayam",
+    "Zhiben": "'ayam",
+    "Jianhe": "'ayam",
+    "Xiqun": "'ayam"
+  },
+  {
+    "中文": "鳳梨",
+    "Nanwang": "pangudralr",
+    "Zhiben": "pangudangudalr",
+    "Jianhe": "re'a",
+    "Xiqun": "re'a"
+  },
+  {
+    "中文": "鴨",
+    "Nanwang": "maymay",
+    "Zhiben": "maymay",
+    "Jianhe": "maymay",
+    "Xiqun": "maymay"
+  },
+  {
+    "中文": "鵝",
+    "Nanwang": "gaciw",
+    "Zhiben": "gaciyo",
+    "Jianhe": "gaciyo",
+    "Xiqun": "gaciyo"
+  },
+  {
+    "中文": "鹹",
+    "Nanwang": "labeni",
+    "Zhiben": "'asilr",
+    "Jianhe": "'asilr",
+    "Xiqun": "'asilr"
+  },
+  {
+    "中文": "鹽",
+    "Nanwang": "ateri (iyam)",
+    "Zhiben": "'ateri",
+    "Jianhe": "'ateli",
+    "Xiqun": "iyam"
+  },
+  {
+    "中文": "麥",
+    "Nanwang": "emi",
+    "Zhiben": "emi",
+    "Jianhe": "mugi",
+    "Xiqun": "emi/mugi"
+  },
+  {
+    "中文": "麵",
+    "Nanwang": "tuwami",
+    "Zhiben": "tuwami",
+    "Jianhe": "tuwami",
+    "Xiqun": "tuwami"
+  },
+  {
+    "中文": "麵粉",
+    "Nanwang": "udungku",
+    "Zhiben": "udungku",
+    "Jianhe": "udungku",
+    "Xiqun": "'emu"
+  },
+  {
+    "中文": "麻雀",
+    "Nanwang": "sasali",
+    "Zhiben": "sasali",
+    "Jianhe": "sasali",
+    "Xiqun": "sasali"
+  },
+  {
+    "中文": "黃色的",
+    "Nanwang": "milanang",
+    "Zhiben": "malulu'",
+    "Jianhe": "maruru'",
+    "Xiqun": "malulu'"
+  },
+  {
+    "中文": "黑暗",
+    "Nanwang": "aremeng",
+    "Zhiben": "'aremeng",
+    "Jianhe": "ka'aremengan",
+    "Xiqun": "'aremeng"
+  },
+  {
+    "中文": "黑色",
+    "Nanwang": "udreudrem",
+    "Zhiben": "'uze'uzem",
+    "Jianhe": "'ude'udem",
+    "Xiqun": "'uze'uzem"
+  },
+  {
+    "中文": "點火",
+    "Nanwang": "padepe",
+    "Zhiben": "hemeritr",
+    "Jianhe": "padepe'",
+    "Xiqun": "pasetik/sulretr"
+  },
+  {
+    "中文": "鼻子",
+    "Nanwang": "tingeran",
+    "Zhiben": "ungtran",
+    "Jianhe": "ungcan",
+    "Xiqun": "ungetran"
+  },
+  {
+    "中文": "鼻涕",
+    "Nanwang": "unger",
+    "Zhiben": "ungetr",
+    "Jianhe": "ungec",
+    "Xiqun": "ungetr"
+  }
+]

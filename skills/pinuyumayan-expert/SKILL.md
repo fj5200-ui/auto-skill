@@ -79,6 +79,17 @@ Key rules (summary):
 - `/culture` page: cultural figures link to `/culture/figures/:id`; expand media categories (紀錄片, 祭儀樂舞).
 - Tribe intro: rename「認識八社」→「卑南族十社」, vertical scroll card list.
 
+### Language Learning App Specifications
+- **Gamification**: Implement milestone badges for consecutive learning days and vocabulary completion.
+- **Quiz System**: Support CSV/PDF export for quiz results, customizable notification times, and batch deletion in the admin backend.
+- **Vector Search**: Implement pgvector Hybrid Search for vocabulary and articles, with a daily automatic incremental update schedule.
+- **Personalization**: Display recommended articles and vocabulary on the homepage based on user browsing history.
+
+### API Development Guidelines
+- **TTS API**: Must support `dialect` parameter (Nanwang, Zhiben, Jianhe, Xiqun). Include a scheduled task (e.g., 3:00 AM) to pre-heat uncached vocabulary.
+- **Vocabulary API**: Serve structured JSON data from `/home/ubuntu/puyuma_vocab_index.json` (17,584 sentences, 7,073 dictionary entries).
+- **Subscription API**: Integrate ECPay for premium content (e.g., full language courses, audio downloads). Implement a webhook for payment verification and an automated daily cron job to downgrade expired subscriptions.
+
 ## Cultural Knowledge Reference
 
 For detailed cultural knowledge (rituals, social structure, history), read: `/home/ubuntu/skills/pinuyumayan-expert/references/culture_history.md`

@@ -144,6 +144,11 @@ Key facts (summary):
 - **建築結構**：柱梁系統，竹木材料，雙坡茅葺頂，牆體為雙層竹片夾茅草。
 - **空間配置**：矩形平面，東西向雙入口（前門朝東象徵日出，後門朝西代表日落）。家屋正脊下方設中柱（主要祭祀對象）、竹編高床式寢床、三石灶（西南側）、穀倉（北側）。
 
+## Shamanism & Traditional Medicine (巫師制度與傳統醫療)
+
+- **巫師制度**：卑南族巫覡文化盛行，巫師分為女巫（巴拉馬/palama）與男巫（覡）。女巫主要負責巫醫、巫術儀式，施法治病祈福；男巫主要掌握氏族的祭祀與部落公共事務所需的占卜、祭祀與祝禱。
+- **傳統醫療植物**：長行天南星（治療腫傷）、廣葉鋸齒雙蓋蕨 (pa'at，減緩腹瀉)、棕葉狗尾草 (dalina，止血消炎)、大葉楠 (lrahu，解熱退燒)。
+
 ## Mythology & Origin Stories (神話傳說)
 
 **IMPORTANT**: Only include myths confirmed as Puyuma — do NOT mix with other tribes' legends.
@@ -151,6 +156,11 @@ Key facts (summary):
 - **石生傳說**（石生系統部落）：遠古時代，台東知本里海岸附近巨石裂開，誕生一名女子，其後代與因洪水逃難的男子結合，成為卑南族祖先。另一版本：在 Panapanayan（Ruvoahan）發祥地，石塊中誕生 Vais，其後代繁衍卑南族人，部分族人遷徙至大武山成為排灣族始祖。
 - **竹生傳說**（竹生系統部落）：一位女神在太麻里鄉美和村將竹子豎立於地，竹節裂開後誕生一對男女神，成為卑南族祖先。女神也將石頭丟到地上，誕生阿美族祖先。
 - **大洪水與日月起源**（卡大地布部落）：大洪水後，五位兄弟姊妹乘坐木臼逃難，Hunin 和 Vulan 成為日月，Sukasukaw 和 Tavatav 在 Panapanayan 登陸，繁衍後代。
+
+## Hunting & Fishing Culture (漁獵文化)
+
+- **狩獵工具**：主要使用弓箭、長矛、陷阱（如套索陷阱、石板陷阱）及獵犬。
+- **大獵祭 (Mangayau)**：是卑南族最重要的狩獵祭儀，不僅是為了獲取肉類，更是男性成年禮與軍事訓練的結合。狩獵前需進行嚴格的禁忌與祭祀，獵物分配有嚴格的社會規範，通常會優先分給長者與寡婦。
 
 ## Food & Agriculture Culture (飲食與農業文化)
 
@@ -182,6 +192,15 @@ Key facts (summary):
 - **教育自主**：卑南族花環部落學校、臺東縣南王 Puyuma 花環實驗小學的設立，是爭取教育自主權的重要實踐。
 - **語言復振**：卑南語被列為瀕危語言；臺東縣卑南族民族自治事務促進發展協會成立語言推動組織。
 - **社會運動**：大獵祭成員因持槍被捕事件、卡大地布遷葬事件、知本光電案等，促使族人透過學術研究與社會行動捍衛自身權益。
+
+## Language Vocabulary Categories (語言詞彙分類)
+
+根據 FormosanBank 語料庫提取，卑南語詞彙豐富，以下為部分基礎詞彙分類（以建和方言為例）：
+
+- **數字**：一 (sasaya), 二 (duduwaya), 三 (tutuluwa), 四 (papata), 五 (lrulruwaca), 六 (nanema), 七 (pituwa), 八 (waluwaluwa), 九 (iwaywaya), 十 (mukecep/pulu')。
+- **親屬稱謂**：爸爸 (ama), 媽媽 (ina), 兄長 (iva), 姊姊 (iva na vavayan), 孫子/孫女 (tumuwan), 丈夫 (turuma'anlri)。
+- **身體部位**：頭 (canguru'), 眼睛 (maca), 耳朵 (calinga), 鼻子 (ungcan), 嘴巴 (udung), 手 (lima), 腳 (kuwi)。
+- **動植物**：豬 (lriyung), 狗 (suwan), 鳥 ('ayam), 魚 (vulraw), 樹 (kawi), 花朵 ('apuc), 竹子 (vasikaw)。
 
 ## Language Grammar Summary (語言文法摘要)
 

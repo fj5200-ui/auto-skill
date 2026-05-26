@@ -342,3 +342,87 @@ Key facts (summary):
 337	- **《散步歌》 (taulu)**：輕鬆愉快的日常歌謠。
 338	- **《祝福》 (kikarun)**：用於婚禮或慶典的祝福歌曲。
 339	- **《思故鄉》 (lralra'i)**：抒發對部落與親人的深切思念。
+
+## Traditional Trade & Exchange (傳統貿易與交換制度)
+
+**IMPORTANT**: Only include trade practices confirmed as Puyuma — do NOT mix with other tribes' customs.
+
+- **以物易物**：卑南族傳統上以農產品（小米、地瓜）、獵物（鹿皮、山豬肉）及手工藝品（月桃編織、十字繡布料）與鄰近族群進行以物易物的貿易。
+- **貝珠與琉璃珠**：貝珠（takus）與琉璃珠（vurasi）是傳統社會中重要的財富象徵與交換媒介，常用於婚禮聘禮、巫術儀式及社會地位的展示。
+- **與漢人貿易**：清代以後，卑南族（尤其是南王部落）透過與漢人商人的貿易，取得鐵器、布料、食鹽等物資，並以鹿皮、藤製品等換取。卑南王 Pinadray 的強大政治地位，使南王部落成為後山地區的重要貿易中心。
+- **部落間禮物交換**：各部落間透過定期的禮物交換（如祭典時的互訪與饋贈）維繫政治聯盟與社會關係。
+
+## Warfare Culture (戰爭文化)
+
+**IMPORTANT**: Only include warfare practices confirmed as Puyuma — do NOT mix with other tribes' practices.
+
+- **獵首制度**：卑南族歷史上曾有獵首（出草）的習俗，但相較於泰雅族、賽夏族等族群，卑南族的獵首行為與大獵祭（Mangayau）密切相關，主要具有儀式性意義，而非純粹的戰爭行為。
+- **軍事組織**：卑南族的年齡階級制度本身即是一種軍事組織，青年（Palakuwan 成員）是部落的主要武力，負責保衛部落安全。
+- **武器**：傳統武器包括弓箭、長矛、番刀（腰刀）及藤盾。番刀不僅是戰鬥武器，也是男性成年的身份象徵。
+- **大庄事件（1888）**：光緒 14 年，卑南族與阿美族等族群聯合反抗清朝統治，是後山地區重要的武裝抗清事件。
+
+## Traditional Food Preparation (傳統食物製作)
+
+**IMPORTANT**: Only include food practices confirmed as Puyuma — do NOT mix with other tribes' recipes.
+
+- **小米酒（pinangan）釀造流程**：
+  1. 採收成熟小米，脫殼後洗淨。
+  2. 蒸熟小米後攤涼。
+  3. 加入酒麴（傳統以特定植物製成）拌勻。
+  4. 置於陶甕或木桶中密封發酵，約 7-14 天。
+  5. 過濾後即可飲用，酒精濃度約 5-10%。
+  6. 小米酒是祭典（如猴祭、大獵祭、收穫祭）中不可或缺的祭品，也是待客之道的重要表現。
+- **avai（月桃葉糯米糕）製作**：
+  1. 糯米浸泡一夜後瀝乾。
+  2. 以月桃葉（lra'up）鋪底，填入糯米與鹹豬肉（或甜餡）。
+  3. 用月桃葉包裹成長方形，以月桃莖絲綑綁固定。
+  4. 蒸煮約 2-3 小時至熟透。
+  5. avai 是卑南族重要慶典（如婚禮、年祭）的必備食品，也常作為祭品。
+- **醃肉（nirudan / linungun）**：將豬肉或鹿肉以鹽巴、小米糠醃製，置於陶甕中密封發酵，是傳統的食物保存方式。
+
+## Traditional Education & Knowledge Transmission (傳統教育與知識傳承)
+
+- **年齡階級的教育功能**：男童約 12 歲進入少年會所（Trakuban），由長輩教導狩獵技術、部落歷史、祭典儀式、武器使用及社會規範。青年（Palakuwan）階段則學習更高階的軍事技能、外交談判及部落治理。
+- **女性知識傳承**：女性的知識傳承主要在家庭中進行，由母親或祖母傳授織布（tenun）、月桃編織、料理製作、巫術知識（部分女性）及祭典禮儀。家屋（ruma）是女性知識傳承的核心空間。
+- **口傳歷史**：卑南族的歷史與神話主要透過口傳方式保存，在祭典、聚會或家庭中由長輩講述，歌謠（senay）也是傳遞歷史記憶的重要媒介。
+- **巫師傳承**：女巫（palama）的知識與能力通常在家族內部傳承，由資深女巫選擇並培訓繼承人，學習期間需接受嚴格的儀式訓練。
+
+## Themed Vocabulary (主題詞彙擴充)
+
+以下詞彙從 FormosanBank 情境族語語料庫提取（以建和方言為主，共 3,701 句）：
+
+### 天氣詞彙 (Weather)
+- 天氣 = wari；今天天氣如何 = kumuda na wari harem?
+- 太陽 = makadaw；天氣很熱 = vi'as na wari
+- 雨 = runev；下雨 = murunev
+- 颱風 = variw；秋天有颱風 = sadu variw nu vencaceli
+- 雲 = vitu'en；星星 = rukup；天空 = uniyan
+
+### 情緒詞彙 (Emotions)
+- 喜歡 = sahar；不喜歡 = adi ku sahar
+- 高興 = semangal；非常高興 = salaw ku semangal
+- 快樂 = maruwa（南王方言）
+- 害怕 = mabayar（南王方言）
+- 悲傷 = mabayabay（南王方言）
+
+### 顏色詞彙 (Colors)
+- 紅色 = dangdalang；白色 = vulreci'；藍色 = cangiya
+- 顏色 = cangiya（廣義）；請給我藍色 = 'aylra saya na cangiya na kavang
+
+### 方位詞彙 (Directions)
+- 前面 = nganguwayan；後面 = likudan
+- 上面 = kayan；下面 = talaulep
+- 裡面 = kiyakarun；外面 = (context-dependent)
+
+### 食物詞彙 (Food)
+- 水果 = vuwa'；小米 = dawa；小米田 = 'uma
+- 水桶 = papiya；趕鳥器 = capcapan；鳥 = 'ayam
+- 吃 = mekana；好吃 = imaran
+
+## Modern Political Participation (現代政治參與)
+
+- **立法院原住民代表**：卑南族人曾多次當選立法院原住民族立法委員，積極推動原住民族權益立法。
+- **南志信的政治遺產**：南志信（Sising Katadrepan）是卑南族政治參與的先驅，曾任制憲國民大會代表及首任臺灣省政府委員，為原住民族在政治上爭取發言權。
+- **原住民族基本法**：2005 年通過的《原住民族基本法》明確保障原住民族的自治、土地、文化及語言權利，卑南族人積極參與其立法倡議。
+- **知本光電案**：近年卑南族人積極反對在傳統領域設置光電設施，凸顯原住民族土地主權與能源政策之間的衝突，成為重要的社會運動議題。
+- **大獵祭持槍事件**：卑南族人在大獵祭期間持傳統獵槍遭警方取締，引發族人對傳統文化權利與現代法律之間衝突的廣泛討論。

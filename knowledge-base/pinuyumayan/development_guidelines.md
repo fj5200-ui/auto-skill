@@ -50,7 +50,6 @@
 
 *   **擴充分類**：影音媒體的分類必須擴充，包含「紀錄片 (Documentaries)」、「祭儀樂舞 (Ritual Songs and Dances)」等類型。
 *   **後台管理**：在後台的文化典藏管理中，必須增加專屬的「影音媒體」分頁，用於新增、編輯與刪除媒體資料。
-*   **語音資源整合**：在開發語言學習或 TTS 相關功能時，應優先使用 Google Drive (Folder ID: `1mdzXxD5XQAVLIAdrD5xy3iRI7B3XnlUo`) 中已整理好的 6,600+ 個 MP3 音訊檔案（包含 ePark 與 ILRDF 字典音訊），這些資源已按方言與類別分類完成。
 
 ## 4. 部落介紹頁面規範
 
